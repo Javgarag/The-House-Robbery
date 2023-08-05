@@ -1,0 +1,11 @@
+<table>
+	<editor_groups/>
+	<statics>
+		<table>
+			<unit_data continent="world" mesh_variation="redi_hover" name="units/payday2/vehicles/air_vehicle_blackhawk/vehicle_blackhawk" name_id="vehicle_blackhawk_001" position="50 75 -250" rotation="0 0 0 -1" unit_id="100009"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

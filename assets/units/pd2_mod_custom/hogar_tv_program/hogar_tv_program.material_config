@@ -1,0 +1,10 @@
+<materials version="3">
+    
+    <material name="mat_screen" render_template="generic:DIFFUSE_TEXTURE" version="2">
+        <diffuse_texture file="units/pd2_dlc_arena/architecture/are_int_stage/alesso_screen_switch_df"/>
+    </material>
+    
+    <material name="mat_black" render_template="generic:DIFFUSE_TEXTURE" version="2">
+        <diffuse_texture file="units/black_df" />
+    </material>
+</materials>

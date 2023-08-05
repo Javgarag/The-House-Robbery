@@ -1,0 +1,28 @@
+<xml>
+	<state name="std" type="template_state" segment="base">
+		<default blend="0"/>
+
+		<to	name="car_hogar_arrive"					redirect="std/drive/hogar_vehicle_car_sedan_arrive"/>
+
+	</state>
+
+	<state name="std/empty" type="emptyloop" segment="base">
+		<keys>
+			<key at="9" callback="anim_clbk_empty_full_blend" class_name="base"/>
+			<key at="exit" callback="anim_clbk_empty_exit" class_name="base"/>
+		</keys>
+	</state>
+
+	<state name="std/drive" type="template_state" segment="base">
+		<keys>
+			<key at="enter" callback="anim_clbk_animated_driving" class_name="base" param1="true"/>
+			<key at="exit" callback="anim_clbk_animated_driving" class_name="base" param1="false"/>
+		</keys>
+	</state>
+
+	<state name="std/drive/hogar_vehicle_car_sedan_arrive" type="once" segment="base" speed="0.8">
+		<anim name="anim_car_hogar_arrive"/>
+		<exit name="std/empty"/>
+	</state>	
+
+</xml>

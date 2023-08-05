@@ -1,0 +1,43 @@
+<materials version="3">
+
+    <material name="shadow_caster" render_template="shadow_caster_only" version="2" />
+	
+	<material name="mat_shackle" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture file="units/pd2_dlc_berry/architecture/bry_mountain_tunnel_railings/bry_mountain_tunnel_platform_df" />
+		<bump_normal_texture file="units/payday2/architecture/ind/ind_ext_level/ind_ext_level_stairs_nm" />
+	</material>
+	<material name="mat_shackle_lod" render_template="generic:DIFFUSE_TEXTURE" version="2">
+		<diffuse_texture file="units/pd2_dlc_berry/architecture/bry_mountain_tunnel_railings/bry_mountain_tunnel_platform_df" />
+	</material>
+  <material name="mat_plate" version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP">
+        <diffuse_texture file="units/payday2/architecture/bnk/bnk_int_wall_1_df"/>
+        <bump_normal_texture file="units/payday2/architecture/bnk/bnk_int_wall_1_nm"/>
+  </material>
+  <material name="mat_plate_lod" version="2" render_template="generic:DIFFUSE_TEXTURE">
+        <diffuse_texture file="units/payday2/architecture/bnk/bnk_int_wall_1_df"/>
+  </material>
+    <material name="mtr_files" render_template="effect:DIFFUSE0_TEXTURE:VIEW_ANGLE_FALLOFF_OP" version="2">
+        <diffuse_texture file="units/pd2_mod_pdm/props/grapple_point/gui_grapple_hook"/>
+        <variable value="identity" type="scalar" name="intensity"/>
+        <variable value="2" type="scalar" name="falloff_exp"/>
+    </material>
+    <material name="hud_brackets" render_template="effect:DIFFUSE0_TEXTURE:VIEW_ANGLE_FALLOFF_OP" version="2">
+        <diffuse_texture file="units/gui/gui_brackets_df"/>
+        <variable value="identity" type="scalar" name="intensity"/>
+        <variable value="1" type="scalar" name="falloff_exp"/>
+    </material>
+	<material name="mat_contour" unique="true" version="2" render_template="generic:ALPHA_MASKED:CONTOUR:DIFFUSE_TEXTURE:OPACITY_TEXTURE">
+        <diffuse_texture file="units/white_df"/>
+        <variable value="0 1 0" type="vector3" name="contour_color"/>
+        <variable value="1" type="scalar" name="contour_opacity"/>
+        <opacity_texture file="units/transparent_op"/>
+    </material>
+    <material name="rope_material" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+		<diffuse_texture		file="units/pd2_mod_pdm/props/mantle_indicator_rope_long/rope_df"/>
+		<bump_normal_texture	file="units/pd2_mod_pdm/props/mantle_indicator_rope_long/rope_nm"/>
+    </material>
+    <material name="Hook" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" version="2">
+        <diffuse_texture file="units/pd2_dlc_casino/props/cas_prop_winch/textures/hook_df"/>
+        <bump_normal_texture file="units/pd2_dlc_casino/props/cas_prop_winch/textures/hook_nm"/>
+    </material>
+</materials>

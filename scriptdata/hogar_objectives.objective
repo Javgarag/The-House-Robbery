@@ -1,0 +1,32 @@
+<table>
+	<objective description="obj_hs_open_gate_desc" id="obj_hs_open_gate" text="obj_hs_open_gate"/>
+	<objective description="obj_hs_look_for_loot_desc" id="obj_hs_look_for_loot" text="obj_hs_look_for_loot"/>
+	<objective description="obj_hs_look_for_code_desc" id="obj_hs_look_for_code" text="obj_hs_look_for_code"/>
+	<objective description="obj_hs_look_for_a_way_inside_desc" id="obj_hs_look_for_a_way_inside" text="obj_hs_look_for_a_way_inside"/>
+	<objective amount="4" description="obj_hs_secure_loot_desc" id="obj_hs_secure_loot" text="obj_hs_secure_loot"/>
+	<objective description="obj_hs_escape_desc" id="obj_hs_escape" text="obj_hs_escape"/>
+	<objective description="obj_hs_thermal_drill_delivery_desc" id="obj_hs_thermal_drill_delivery" text="obj_hs_thermal_drill_delivery"/>
+	<objective description="obj_hs_wait_thermal_drill_desc" id="obj_hs_wait_thermal_drill" text="obj_hs_wait_thermal_drill"/>
+	<objective description="obj_hs_collect_drill_desc" id="obj_hs_collect_drill" text="obj_hs_collect_drill"/>
+	<objective description="obj_hs_lit_flare_desc" id="obj_hs_lit_flare" text="obj_hs_lit_flare"/>
+	<objective description="obj_hs_hack_computer_desc" id="obj_hs_hack_computer" text="obj_hs_hack_computer"/>
+	<objective description="obj_hs_choose_approach_desc" id="obj_hs_choose_approach" text="obj_hs_choose_approach"/>
+	<objective description="obj_hs_hide_gensec_desc" id="obj_hs_hide_gensec" text="obj_hs_hide_gensec"/>
+	<objective description="obj_hs_try_another_code_desc" id="obj_hs_try_another_code" text="obj_hs_try_another_code"/>
+	<objective description="obj_hs_erase_footage_desc" id="obj_hs_erase_footage" text="obj_hs_erase_footage"/>
+	<objective description="obj_hs_destroy_cameras_desc" id="obj_hs_destroy_cameras" text="obj_hs_destroy_cameras"/>
+	<objective description="obj_hs_wait_for_alternative_escape_desc" id="obj_hs_wait_for_alternative_escape" text="obj_hs_wait_for_alternative_escape"/>
+	<objective description="obj_hs_timelock_desc" id="obj_hs_timelock" text="obj_hs_timelock"/>
+	<objective description="obj_hs_pickup_harddrive_desc" id="obj_hs_pickup_harddrive" text="obj_hs_pickup_harddrive"/>
+	<objective description="obj_hs_decrypt_hard_drive_desc" id="obj_hs_decrypt_hard_drive" text="obj_hs_decrypt_hard_drive"/>
+	<objective description="obj_hs_wait_for_escape_desc" id="obj_hs_wait_for_escape" text="obj_hs_wait_for_escape"/>
+	<objective description="obj_hs_find_boat_desc" id="obj_hs_find_boat" text="obj_hs_find_boat"/>
+	<objective description="obj_hs_disable_lasers_desc" id="obj_hs_disable_lasers" text="obj_hs_disable_lasers"/>
+	<objective description="obj_hs_wait_for_new_plan_desc" id="obj_hs_wait_for_new_plan" text="obj_hs_wait_for_new_plan"/>
+	<objective description="obj_hs_repair_connection_desc" id="obj_hs_repair_connection" text="obj_hs_repair_connection"/>
+	<objective description="obj_hs_override_lockdown_desc" id="obj_hs_override_lockdown" text="obj_hs_override_lockdown"/>
+	<objective description="obj_hs_recover_hdd_desc" id="obj_hs_recover_hdd" text="obj_hs_recover_hdd"/>
+	<objective description="obj_hs_repair_timelock_desc" id="obj_hs_repair_timelock" text="obj_hs_repair_timelock"/>
+	<objective description="obj_hs_find_timelock_codes_desc" id="obj_hs_find_timelock_codes" text="obj_hs_find_timelock_codes"/>
+	<objective description="obj_hs_force_door_desc" id="obj_hs_force_door" text="obj_hs_force_door"/>
+</table>

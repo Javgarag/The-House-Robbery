@@ -1,0 +1,15 @@
+<table directory="assets">
+	<add from_db="true" path="units/pd2_dlc_chas/equipment/chas_interactable_alarmbox/chas_interactable_alarmbox" type="unit">
+		<unit path="units/pd2_dlc_chas/equipment/chas_interactable_alarmbox/chas_interactable_alarmbox"/>
+		<object path="units/pd2_dlc_chas/equipment/chas_interactable_alarmbox/chas_interactable_alarmbox"/>
+		<cooked_physics path="units/pd2_dlc_chas/equipment/chas_interactable_alarmbox/chas_interactable_alarmbox"/>
+		<material_config path="units/pd2_dlc_chas/equipment/chas_interactable_alarmbox/chas_interactable_alarmbox"/>
+		<sequence_manager path="units/pd2_dlc_chas/equipment/chas_interactable_alarmbox/chas_interactable_alarmbox"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_peta/props/pta_interactable_electric_box/pta_interactable_electric_box" type="unit">
+		<cooked_physics path="units/pd2_dlc_peta/props/pta_interactable_electric_box/pta_interactable_electric_box"/>
+		<object path="units/pd2_dlc_peta/props/pta_interactable_electric_box/pta_interactable_electric_box"/>
+		<sequence_manager path="units/pd2_dlc_peta/props/pta_interactable_electric_box/pta_interactable_electric_box"/>
+		<unit path="units/pd2_dlc_peta/props/pta_interactable_electric_box/pta_interactable_electric_box"/>
+	</add>
+</table>

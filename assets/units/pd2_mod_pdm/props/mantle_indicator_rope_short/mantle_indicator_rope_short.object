@@ -1,0 +1,24 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_pdm/props/mantle_indicator_rope_long/mantle_indicator_rope_long" orientation_object="rp_rope" />
+	
+	<bodies>
+		<body name="body_static" enabled="true" template="editor">
+			<object name="c_box_001" collision_type="box" />
+			<object name="c_box_002" collision_type="box" />
+		</body>
+	</bodies>
+	
+	<decal_surfaces>
+		<decal_mesh name="s_rope" enabled="true" decal_material="cloth_no_decal" />
+	</decal_surfaces>
+	
+	<graphics>
+		<object name="s_rope" enabled="true" shadow_caster="true" />
+		
+		<lod_object name="lod_rope">
+            <object name="g_rope"		enabled="true"  max_distance="2400"  max_draw_lod="0" />
+            <object name="g_rope_lod1"	enabled="true"  lod="1" />
+		</lod_object>
+		
+	</graphics>
+</dynamic_object>

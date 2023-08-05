@@ -1,0 +1,12 @@
+<generic_scriptdata type="table">
+	<entry key="ambience_enabled" type="boolean" value="true"/>
+	<entry key="default_ambience" type="string" value="ambience_ext_downtown_small_day"/>
+	<entry key="default_environment" type="string" value="pd2_acoustics_outdoor_medium_echo"/>
+	<entry key="default_occasional" type="string" value="occasionals_city_traffic"/>
+	<entry key="sound_area_emitters" type="table">
+	</entry>
+	<entry key="sound_emitters" type="table">
+	</entry>
+	<entry key="sound_environments" type="table">
+	</entry>
+</generic_scriptdata>

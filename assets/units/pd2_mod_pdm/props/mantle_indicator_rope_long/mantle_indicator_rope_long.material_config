@@ -1,0 +1,12 @@
+<materials version="3">
+
+    <material name="shadow_caster" render_template="shadow_caster_only" version="2" />
+	
+    <material name="mat_rope" version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP" >
+		<diffuse_texture		file="units/pd2_mod_pdm/props/mantle_indicator_rope_long/rope_df"/>
+		<bump_normal_texture	file="units/pd2_mod_pdm/props/mantle_indicator_rope_long/rope_nm"/>
+    </material>
+    <material name="mat_rope_lod" version="2" render_template="generic:DIFFUSE_TEXTURE" >
+		<diffuse_texture		file="units/pd2_mod_pdm/props/mantle_indicator_rope_long/rope_df" mip="4"/>
+    </material>	
+</materials>

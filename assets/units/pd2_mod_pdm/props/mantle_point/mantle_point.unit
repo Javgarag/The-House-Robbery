@@ -1,0 +1,11 @@
+<unit type="pdm" slot="1">
+	<object file="units/pd2_mod_pdm/props/mantle_point/mantle_point" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction" class="MantleInteractionExt">
+			<var name="tweak_data" value="mantle_point"/>
+			<var name="_interact_object" value="interact"/>
+		</extension>
+	</extensions>
+</unit>

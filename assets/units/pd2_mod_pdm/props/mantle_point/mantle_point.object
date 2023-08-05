@@ -1,0 +1,20 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_pdm/props/mantle_point/mantle_point" orientation_object="rp_mantle_point" />
+	<sequence_manager file="units/pd2_mod_pdm/props/mantle_point/mantle_point" />
+	
+	<bodies>
+		<body name="static_body" enabled="true" template="editor">
+			<object name="rp_mantle_point" />
+			<object collision_type="box" enabled="true" name="c_box_01"/>
+		</body>
+	</bodies>
+
+	<graphics>
+		<graphic_group name="grp_gui" enabled="true" >
+			<lod_object name="lod_group">
+                <object name="g_icon"		enabled="true"  max_distance="450"  max_draw_lod="0" />
+                <object name="g_icon_lod01"	enabled="true"  lod="1" />
+			</lod_object>
+		</graphic_group>
+	</graphics>
+</dynamic_object>

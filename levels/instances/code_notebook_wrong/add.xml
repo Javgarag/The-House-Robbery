@@ -1,0 +1,58 @@
+<table directory="assets">
+	<add from_db="true" path="units/pd2_dlc2/props/cs_prop_banknote/cs_prop_banknote" type="unit">
+		<material_config path="units/pd2_dlc2/props/cs_prop_banknote/cs_prop_banknote"/>
+		<object path="units/pd2_dlc2/props/cs_prop_banknote/cs_prop_banknote"/>
+		<sequence_manager path="units/pd2_dlc2/props/cs_prop_banknote/cs_prop_banknote"/>
+		<unit path="units/pd2_dlc2/props/cs_prop_banknote/cs_prop_banknote"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp" unload="true"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_floor_4x4m_a" unload="true"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc2/csgo_models/props_downtown/sign_donotenter" type="unit">
+		<material_config path="units/pd2_dlc2/csgo_models/props_downtown/sign_donotenter"/>
+		<object path="units/pd2_dlc2/csgo_models/props_downtown/sign_donotenter"/>
+		<unit path="units/pd2_dlc2/csgo_models/props_downtown/sign_donotenter"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sand/equipment/sand_interactable_notepad/sand_interactable_notepad" type="unit">
+		<material_config path="units/pd2_dlc_sand/equipment/sand_interactable_notepad/sand_interactable_notepad"/>
+		<object path="units/pd2_dlc_sand/equipment/sand_interactable_notepad/sand_interactable_notepad"/>
+		<sequence_manager path="units/pd2_dlc_sand/equipment/sand_interactable_notepad/sand_interactable_notepad"/>
+		<unit path="units/pd2_dlc_sand/equipment/sand_interactable_notepad/sand_interactable_notepad"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sand/pickups/sand_pku_notepad/sand_pku_notepad" type="unit">
+		<material_config path="units/pd2_dlc_sand/pickups/sand_pku_notepad/sand_pku_notepad"/>
+		<object path="units/pd2_dlc_sand/pickups/sand_pku_notepad/sand_pku_notepad"/>
+		<sequence_manager path="units/pd2_dlc_sand/pickups/sand_pku_notepad/sand_pku_notepad"/>
+		<unit path="units/pd2_dlc_sand/pickups/sand_pku_notepad/sand_pku_notepad"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_tag/props/tag_prop_code_papers/tag_prop_code_papers" type="unit">
+		<material_config path="units/pd2_dlc_tag/props/tag_prop_code_papers/tag_prop_code_papers"/>
+		<object path="units/pd2_dlc_tag/props/tag_prop_code_papers/tag_prop_code_papers"/>
+		<sequence_manager path="units/pd2_dlc_tag/props/tag_prop_code_papers/tag_prop_code_papers"/>
+		<unit path="units/pd2_dlc_tag/props/tag_prop_code_papers/tag_prop_code_papers"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_sand/equipment/sand_interactable_rotating_code_computer/sand_interactable_rotating_code_computer" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<font path="fonts/font_digital"/>
+		<gui path="guis/timer_gui"/>
+		<material_config path="units/pd2_dlc_sand/equipment/sand_interactable_rotating_code_computer/sand_interactable_rotating_code_computer_contour"/>
+		<object path="units/pd2_dlc_sand/equipment/sand_interactable_rotating_code_computer/sand_interactable_rotating_code_computer"/>
+		<sequence_manager path="units/pd2_dlc_sand/equipment/sand_interactable_rotating_code_computer/sand_interactable_rotating_code_computer"/>
+		<unit path="units/pd2_dlc_sand/equipment/sand_interactable_rotating_code_computer/sand_interactable_rotating_code_computer"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/hlm_interactable_bar_code_reader/hlm_interactable_bar_code_reader" type="unit">
+		<bnk path="soundbanks/regular_sfx"/>
+		<material_config path="units/payday2/equipment/hlm_interactable_bar_code_reader/hlm_interactable_bar_code_reader"/>
+		<object path="units/payday2/equipment/hlm_interactable_bar_code_reader/hlm_interactable_bar_code_reader"/>
+		<sequence_manager path="units/payday2/equipment/hlm_interactable_bar_code_reader/hlm_interactable_bar_code_reader"/>
+		<unit path="units/payday2/equipment/hlm_interactable_bar_code_reader/hlm_interactable_bar_code_reader"/>
+	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/shadow_caster_100x100" type="unit">
+		<unit path="units/dev_tools/level_tools/shadow_caster_100x100"/>
+		<object path="units/dev_tools/level_tools/shadow_caster_100x100"/>
+		<material_config path="units/dev_tools/level_tools/shadow_caster"/>
+		<sequence_manager path="units/dev_tools/level_tools/shadow_caster"/>
+	</add>
+</table>

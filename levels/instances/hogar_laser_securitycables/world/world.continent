@@ -1,0 +1,18 @@
+<table>
+	<editor_groups/>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="874 728 727" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_securitycables/securitycables" name_id="correct_cable" position="874 728 727" rotation="-0 0 -0 -1" unit_id="100001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="874 728 727" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_securitycables/securitycables" name_id="securitycables_002" position="-358 1132 198" rotation="0 0 0.707107 -0.707107" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-358 1132 198" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_securitycables/securitycables" name_id="securitycables_003" position="1716 1606 324" rotation="0 0 0.707107 -0.707107" unit_id="100003"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

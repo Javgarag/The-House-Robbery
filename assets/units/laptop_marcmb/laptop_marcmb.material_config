@@ -1,0 +1,8 @@
+<materials version="3">
+    <material name="display" decal_material="glass_breakable" version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION">
+        <diffuse_texture file="textures/laptop_marcmb/gen_interactable_laptop_df"/>
+        <self_illumination_texture file="textures/laptop_marcmb/gen_interactable_laptop_il"/>
+        <variable value="monitor" type="scalar" name="il_multiplier"/>
+        <bump_normal_texture file="texture/laptop_marcmb/gen_interactable_laptop_nm"/>
+    </material>
+</materials>

@@ -1,0 +1,13 @@
+<dynamic_object>
+    <diesel orientation_object="rp_gen_interactable_zipline_mount_wall" materials="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall" />
+	<sequence_manager file="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall"/>
+    <bodies>
+        <body enabled="true" template="static" name="static_body" >
+            <object collision_type="box" name="c_box" />
+        </body>
+    </bodies>
+    <graphics>
+        <object enabled="true" name="g_mount" shadow_caster="true" />
+		<object enabled="false" name="g_outline" shadow_caster="true" />
+    </graphics>
+</dynamic_object>

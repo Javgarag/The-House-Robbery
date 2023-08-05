@@ -1,0 +1,22 @@
+<table>
+	<unit>
+		<sequence editable_state="false" name="'interact'" triggable="false">
+			<graphic_group name="'grp_gui'" visibility="false" />
+			<run_sequence name="'enable_interaction'" start_time="2"/>
+		</sequence>
+		<sequence editable_state="true" name="'enable_interaction'" triggable="true">
+			<interaction enabled="true"/>
+			<graphic_group name="'grp_gui'" visibility="true" />
+		</sequence>
+		<sequence editable_state="true" name="'disable_interaction'" triggable="true">
+			<interaction enabled="false"/>
+			<graphic_group name="'grp_gui'" visibility="false" />
+		</sequence>
+		<sequence editable_state="true" name="'set_range_1'" triggable="true">
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'mantle_point'"/>
+		</sequence>
+		<sequence editable_state="true" name="'set_range_2'" triggable="true">
+			<function extension="'interaction'" function="'set_tweak_data'" param1="'mantle_point_2'"/>
+		</sequence>
+	</unit>
+</table>

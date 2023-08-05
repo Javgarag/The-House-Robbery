@@ -1,0 +1,17 @@
+<materials version="3" group="securitycables">
+    
+    <material render_template="generic:DIFFUSE_TEXTURE" version="2" name="securitycables">
+        <diffuse_texture file="units/world/architecture/hospital/props/securitycables/securitycables_df"/>
+    </material>
+
+    <material render_template="generic:DIFFUSE_TEXTURE" version="2" name="cable_1">
+        <diffuse_texture file="units/world/architecture/hospital/props/securitycables/cable_red_df"/>
+    </material>
+
+    <material name="cable_light_1" decal_material="plastic" render_template="generic:DIFFUSE_TEXTURE:SELF_ILLUMINATION" version="2">
+        <diffuse_texture file="units/world/architecture/hospital/props/securitycables/cable_red_df"/>
+        <self_illumination_texture file="units/white_df"/>
+        <variable value="match" type="scalar" name="il_multiplier"/>
+    </material>
+
+</materials>

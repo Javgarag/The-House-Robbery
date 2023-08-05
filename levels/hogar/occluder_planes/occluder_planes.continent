@@ -1,0 +1,63 @@
+<table>
+	<editor_groups/>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="1750 1842 -263" _prev_rot="0 0 1 4.37114e-008" continent="occluder_planes" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_8x8" name_id="occluder_plane_8x8_001" only_visible_in_editor="true" position="1750 1842 -263" rotation="0 0 1 -4.37114e-008" unit_id="400000"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="463 1050 15.0022" _prev_rot="0 0 1 -4.37114e-008" continent="occluder_planes" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_001" only_visible_in_editor="true" position="463 1031 15.002" rotation="0 0 1 4.37114e-008" unit_id="400001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-918 -455 -548" _prev_rot="-0 0 -0 -1" continent="occluder_planes" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_16x16" name_id="occluder_plane_16x16_001" only_visible_in_editor="true" position="-918 -455 -677" rotation="-0 0 -0 -1" unit_id="400002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1400 -900 120" _prev_rot="0 0 0 -1" continent="occluder_planes" local_pos="150 -30 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_006" only_visible_in_editor="true" position="1400 -900 84" rotation="0 0 0 -1" unit_id="400007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1250 -870 120" _prev_rot="0 0 0 -1" continent="occluder_planes" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_007" only_visible_in_editor="true" position="1250 -870 84" rotation="0 0 0 -1" unit_id="400008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1400 -900 -280" _prev_rot="0 0 0 -1" continent="occluder_planes" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_008" only_visible_in_editor="true" position="1400 -900 -280" rotation="-0 0 -0 -1" unit_id="400009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1250 -870 -280" _prev_rot="0 0 0 -1" continent="occluder_planes" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_009" only_visible_in_editor="true" position="1250 -870 -280" rotation="-0 0 -0 -1" unit_id="400010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1746 1832 3.72529e-007" _prev_rot="0 0 1 4.37114e-008" continent="occluder_planes" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_010" only_visible_in_editor="true" position="1746 1832 0" rotation="0 0 1 -4.37114e-008" unit_id="400011"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="445 -995 6.10352e-005" _prev_rot="0 0 0 -1" continent="occluder_planes" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_011" only_visible_in_editor="true" position="445 -995 0" rotation="-0 0 -0 -1" unit_id="400012"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="445 -995 360" _prev_rot="0 0 0 -1" continent="occluder_planes" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_012" only_visible_in_editor="true" position="445 -995 360" rotation="-0 0 -0 -1" unit_id="400013"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="445 -995 500" _prev_rot="0 0 0 -1" continent="occluder_planes" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_013" only_visible_in_editor="true" position="445 -995 500" rotation="-0 0 -0 -1" unit_id="400014"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-916 -469 3.52011" _prev_rot="0 0 0 -1" continent="occluder_planes" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_014" only_visible_in_editor="true" position="-916 -469 3.52" rotation="-0 0 -0 -1" unit_id="400015"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-366 -469 3.52011" _prev_rot="0 0 0 -1" continent="occluder_planes" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_015" only_visible_in_editor="true" position="-366 -469 3.52" rotation="-0 0 -0 -1" unit_id="400016"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1746 1832 135" _prev_rot="0 0 1 4.37114e-008" continent="occluder_planes" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_016" only_visible_in_editor="true" position="1746 1832 135" rotation="0 0 1 -4.37114e-008" unit_id="400017"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2269 -287 3.72529e-007" _prev_rot="0 0 -0.707107 -0.707107" continent="occluder_planes" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_017" only_visible_in_editor="true" position="2269 -287 0" rotation="0 0 -0.707107 -0.707107" unit_id="400018"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2269 -107 3.72529e-007" _prev_rot="0 0 -0.707107 -0.707107" continent="occluder_planes" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_018" only_visible_in_editor="true" position="2269 -107 0" rotation="0 0 -0.707107 -0.707107" unit_id="400019"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2269 -107 192" _prev_rot="0 0 -0.707107 -0.707107" continent="occluder_planes" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_019" only_visible_in_editor="true" position="2269 -107 192" rotation="0 0 -0.707107 -0.707107" unit_id="400020"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="2269 -286 192" _prev_rot="0 0 -0.707107 -0.707107" continent="occluder_planes" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/mockup/occluder_plane_4x8" name_id="occluder_plane_4x8_020" only_visible_in_editor="true" position="2269 -286 192" rotation="0 0 -0.707107 -0.707107" unit_id="400021"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

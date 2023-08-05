@@ -1,0 +1,17 @@
+<materials version="3">
+	<material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_ENVIRONMENT" name="mat_concrete_painted_fence" version="2">
+        <diffuse_texture file="units/payday2/architecture/ind/ind_ext_level/ind_ext_warehouse_wall_fence_01_df"/>
+        <bump_normal_texture file="units/payday2/architecture/ind/ind_ext_level/ind_ext_warehouse_wall_fence_01_nm"/>
+    </material>
+	<material render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:RL_ENVIRONMENT" name="mat_wall_interior_hole" version="2">
+        <diffuse_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_cinderblocks_df"/>
+        <bump_normal_texture file="units/pd2_dlc_rvd/architecture/rvd_ext/ext_textures/rvd_ext_cinderblocks_nm"/>
+    </material>
+	<material render_template="generic:ALPHA_MASKED:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE:EXTERNAL_ALPHA_REF:GSMA_TEXTURE:NORMALMAP:VERTEX_COLOR" name="mat_destroyed" version="2">
+        <diffuse_texture file="units/pd2_dlc_bex/architecture/int/bext_int_destroyed_wall/bex_int_destroyed_wall_armature_df"/>
+        <bump_normal_texture file="units/pd2_dlc_bex/architecture/int/bext_int_destroyed_wall/bex_int_destroyed_wall_armature_nm"/>
+        <variable type="scalar" name="alpha_ref" value="0.3540000168141"/>
+        <material_texture file="units/pd2_dlc_bex/architecture/int/bext_int_destroyed_wall/bex_int_destroyed_wall_armature_gsma"/>
+        <reflection_texture type="cube" global_texture="current_global_texture"/>
+    </material>
+</materials>

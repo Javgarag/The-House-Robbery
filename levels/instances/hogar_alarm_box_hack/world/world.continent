@@ -1,0 +1,13 @@
+<table>
+	<statics>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_peta/props/pta_interactable_electric_box/pta_interactable_electric_box" name_id="pta_interactable_electric_box_001" position="0 25 0" rotation="0 0 0 -1" unit_id="100039"/>
+		</table>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_chas/equipment/chas_interactable_alarmbox/chas_interactable_alarmbox" name_id="chas_interactable_alarmbox_001" position="0 25 0" rotation="0 0 0 -1" unit_id="100037"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

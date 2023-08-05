@@ -1,0 +1,221 @@
+<table name="The House Robbery">
+	<instance id="code_notebook_wrong">
+		<packages/>
+	</instance>
+	<instance id="bex_keypad_mod">
+		<packages>
+			<value_node value="levels/instances/unique/bex/bex_keypad/world"/>
+			<value_node value="levels/instances/unique/bex/bex_keypad/world_sounds"/>
+			<value_node value="levels/instances/unique/bex/bex_keypad/world/world"/>
+		</packages>
+	</instance>
+	<instance id="glace_helicopter_swat_mod">
+		<packages>
+			<value_node value="levels/instances/unique/glace/glace_helicopter_swat/world"/>
+			<value_node value="levels/instances/unique/glace/glace_helicopter_swat/world_sounds"/>
+			<value_node value="levels/instances/unique/glace/glace_helicopter_swat/world/world"/>
+		</packages>
+	</instance>
+	<instance id="hogar_alarm_box_hack">
+		<packages/>
+	</instance>
+	<instance id="hogar_laser_box">
+		<packages/>
+	</instance>
+	<instance id="hogar_laser_securitycables">
+		<packages/>
+	</instance>
+	<instance id="hogar_vault">
+		<packages/>
+	</instance>
+	<Achievements icon="textures/achievements/hs_achiev_thumb" id="house_robbery">
+		<achievement desc_id="hogar_tag_team_desc" hidden_achievement="false" icon="textures/achievements/hogar_tag_team" id="hogar_tag_team" name_id="hogar_tag_team" rank="4" reward_amount="10" reward_type="cc"/>
+		<achievement desc_id="hogar_bad_music_desc" hidden_achievement="false" icon="textures/achievements/hogar_bad_music" id="hogar_bad_music" name_id="hogar_bad_music" rank="1" reward_amount="1" reward_type="cc"/>
+		<achievement desc_id="hogar_unorganized_desc" hidden_achievement="false" icon="textures/achievements/hogar_unorganized" id="hogar_unorganized" name_id="hogar_unorganized" rank="1" reward_amount="1" reward_type="cc"/>
+		<achievement desc_id="hogar_where_chimmie_desc" hidden_achievement="false" icon="textures/achievements/hogar_where_chimmie" id="hogar_where_chimmie" name_id="hogar_where_chimmie" rank="2" reward_amount="3" reward_type="cc"/>
+		<achievement desc_id="hogar_good_luck_desc" hidden_achievement="false" icon="textures/achievements/hogar_good_luck" id="hogar_good_luck" name_id="hogar_good_luck" rank="3" reward_amount="5" reward_type="cc"/>
+		<achievement desc_id="hogar_botched_stealth_desc" hidden_achievement="false" icon="textures/achievements/hogar_botched_stealth" id="hogar_botched_stealth" name_id="hogar_botched_stealth" rank="4" reward_amount="10" reward_type="cc"/>
+		<achievement desc_id="hs_achiev_desc_sewertorture" icon="textures/achievements/hs_sewertorture" id="hs_achiev_sewertorture" name_id="hs_achiev_sewertorture" rank="4" reward_amount="10" reward_type="cc"/>
+		<achievement desc_id="hs_achiev_desc_normal" icon="textures/achievements/hs_completion_normal" id="hs_achiev_normal" name_id="hs_achiev_normal" rank="1"/>
+		<achievement desc_id="hs_achiev_desc_hard" icon="textures/achievements/hs_completion_hard" id="hs_achiev_hard" name_id="hs_achiev_hard" rank="1"/>
+		<achievement desc_id="hs_achiev_desc_veryhard" icon="textures/achievements/hs_completion_veryhard" id="hs_achiev_veryhard" name_id="hs_achiev_veryhard" rank="1"/>
+		<achievement desc_id="hs_achiev_desc_overkill" icon="textures/achievements/hs_completion_ovk" id="hs_achiev_ovk" name_id="hs_achiev_ovk" rank="2" reward_amount="2" reward_type="cc"/>
+		<achievement desc_id="hs_achiev_desc_mayhem" icon="textures/achievements/hs_completion_mayhem" id="hs_achiev_mayhem" name_id="hs_achiev_mayhem" rank="2" reward_amount="4" reward_type="cc"/>
+		<achievement desc_id="hs_achiev_desc_deathwish" icon="textures/achievements/hs_completion_dw" id="hs_achiev_dw" name_id="hs_achiev_dw" rank="3" reward_amount="6" reward_type="cc"/>
+		<achievement desc_id="hs_achiev_desc_deathsentence" icon="textures/achievements/hs_completion_ds" id="hs_achiev_ds" name_id="hs_achiev_ds" rank="4" reward_amount="8" reward_type="cc"/>
+		<achievement desc_id="hs_achiev_desc_dsod" icon="textures/achievements/hs_completion_dsod" id="hs_achiev_dsod" name_id="hs_achiev_dsod" rank="4" reward_amount="10" reward_type="cc"/>
+		<achievement desc_id="hs_achiev_desc_noasset" icon="textures/achievements/hs_noasset" id="hs_achiev_noasset" name_id="hs_achiev_noasset" rank="2" reward_amount="5" reward_type="cc"/>
+		<achievement desc_id="hs_achiev_desc_computerhack" icon="textures/achievements/hs_computer_hack_uninterrupted" id="hs_achiev_computerhack" name_id="hs_achiev_computerhack" rank="3" reward_amount="8" reward_type="cc"/>
+		<achievement desc_id="hs_achiev_desc_secret" hidden_achievement="true" icon="textures/achievements/hs_secret" id="hs_achiev_secret" name_id="hs_achiev_secret" rank="4" reward_amount="10" reward_type="cc"/>
+		<achievement desc_id="hs_achiev_desc_ecm" hidden_achievement="true" icon="textures/achievements/hs_ecm" id="hs_achiev_ecm" name_id="hs_achiev_ecm" rank="1" reward_amount="3" reward_type="cc"/>
+		<achievement desc_id="hs_achiev_desc_dominate_stealer" hidden_achievement="false" icon="textures/achievements/hs_dominate_stealer" id="hs_achiev_dominate_stealer" name_id="hs_achiev_dominate_stealer" rank="1" reward_amount="3" reward_type="cc"/>
+	</Achievements>
+	<AddFiles directory="assets">
+		<texture force="true" path="textures/achievements/hs_completion_normal"/>
+		<texture force="true" path="textures/achievements/hs_completion_hard"/>
+		<texture force="true" path="textures/achievements/hs_completion_veryhard"/>
+		<texture force="true" path="textures/achievements/hs_completion_ovk"/>
+		<texture force="true" path="textures/achievements/hs_completion_mayhem"/>
+		<texture force="true" path="textures/achievements/hs_completion_dw"/>
+		<texture force="true" path="textures/achievements/hs_completion_ds"/>
+		<texture force="true" path="textures/achievements/hs_completion_dsod"/>
+		<texture force="true" path="textures/achievements/hs_computer_hack_uninterrupted"/>
+		<texture force="true" path="textures/achievements/hs_sewertorture"/>
+		<texture force="true" path="textures/achievements/hs_secret"/>
+		<texture force="true" path="textures/achievements/hs_noasset"/>
+		<texture force="true" path="textures/achievements/hs_ecm"/>
+		<texture force="true" path="textures/achievements/hs_dominate_stealer"/>
+		<texture force="true" path="textures/achievements/hs_achiev_thumb"/>
+		<texture force="true" path="textures/achievements/hogar_botched_stealth"/>
+		<texture force="true" path="textures/achievements/hogar_good_luck"/>
+		<texture force="true" path="textures/achievements/hogar_where_chimmie"/>
+		<texture force="true" path="textures/achievements/hogar_unorganized"/>
+		<texture force="true" path="textures/achievements/hogar_bad_music"/>
+		<texture force="true" path="textures/achievements/hogar_tag_team"/>
+		<texture force="true" path="textures/waypoints/wrong_code"/>
+		<texture force="true" path="textures/assets/asset_ladder"/>
+		<texture force="true" path="textures/assets/asset_zipline"/>
+		<texture force="true" path="textures/laptop_marcmb/gen_interactable_laptop_il"/>
+		<texture force="true" path="textures/laptop_marcmb/gen_interactable_laptop_df"/>
+		<texture force="true" path="textures/laptop_marcmb/gen_interactable_laptop_nm"/>
+		<texture force="true" path="units/gen_pku_turkey_head/gen_pku_turkey_head_df"/>
+		<texture force="true" path="units/pd2_mod_custom/hogar_code_note/hogar_code_note_df"/>
+	</AddFiles>
+	<Hooks directory="Hooks">
+		<hook file="guitweakdata.lua" source_file="lib/tweak_data/guitweakdata"/>
+		<hook file="musicmanager.lua" source_file="lib/managers/musicmanager"/>
+		<hook file="tweakdata.lua" source_file="lib/tweak_data/tweakdata"/>
+		<hook file="missionmanager.lua" source_file="lib/managers/missionmanager"/>
+		<hook file="elementspawngrenade.lua" source_file="lib/managers/mission/elementspawngrenade"/>
+	</Hooks>
+	<Interactions>
+		<interaction axis="y" id="mantle_point" interact_distance="100" start_active="true" text_id="hud_int_press_mantle_point"/>
+		<interaction based_on="mantle_point" id="mantle_point_2" interact_distance="200" text_id="hud_int_press_mantle_point"/>
+		<interaction axis="x" based_on="hold_remove_rope" contour="interactable_icon" force_update_position="true" id="grapple_point" interact_distance="200" text_id="hud_int_hold_grapple_point" timer="1"/>
+		<interaction id="gen_pku_turkey_head" interact_distance="100" text_id="gen_pku_turkey_head" timer="5"/>
+		<interaction id="hs_disable_cameras" interact_distance="100" sound_done="bar_keyboard_finished" sound_interupt="bar_keyboard_cancel" sound_start="bar_keyboard" text_id="hs_disable_cameras_interaction" timer="15"/>
+		<interaction id="hs_pack_meth" interact_distance="100" text_id="hs_pack_meth_interaction" timer="3"/>
+		<interaction id="ecm_jammer_custom" interact_distance="100" text_id="hud_int_equipment_ecm_feedback_custom" timer="1"/>
+		<interaction equipment_consume="true" equipment_text_id="hs_setup_zipline_missing_wire" id="hs_setup_zipline" interact_distance="200" sound_done="bar_penthouse_elevator_connect_wire_finished" sound_interupt="bar_penthouse_elevator_connect_wire_cancel" sound_start="bar_penthouse_elevator_connect_wire" special_equipment="cargo_strap" text_id="hs_setup_zipline" timer="3"/>
+		<interaction axis="x" contour="interactable_icon" id="hs_code_documents" interact_distance="150" sound_done="bar_shuffle_papers_finished" sound_interupt="bar_shuffle_papers_cancel" sound_start="bar_shuffle_papers" text_id="hs_document_search_interaction" timer="1"/>
+		<interaction id="hs_code_documents_timelock" interact_distance="150" sound_done="bar_shuffle_papers_finished" sound_interupt="bar_shuffle_papers_cancel" sound_start="bar_shuffle_papers" text_id="hs_document_search_interaction" timer="1.5"/>
+	</Interactions>
+	<Localization default="english.txt" directory="loc">
+		<loc file="english.txt" language="english"/>
+	</Localization>
+	<Package file="scriptdata/hogar_world.package" id="hogar_world" unload_on_restart="true"/>
+	<contact assets_gui="guis/mission_briefing/preload_contact_bain" desc_id="contact_cartel_desc" id="cartel" name_id="contact_cartel_name" package="packages/contact_bain"/>
+	<level ai_group_type="america" briefing_dialog="hogar_brief" id="hogar" intro_event="hogar_intro" max_bags="54" player_invulnerable="false" player_style="generic">
+		<AddFiles directory="assets">
+			<movie path="movies/hogar_video_tv"/>
+		</AddFiles>
+		<add file="levels/hogar/add.xml"/>
+		<assets>
+			<asset name="ammo_bag"/>
+			<asset name="health_bag"/>
+			<asset name="grenade_crate"/>
+			<asset name="bodybags_bag"/>
+			<ladder money_lock="3500" name_id="hs_asset_ladder" no_mystery="true" texture="textures/assets/asset_ladder" unlock_desc_id="hs_asset_ladder_desc">
+				<stages>
+					<value_node value="hogar"/>
+				</stages>
+			</ladder>
+			<zipline money_lock="4000" name_id="hs_asset_zipline" no_mystery="true" texture="textures/assets/asset_zipline" unlock_desc_id="hs_asset_zipline_desc">
+				<stages>
+					<value_node value="hogar"/>
+				</stages>
+			</zipline>
+		</assets>
+		<classes directory="classes">
+			<class file="grapplepoint.lua"/>
+		</classes>
+		<hooks directory="hooks">
+			<hook file="interactionext.lua" source_file="lib/units/interactions/interactionext"/>
+			<hook file="playerstandard.lua" source_file="lib/units/beings/player/states/playerstandard"/>
+		</hooks>
+		<outro_event>
+			<value_node value=""/>
+		</outro_event>
+		<packages>
+			<value_node value="levels/narratives/e_welcome_to_the_jungle/stage_2/world_sounds"/>
+			<value_node value="levels/narratives/jiu/chas/whitebox/whitebox"/>
+			<value_node value="levels/instances/unique/hlm_vault/world/world"/>
+			<value_node value="levels/instances/unique/born/born_escape/world"/>
+			<value_node value="levels/instances/unique/hox_estate_window/world"/>
+			<value_node value="levels/narratives/bain/rat/world_sounds"/>
+			<value_node value="levels/narratives/elephant/born/world"/>
+			<value_node value="levels/narratives/bain/roberts/world_sounds"/>
+			<value_node value="levels/instances/unique/hvh/hvh_chance/world/world"/>
+			<value_node value="packages/narr_jerry2"/>
+			<value_node value="hogar_world"/>
+			<value_node value="packages/narr_born_1"/>
+		</packages>
+		<script_data_mods directory="scriptdata">
+			<mod replacement="hogar_objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
+				<options merge_mode="add" mode="add"/>
+			</mod>
+		</script_data_mods>
+		<xml>
+			<file path="scriptdata/hogar_dialog.sounds"/>
+		</xml>
+	</level>
+	<narrative briefing_event="" contact="cartel" hide_from_crimenet="false" id="The House Robbery">
+		<chain>
+			<table level_id="hogar" type="d" type_id="heist_type_assault"/>
+		</chain>
+		<contract_cost>
+			<value_node value="4000"/>
+			<value_node value="8000"/>
+			<value_node value="20000"/>
+			<value_node value="40000"/>
+			<value_node value="100000"/>
+			<value_node value="100000"/>
+			<value_node value="100000"/>
+		</contract_cost>
+		<crimenet_callouts>
+			<value_node value="nothing"/>
+		</crimenet_callouts>
+		<crimenet_videos>
+			<value_node value="cn_branchbank2"/>
+		</crimenet_videos>
+		<debrief_event>
+			<value_node value=""/>
+		</debrief_event>
+		<experience_mul>
+			<value_node value="1"/>
+			<value_node value="1"/>
+			<value_node value="1"/>
+			<value_node value="1"/>
+			<value_node value="3"/>
+			<value_node value="3"/>
+			<value_node value="3"/>
+		</experience_mul>
+		<max_mission_xp>
+			<value_node value="32400"/>
+			<value_node value="32900"/>
+			<value_node value="34400"/>
+			<value_node value="34900"/>
+			<value_node value="35400"/>
+			<value_node value="35400"/>
+			<value_node value="35400"/>
+		</max_mission_xp>
+		<min_mission_xp>
+			<value_node value="25600"/>
+			<value_node value="25900"/>
+			<value_node value="26200"/>
+			<value_node value="26500"/>
+			<value_node value="26800"/>
+			<value_node value="26800"/>
+			<value_node value="26800"/>
+		</min_mission_xp>
+		<payout>
+			<value_node value="25000"/>
+			<value_node value="50500"/>
+			<value_node value="100000"/>
+			<value_node value="150000"/>
+			<value_node value="200000"/>
+			<value_node value="250000"/>
+			<value_node value="300000"/>
+		</payout>
+	</narrative>
+</table>

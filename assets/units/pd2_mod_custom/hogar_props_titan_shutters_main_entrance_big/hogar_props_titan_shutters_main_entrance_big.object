@@ -1,0 +1,38 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big" orientation_object="rp_hogar_prop_titan_shutters_main_entrance_big" />
+	<sequence_manager file="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big" />
+	<animations>
+		<animation_group name="anim_open_group" enabled="false">
+			<object name="shutter_part_01" />
+			<object name="shutter_part_02" />
+			<object name="shutter_part_03" />
+		</animation_group>
+	</animations>
+	<bodies>
+		<body name="body_collision_01" enabled="true" template="animated">
+			<object name="shutter_part_01" />
+			<object name="c_box_01" collision_type="box" padding="-2.5" />
+		</body>
+		<body name="body_collision_02" enabled="true" template="animated">
+			<object name="shutter_part_02" />
+		</body>
+		<body name="body_collision_03" enabled="true" template="animated">
+			<object name="shutter_part_03" />
+			<object name="c_box_03" collision_type="box" padding="-2.5" />
+		</body>
+	</bodies>
+	<decal_surfaces default_material="metal">
+		<decal_mesh name="dm_metal_01" enabled="true" material="metal" />
+		<decal_mesh name="dm_metal_02" enabled="true" material="metal" />
+		<decal_mesh name="dm_metal_03" enabled="true" material="metal" />
+		<decal_mesh name="dm_metal_04" enabled="true" material="metal" />
+	</decal_surfaces>
+	<graphics>
+		<object name="g_shutter_part_03" enabled="true" />
+		<object name="g_shutter_part_02" enabled="true" />
+		<object name="g_shutter_part_01" enabled="true" />
+		<object name="s_s_shutter_part_03" enabled="true" shadow_caster="true"/>
+		<object name="s_s_shutter_part_02" enabled="true" shadow_caster="true"/>
+		<object name="s_s_shutter_part_01" enabled="true" shadow_caster="true"/>
+	</graphics>
+</dynamic_object>

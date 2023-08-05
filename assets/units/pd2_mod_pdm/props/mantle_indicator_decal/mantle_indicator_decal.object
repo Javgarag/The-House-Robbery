@@ -1,0 +1,14 @@
+<dynamic_object>
+    <diesel orientation_object="rp_staindecal" materials="units/pd2_mod_pdm/props/mantle_indicator_decal/mantle_indicator_decal" />
+    <sequence_manager file="units/pd2_mod_pdm/props/mantle_indicator_decal/mantle_indicator_decal" />
+	<bodies>
+		<body name="editor_body" enabled="true" template="editor">
+			<object name="rp_staindecal" />
+			<object name="rp_staindecal" collision_type="box" padding="-2.5"/>
+		</body>
+	</bodies>
+	
+	<graphics>
+        <object enabled="true" name="g_staindecal"/>
+    </graphics>
+</dynamic_object>

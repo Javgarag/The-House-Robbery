@@ -1,0 +1,166 @@
+<table>
+	<Sounds directory="assets/sounds/vo">
+		<sound id="hogar_brief" path="hogar_brief.ogg" subtitle_id="hogar_brief"/>
+		<sound id="hogar_debrief" path="hogar_debrief.ogg" subtitle_id="hogar_debrief"/>
+		<sound id="hogar_intro" path="hogar_intro.ogg">
+			<markers>
+				<marker label="hogar_intro_01" position="0.000"/>
+				<marker label="hogar_intro_02" position="5.000"/>
+				<marker label="hogar_intro_03" position="13.200"/>
+			</markers>
+		</sound>
+		<sound id="Play_cart_hogar_01" path="hogar_01_1.ogg" subtitle_id="cart_hogar_01"/>
+		<sound id="Play_cart_hogar_02" path="hogar_02_1.ogg" subtitle_id="cart_hogar_02"/>
+		<sound id="Play_cart_hogar_03" path="hogar_03_1.ogg" subtitle_id="cart_hogar_03"/>
+		<sound id="Play_cart_hogar_04" path="hogar_04_1.ogg" subtitle_id="cart_hogar_04"/>
+		<sound id="Play_cart_hogar_05" path="hogar_05_1.ogg" subtitle_id="cart_hogar_05"/>
+		<sound id="Play_cart_hogar_06" path="hogar_06_1.ogg" subtitle_id="cart_hogar_06"/>
+		<sound id="Play_cart_hogar_07" path="hogar_07_1.ogg" subtitle_id="cart_hogar_07"/>
+		<sound id="Play_cart_hogar_08" path="hogar_08_1.ogg" subtitle_id="cart_hogar_08"/>
+		<sound id="Play_cart_hogar_09" path="hogar_09_1.ogg" subtitle_id="cart_hogar_09"/>
+		<sound id="Play_cart_hogar_10" path="hogar_10_1.ogg" subtitle_id="cart_hogar_10"/>
+		<sound id="Play_cart_hogar_11" path="hogar_11_1.ogg" subtitle_id="cart_hogar_11"/>
+		<sound id="Play_cart_hogar_12" path="hogar_12_1.ogg" subtitle_id="cart_hogar_12"/>
+		<sound id="cart_hogar_13_1" path="hogar_13_1.ogg" subtitle_id="cart_hogar_13_1"/>
+		<sound id="cart_hogar_13_2" path="hogar_13_2.ogg" subtitle_id="cart_hogar_13_2"/>		
+		<random id="Play_cart_hogar_13">
+            <sound id="cart_hogar_13_1"/>
+            <sound id="cart_hogar_13_2"/>		
+        </random>
+		<sound id="Play_cart_hogar_14" path="hogar_14_1.ogg" subtitle_id="cart_hogar_14"/>
+		<sound id="Play_cart_hogar_15" path="hogar_15_1.ogg" subtitle_id="cart_hogar_15"/>
+		<sound id="Play_cart_hogar_16" path="hogar_16_1.ogg" subtitle_id="cart_hogar_16"/>
+		<sound id="Play_cart_hogar_17" path="hogar_17_1.ogg" subtitle_id="cart_hogar_17"/>
+		<sound id="Play_cart_hogar_18" path="hogar_18_1.ogg" subtitle_id="cart_hogar_18"/>
+		<sound id="Play_cart_hogar_19" path="hogar_19_1.ogg" subtitle_id="cart_hogar_19"/>
+		<sound id="Play_cart_hogar_20" path="hogar_20_1.ogg" subtitle_id="cart_hogar_20"/>
+		<sound id="Play_cart_hogar_21" path="hogar_21_1.ogg" subtitle_id="cart_hogar_21"/>
+		<sound id="Play_cart_hogar_22" path="hogar_22_1.ogg" subtitle_id="cart_hogar_22"/>
+		<sound id="cart_hogar_24_1" path="hogar_24_1.ogg" subtitle_id="cart_hogar_24_1"/>
+		<sound id="cart_hogar_24_2" path="hogar_24_2.ogg" subtitle_id="cart_hogar_24_2"/>
+		<sound id="cart_hogar_24_3" path="hogar_24_3.ogg" subtitle_id="cart_hogar_24_3"/>
+		<random id="Play_cart_hogar_24">
+            <sound id="cart_hogar_24_1"/>
+            <sound id="cart_hogar_24_2"/>
+			<sound id="cart_hogar_24_3"/> 			
+        </random>
+		<sound id="Play_cart_hogar_25" path="hogar_25_1.ogg" subtitle_id="cart_hogar_25"/>
+		<sound id="Play_cart_hogar_26" path="hogar_26_1.ogg" subtitle_id="cart_hogar_26"/>
+		<sound id="Play_cart_hogar_27" path="hogar_27_1.ogg" subtitle_id="cart_hogar_27"/>
+		<sound id="cart_hogar_28_1" path="hogar_28_1.ogg" subtitle_id="cart_hogar_28_1"/>
+		<sound id="cart_hogar_28_2" path="hogar_28_2.ogg" subtitle_id="cart_hogar_28_2"/>
+		<random id="Play_cart_hogar_28">
+            <sound id="cart_hogar_28_1"/>
+            <sound id="cart_hogar_28_2"/> 
+        </random>
+		<sound id="cart_hogar_29_1" path="hogar_29_1.ogg" subtitle_id="cart_hogar_29_1"/>
+		<sound id="cart_hogar_29_2" path="hogar_29_2.ogg" subtitle_id="cart_hogar_29_2"/>
+		<random id="Play_cart_hogar_29">
+            <sound id="cart_hogar_29_1"/>
+            <sound id="cart_hogar_29_2"/> 
+        </random>
+		<sound id="Play_cart_hogar_30" path="hogar_30_1.ogg" subtitle_id="cart_hogar_30"/>
+		<sound id="Play_cart_hogar_31" path="hogar_31_1.ogg" subtitle_id="cart_hogar_31"/>
+		<sound id="Play_cart_hogar_32" path="hogar_32_1.ogg" subtitle_id="cart_hogar_32"/>
+		<sound id="Play_cart_hogar_33" path="hogar_33_1.ogg" subtitle_id="cart_hogar_33"/>
+		<sound id="Play_cart_hogar_34" path="hogar_34_1.ogg" subtitle_id="cart_hogar_34"/>
+		<sound id="Play_cart_hogar_35" path="hogar_35_1.ogg" subtitle_id="cart_hogar_35"/>
+		<sound id="Play_cart_hogar_36" path="hogar_36_1.ogg" subtitle_id="cart_hogar_36"/>
+		<sound id="Play_cart_hogar_37" path="hogar_37_1.ogg" subtitle_id="cart_hogar_37"/>
+		<sound id="cart_hogar_38_1" path="hogar_38_1.ogg" subtitle_id="cart_hogar_38_1"/>
+		<sound id="cart_hogar_38_2" path="hogar_38_2.ogg" subtitle_id="cart_hogar_38_2"/>
+		<random id="Play_cart_hogar_38">
+            <sound id="cart_hogar_38_1"/>
+            <sound id="cart_hogar_38_2"/> 
+        </random>
+		<sound id="Play_cart_hogar_39" path="hogar_39_1.ogg" subtitle_id="cart_hogar_39"/>
+		<sound id="Play_cart_hogar_40" path="hogar_40_1.ogg" subtitle_id="cart_hogar_40"/>
+		<sound id="Play_cart_hogar_41" path="hogar_41_1.ogg" subtitle_id="cart_hogar_41"/>
+		<sound id="cart_hogar_42_1" path="hogar_42_1.ogg" subtitle_id="cart_hogar_42_1"/>
+		<sound id="cart_hogar_42_2" path="hogar_42_2.ogg" subtitle_id="cart_hogar_42_2"/>
+		<random id="Play_cart_hogar_42">
+            <sound id="cart_hogar_42_1"/>
+            <sound id="cart_hogar_42_2"/> 
+        </random>
+		<sound id="cart_hogar_43_1" path="hogar_43_1.ogg" subtitle_id="cart_hogar_43_1"/>
+		<sound id="cart_hogar_43_2" path="hogar_43_2.ogg" subtitle_id="cart_hogar_43_2"/>
+		<random id="Play_cart_hogar_43">
+            <sound id="cart_hogar_43_1"/>
+            <sound id="cart_hogar_43_2"/> 
+        </random>
+		<sound id="Play_cart_hogar_44" path="hogar_44_1.ogg" subtitle_id="cart_hogar_44"/>
+		<sound id="cart_hogar_45_1" path="hogar_45_1.ogg" subtitle_id="cart_hogar_45_1"/>
+		<sound id="cart_hogar_45_2" path="hogar_45_2.ogg" subtitle_id="cart_hogar_45_2"/>
+		<random id="Play_cart_hogar_45">
+            <sound id="cart_hogar_45_1"/>
+            <sound id="cart_hogar_45_2"/> 
+        </random>
+		<sound id="Play_cart_hogar_46" path="hogar_46_1.ogg" subtitle_id="cart_hogar_46"/>
+		<sound id="Play_cart_hogar_47" path="hogar_47_1.ogg" subtitle_id="cart_hogar_47"/>
+		<sound id="cart_hogar_48_1" path="hogar_48_1.ogg" subtitle_id="cart_hogar_48_1"/>
+		<sound id="cart_hogar_48_2" path="hogar_48_2.ogg" subtitle_id="cart_hogar_48_2"/>
+		<random id="Play_cart_hogar_48">
+            <sound id="cart_hogar_48_1"/>
+            <sound id="cart_hogar_48_2"/> 
+        </random>
+		<sound id="Play_cart_hogar_49" path="hogar_49_1.ogg" subtitle_id="cart_hogar_49"/>
+		<sound id="Play_cart_hogar_50" path="hogar_50_1.ogg" subtitle_id="cart_hogar_50"/>
+		<sound id="Play_cart_hogar_51" path="hogar_51_1.ogg" subtitle_id="cart_hogar_51"/>
+		<sound id="Play_cart_hogar_52" path="hogar_52_1.ogg" subtitle_id="cart_hogar_52"/>
+		<sound id="Play_cart_hogar_53" path="hogar_53_1.ogg" subtitle_id="cart_hogar_53"/>
+		<sound id="Play_cart_hogar_54" path="hogar_54_1.ogg" subtitle_id="cart_hogar_54"/>
+		<sound id="Play_cart_hogar_55" path="hogar_55_1.ogg" subtitle_id="cart_hogar_55"/>
+		<sound id="Play_cart_hogar_56" path="hogar_56_1.ogg" subtitle_id="cart_hogar_56"/>
+		<sound id="cart_hogar_57_1" path="hogar_57_1.ogg" subtitle_id="cart_hogar_57_1"/>
+		<sound id="cart_hogar_57_2" path="hogar_57_2.ogg" subtitle_id="cart_hogar_57_2"/>
+		<random id="Play_cart_hogar_57">
+            <sound id="cart_hogar_57_1"/>
+            <sound id="cart_hogar_57_2"/> 
+        </random>
+		<sound id="cart_hogar_58_1" path="hogar_58_1.ogg" subtitle_id="cart_hogar_58_1"/>
+		<sound id="cart_hogar_58_2" path="hogar_58_2.ogg" subtitle_id="cart_hogar_58_2"/>
+		<random id="Play_cart_hogar_58">
+            <sound id="cart_hogar_58_1"/>
+            <sound id="cart_hogar_58_2"/> 
+        </random>
+		<sound id="cart_hogar_59_1" path="hogar_59_1.ogg" subtitle_id="cart_hogar_59_1"/>
+		<sound id="cart_hogar_59_2" path="hogar_59_2.ogg" subtitle_id="cart_hogar_59_2"/>
+		<random id="Play_cart_hogar_59">
+            <sound id="cart_hogar_59_1"/>
+            <sound id="cart_hogar_59_2"/> 
+        </random>
+		<sound id="cart_hogar_60_1" path="hogar_60_1.ogg" subtitle_id="cart_hogar_60_1"/>
+		<sound id="cart_hogar_60_2" path="hogar_60_2.ogg" subtitle_id="cart_hogar_60_2"/>
+		<random id="Play_cart_hogar_60">
+            <sound id="cart_hogar_60_1"/>
+            <sound id="cart_hogar_60_2"/> 
+        </random>
+		<sound id="Play_cart_hogar_61" path="hogar_61_1.ogg" subtitle_id="cart_hogar_61_1"/>
+		<sound id="Play_cart_hogar_62" path="hogar_62_1.ogg" subtitle_id="cart_hogar_62_1"/>
+		<sound id="Play_cart_hogar_63" path="hogar_63_1.ogg" subtitle_id="cart_hogar_63_1"/>
+		<sound id="Play_cart_hogar_64" path="hogar_64_1.ogg" subtitle_id="cart_hogar_64_1"/>
+		<sound id="Play_cart_hogar_65" path="hogar_65_1.ogg" subtitle_id="cart_hogar_65_1"/>
+		<sound id="Play_cart_hogar_66" path="hogar_66_1.ogg" subtitle_id="cart_hogar_66_1"/>
+		<sound id="Play_cart_hogar_67" path="hogar_67_1.ogg" subtitle_id="cart_hogar_67_1"/>
+		<sound id="cart_hogar_68_1" path="hogar_68_1.ogg" subtitle_id="cart_hogar_68_1"/>
+		<sound id="cart_hogar_68_2" path="hogar_68_2.ogg" subtitle_id="cart_hogar_68_2"/>
+		<random id="Play_cart_hogar_68">
+            <sound id="cart_hogar_68_1"/>
+            <sound id="cart_hogar_68_2"/> 
+        </random>
+		<sound id="cart_hogar_69_1" path="hogar_69_1.ogg" subtitle_id="cart_hogar_69_1"/>
+		<sound id="cart_hogar_69_2" path="hogar_69_2.ogg" subtitle_id="cart_hogar_69_2"/>
+		<random id="Play_cart_hogar_69">
+            <sound id="cart_hogar_69_1"/>
+            <sound id="cart_hogar_69_2"/> 
+        </random>
+		<sound id="cart_hogar_70_1" path="hogar_70_1.ogg" subtitle_id="cart_hogar_70_1"/>
+		<sound id="cart_hogar_70_2" path="hogar_70_2.ogg" subtitle_id="cart_hogar_70_2"/>
+		<random id="Play_cart_hogar_70">
+            <sound id="cart_hogar_70_1"/>
+            <sound id="cart_hogar_70_2"/> 
+        </random>
+		<sound id="Play_cart_hogar_71" path="hogar_71_1.ogg" subtitle_id="cart_hogar_71_1"/>
+		<sound id="Play_cart_hogar_72" path="hogar_72_1.ogg" subtitle_id="cart_hogar_72_1"/>
+	</Sounds>
+</table>

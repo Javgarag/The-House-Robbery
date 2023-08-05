@@ -1,0 +1,36 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_pdm/props/grapple_point/grapple_point" orientation_object="rp_grapple_point" />
+	<sequence_manager file="units/pd2_mod_pdm/props/grapple_point/grapple_point" />
+	
+	<bodies>
+		<body name="body_static" enabled="true" template="static">
+			<object name="rp_grapple_point" />
+			<object name="c_box_02" collision_type="box" />
+		</body>
+	</bodies>
+	
+	<decal_surfaces default_material="sheet_metal">
+		<decal_mesh name="dm_sheet_metal" enabled="true" decal_material="sheet_metal" />
+	</decal_surfaces>
+	
+	<graphics>
+		<lod_object name="g_latch">
+			<object name="g_latch"		enabled="true"  max_distance="1800"  max_draw_lod="0" />
+			<object name="g_latch_lod1"	enabled="true"  lod="1" />
+		</lod_object>
+
+		<graphic_group name="grp_hook" enabled="false" >
+			<object name="g_hook"	enabled="true"/>
+		</graphic_group>
+
+		<graphic_group name="grp_gui" enabled="true" >
+			<lod_object name="lod_group">
+                <object name="g_icon"		enabled="true"  max_distance="450"  max_draw_lod="0" />
+                <object name="g_icon_lod1"	enabled="true"  lod="1" />
+			</lod_object>
+		</graphic_group>
+	</graphics>
+	<ropes>
+        <rope name="rope" subdivision="4" radius="0.5" texture_period="1.28" material="rope_material" material_object_name="g_hook"/>
+    </ropes>
+</dynamic_object>

@@ -1,0 +1,20 @@
+<table>
+	<unit>
+		<sequence editable_state="true" name="'enable_interaction'" triggable="true">
+			<graphic_group name="'grp_gui'" visibility="true"/>
+			<object enabled="true" name="'rope'"/>
+			<function extension="'zipline'" function="'set_enabled'" param1="true"/>
+		</sequence>
+		<sequence editable_state="true" name="'disable_interaction'" triggable="true">
+			<graphic_group name="'grp_gui'" visibility="false"/>
+			<object enabled="false" name="'rope'"/>
+			<function extension="'zipline'" function="'set_enabled'" param1="false"/>
+		</sequence>
+		<sequence name="'on_person_enter'" triggable="true">
+			<graphic_group name="'grp_hook'" visibility="true"/>
+		</sequence>
+		<sequence name="'on_person_exit'" triggable="true">
+			<graphic_group name="'grp_hook'" visibility="false"/>
+		</sequence>
+	</unit>
+</table>

@@ -1,0 +1,9 @@
+<table directory="assets">
+	<add path="units/pd2_mod_custom/hogar_securitycables/securitycables" type="unit">
+		<material_config path="units/pd2_mod_custom/hogar_securitycables/securitycables"/>
+		<model path="units/pd2_mod_custom/hogar_securitycables/securitycables"/>
+		<object path="units/pd2_mod_custom/hogar_securitycables/securitycables"/>
+		<sequence_manager load="true" path="units/pd2_mod_custom/hogar_securitycables/securitycables"/>
+		<unit load="true" path="units/pd2_mod_custom/hogar_securitycables/securitycables"/>
+	</add>
+</table>

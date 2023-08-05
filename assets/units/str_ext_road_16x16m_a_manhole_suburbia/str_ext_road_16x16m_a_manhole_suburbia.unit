@@ -1,0 +1,6 @@
+<unit type="str" slot="1" >
+    <object file="units/str_ext_road_16x16m_a_manhole_suburbia/str_ext_road_16x16m_a_manhole_suburbia" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>

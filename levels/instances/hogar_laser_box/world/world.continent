@@ -1,0 +1,21 @@
+<table>
+	<editor_groups/>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="0 0 150" _prev_rot="0.754177 -0.315938 -0.136442 -0.559271" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="mat_blue" name="units/world/architecture/hospital/props/securitycables/securitycable_interaction_blue" name_id="securitycable_interaction_blue_001" position="0 0 150" rotation="0.754177 -0.315938 -0.136442 -0.559271" unit_id="100001"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-0.299923 -5.9247e-005 3.39996" _prev_rot="0.672498 -0.218508 0.218508 -0.672499" continent="world" local_pos="-2.1301 -2.3863 -1.19079" local_rot="0.229924 0.166288 -0.261636 0.922513" mesh_variation="mat_green" name="units/world/architecture/hospital/props/securitycables/securitycable_interaction_green" name_id="securitycable_interaction_green_001" position="-0.299923 -5.9247e-005 153.4" rotation="0.672498 -0.218508 0.218508 -0.672499" unit_id="100002"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-0.399896 -1.40008 6.59995" _prev_rot="0.658831 -0.220215 0.239917 -0.678149" continent="world" local_pos="-3.54229 -4.50222 -3.58631" local_rot="0.248825 0.179739 -0.268775 0.912984" mesh_variation="mat_red" name="units/world/architecture/hospital/props/securitycables/securitycable_interaction_red" name_id="securitycable_interaction_red_001" position="-0.399896 -1.40008 156.6" rotation="0.658831 -0.220215 0.239917 -0.678149" unit_id="100003"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="4.4 -0.8 141.2" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_interaction_cut_wires" name="units/pd2_dlc_bex/props/bex_prop_cable_box/bex_prop_cable_box" name_id="bex_prop_cable_box_001" position="4.4 -0.8 141.2" rotation="0 0 0 -1" unit_id="100004"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

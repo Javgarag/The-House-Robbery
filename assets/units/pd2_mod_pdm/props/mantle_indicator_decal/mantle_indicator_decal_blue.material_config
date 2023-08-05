@@ -1,0 +1,5 @@
+<materials version="3">
+	<material name="mtr_stain" render_template="decal:DIFFUSE_TEXTURE" version="2">
+        <diffuse_texture file="units/pd2_mod_pdm/props/mantle_indicator_decal/mantle_indicator_decal_blue_df"/>
+    </material>
+</materials>
