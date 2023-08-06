@@ -187,6 +187,10 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100009"/>
 						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100026"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="8240 8052 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
@@ -939,6 +943,10 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100040"/>
 						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100026"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="4283 3170 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
@@ -1163,6 +1171,24 @@
 					</entry>
 					<entry key="position" type="vector3" value="8585 8107 50"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="45" type="table">
+				<entry key="class" type="string" value="ElementInstanceOutput"/>
+				<entry key="editor_name" type="string" value="instance_output_001"/>
+				<entry key="id" type="number" value="100026"/>
+				<entry key="module" type="string" value="CoreElementInstance"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="event" type="string" value="hackbox_opened"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="8315 8052 0"/>
+					<entry key="rotation" type="quaternion" value="-0 0 -0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>

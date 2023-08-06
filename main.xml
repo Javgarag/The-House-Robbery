@@ -138,7 +138,6 @@
 		</outro_event>
 		<packages>
 			<value_node value="levels/narratives/e_welcome_to_the_jungle/stage_2/world_sounds"/>
-			<value_node value="levels/narratives/jiu/chas/whitebox/whitebox"/>
 			<value_node value="levels/instances/unique/hlm_vault/world/world"/>
 			<value_node value="levels/instances/unique/born/born_escape/world"/>
 			<value_node value="levels/instances/unique/hox_estate_window/world"/>
@@ -146,9 +145,7 @@
 			<value_node value="levels/narratives/elephant/born/world"/>
 			<value_node value="levels/narratives/bain/roberts/world_sounds"/>
 			<value_node value="levels/instances/unique/hvh/hvh_chance/world/world"/>
-			<value_node value="packages/narr_jerry2"/>
 			<value_node value="hogar_world"/>
-			<value_node value="packages/narr_born_1"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="hogar_objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">

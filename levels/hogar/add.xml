@@ -217,11 +217,6 @@
 		<object path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1"/>
 		<sequence_manager path="units/payday2/characters/ragdoll"/>
 	</add>
-	<add from_db="true" path="units/payday2/architecture/lux/lux_int_books_a" type="unit">
-		<material_config path="units/payday2/architecture/lux/lux"/>
-		<object path="units/payday2/architecture/lux/lux_int_books_a"/>
-		<unit path="units/payday2/architecture/lux/lux_int_books_a"/>
-	</add>
 	<add from_db="true" path="units/pd2_dlc_peta/props/pta_prop_folding_shutters/pta_folding_shutters" type="unit">
 		<material_config path="units/pd2_dlc_peta/props/pta_prop_folding_shutters/pta_folding_shutters"/>
 		<object path="units/pd2_dlc_peta/props/pta_prop_folding_shutters/pta_folding_shutters"/>
@@ -2967,7 +2962,7 @@
 		<unit path="units/world/architecture/secret_stash/props/secret_stash_props_trash_6"/>
 	</add>
 	<add from_db="true" path="units/payday2/characters/civ_male_casual_3/civ_male_casual_3" type="unit">
-		<unit path="units/payday2/characters/civ_male_casual_3/civ_male_casual_3"/>
+		<unit load="true" path="units/payday2/characters/civ_male_casual_3/civ_male_casual_3"/>
 		<unit load="true" path="units/payday2/characters/civ_male_casual_3/civ_male_casual_3_husk"/>
 		<object path="units/payday2/characters/civ_male_casual_3/civ_male_casual_3"/>
 	</add>
@@ -3723,7 +3718,7 @@
 		<unit path="units/world/props/office/chair/office_chair_briefing"/>
 	</add>
 	<add from_db="true" path="units/payday2/characters/civ_male_worker_1/civ_male_worker_1" type="unit">
-		<unit path="units/payday2/characters/civ_male_worker_1/civ_male_worker_1"/>
+		<unit load="true" path="units/payday2/characters/civ_male_worker_1/civ_male_worker_1"/>
 		<unit load="true" path="units/payday2/characters/civ_male_worker_1/civ_male_worker_1_husk"/>
 		<object path="units/payday2/characters/civ_male_worker_1/civ_male_worker_1"/>
 	</add>
@@ -3947,7 +3942,7 @@
 		<object path="units/pd2_dlc_born/characters/ene_gang_biker_boss/ene_gang_biker_boss"/>
 	</add>
 	<add from_db="true" path="units/payday2/characters/ene_biker_3/ene_biker_3" type="unit">
-		<unit path="units/payday2/characters/ene_biker_3/ene_biker_3"/>
+		<unit load="true" path="units/payday2/characters/ene_biker_3/ene_biker_3"/>
 		<unit load="true" path="units/payday2/characters/ene_biker_3/ene_biker_3_husk"/>
 		<object path="units/payday2/characters/ene_biker_3/ene_biker_3"/>
 	</add>
@@ -4968,11 +4963,6 @@
 		<object path="units/pd2_dlc_spa/brushes/graffiti/spa_props_graffiti_brush_fife_01"/>
 		<unit path="units/pd2_dlc_spa/brushes/graffiti/spa_props_graffiti_brush_fife_01"/>
 	</add>
-	<add from_db="true" path="units/payday2/props/off_prop_generic_filecabinet/off_prop_generic_filecabinet_a" type="unit">
-		<object path="units/payday2/props/off_prop_generic_filecabinet/off_prop_generic_filecabinet_a"/>
-		<sequence_manager path="units/payday2/props/off_prop_generic_filecabinet/off_prop_generic_filecabinet"/>
-		<unit path="units/payday2/props/off_prop_generic_filecabinet/off_prop_generic_filecabinet_a"/>
-	</add>
 	<add from_db="true" path="units/payday2/equipment/gen_interactable_zipline/gen_interactable_zipline_mount_wall" type="unit">
 		<material_config path="units/payday2/equipment/gen_interactable_zipline/gen_interactable_zipline_mount_wall"/>
 		<object path="units/payday2/equipment/gen_interactable_zipline/gen_interactable_zipline_mount_wall"/>
@@ -4996,5 +4986,171 @@
 		<object path="units/payday2/equipment/gen_equipment_zipline_motor/gen_equipment_zipline_motor"/>
 		<sequence_manager path="units/payday2/equipment/gen_equipment_zipline_motor/gen_equipment_zipline_motor"/>
 		<unit path="units/payday2/equipment/gen_equipment_zipline_motor/gen_equipment_zipline_motor"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_roof_4x4m_a" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind"/>
+		<object path="units/payday2/architecture/ind/ind_ext_roof_4x4m_a"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_roof_4x4m_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/ind/ind_ext_roof_8x8m_a" type="unit">
+		<material_config path="units/payday2/architecture/ind/ind_ext_01b"/>
+		<object path="units/payday2/architecture/ind/ind_ext_roof_8x8m_a"/>
+		<unit path="units/payday2/architecture/ind/ind_ext_roof_8x8m_a"/>
+	</add>
+	<add path="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" type="unit">
+		<material_config path="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching"/>
+		<object path="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false"/>
+		<sequence_manager path="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching"/>
+		<unit path="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false"/>
+	</add>
+	<add path="units/gen_pku_turkey_head/gen_pku_turkey_head" type="unit">
+		<material_config path="units/gen_pku_turkey_head/gen_pku_turkey_head"/>
+		<object path="units/gen_pku_turkey_head/gen_pku_turkey_head"/>
+		<sequence_manager path="units/gen_pku_turkey_head/gen_pku_turkey_head"/>
+		<unit path="units/gen_pku_turkey_head/gen_pku_turkey_head"/>
+	</add>
+	<add path="units/laptop_marcmb/laptop_marcmb" type="unit">
+		<material_config path="units/laptop_marcmb/laptop_marcmb"/>
+		<object path="units/laptop_marcmb/laptop_marcmb"/>
+		<unit path="units/laptop_marcmb/laptop_marcmb"/>
+	</add>
+	<add path="units/pd2_dlc_born_mod/architecture/bor_clubhouse/bor_clubhouse" type="unit">
+		<material_config path="units/pd2_dlc_born_mod/architecture/bor_clubhouse/bor_clubhouse"/>
+		<object path="units/pd2_dlc_born_mod/architecture/bor_clubhouse/bor_clubhouse"/>
+		<unit path="units/pd2_dlc_born_mod/architecture/bor_clubhouse/bor_clubhouse"/>
+	</add>
+	<add path="units/pd2_dlc_sand/architecture/ext/sand_ext_open_zone_a_hole/sand_ext_sidewall" type="unit">
+		<material_config path="units/pd2_dlc_sand/architecture/ext/sand_ext_open_zone_a_hole/sand_ext_sidewall"/>
+		<object path="units/pd2_dlc_sand/architecture/ext/sand_ext_open_zone_a_hole/sand_ext_sidewall"/>
+		<unit path="units/pd2_dlc_sand/architecture/ext/sand_ext_open_zone_a_hole/sand_ext_sidewall"/>
+	</add>
+	<add path="units/pd2_mod_custom/hogar_brick_debree/hogar_brick_debree" type="unit">
+		<material_config path="units/pd2_mod_custom/hogar_brick_debree/hogar_brick_debree"/>
+		<object path="units/pd2_mod_custom/hogar_brick_debree/hogar_brick_debree"/>
+		<unit path="units/pd2_mod_custom/hogar_brick_debree/hogar_brick_debree"/>
+	</add>
+	<add path="units/pd2_mod_custom/hogar_code_note/hogar_code_note" type="unit" used="true">
+		<material_config path="units/pd2_mod_custom/hogar_code_note/hogar_code_note"/>
+		<object path="units/pd2_mod_custom/hogar_code_note/hogar_code_note"/>
+		<sequence_manager path="units/pd2_mod_custom/hogar_code_note/hogar_code_note"/>
+		<unit path="units/pd2_mod_custom/hogar_code_note/hogar_code_note"/>
+	</add>
+	<add path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall" type="unit">
+		<material_config path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall"/>
+		<object path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall"/>
+		<sequence_manager path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall"/>
+		<unit path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall"/>
+	</add>
+	<add path="units/pd2_mod_custom/hogar_pickup_hdd/secret_stash_equipment_server_rack_pickup" type="unit">
+		<material_config path="units/pd2_mod_custom/hogar_pickup_hdd/secret_stash_equipment_server_rack_interaction_contour"/>
+		<object path="units/pd2_mod_custom/hogar_pickup_hdd/secret_stash_equipment_server_rack_pickup"/>
+		<sequence_manager path="units/pd2_mod_custom/hogar_pickup_hdd/secret_stash_equipment_server_rack_pickup"/>
+		<unit path="units/pd2_mod_custom/hogar_pickup_hdd/secret_stash_equipment_server_rack_pickup"/>
+	</add>
+	<add path="units/pd2_mod_custom/hogar_props_titan_shutters/brb_prop_titan_shutters" type="unit">
+		<material_config path="units/pd2_mod_custom/hogar_props_titan_shutters/brb_prop_titan_shutters"/>
+		<object path="units/pd2_mod_custom/hogar_props_titan_shutters/brb_prop_titan_shutters"/>
+		<sequence_manager path="units/pd2_mod_custom/hogar_props_titan_shutters/brb_prop_titan_shutters"/>
+		<unit path="units/pd2_mod_custom/hogar_props_titan_shutters/brb_prop_titan_shutters"/>
+	</add>
+	<add path="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big" type="unit">
+		<material_config path="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big"/>
+		<object path="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big"/>
+		<sequence_manager path="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big"/>
+		<unit path="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big"/>
+	</add>
+	<add path="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window" type="unit">
+		<material_config path="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window"/>
+		<object path="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window"/>
+		<sequence_manager path="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window"/>
+		<unit path="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window"/>
+	</add>
+	<add path="units/pd2_mod_custom/hogar_securitycables/securitycables" type="unit">
+		<material_config path="units/pd2_mod_custom/hogar_securitycables/securitycables"/>
+		<object path="units/pd2_mod_custom/hogar_securitycables/securitycables"/>
+		<sequence_manager path="units/pd2_mod_custom/hogar_securitycables/securitycables"/>
+		<unit path="units/pd2_mod_custom/hogar_securitycables/securitycables"/>
+	</add>
+	<add path="units/pd2_mod_custom/hogar_tv_program/hogar_tv_program" type="unit">
+		<material_config path="units/pd2_mod_custom/hogar_tv_program/hogar_tv_program"/>
+		<object path="units/pd2_mod_custom/hogar_tv_program/hogar_tv_program"/>
+		<sequence_manager path="units/pd2_mod_custom/hogar_tv_program/hogar_tv_program"/>
+		<unit path="units/pd2_mod_custom/hogar_tv_program/hogar_tv_program"/>
+	</add>
+	<add path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" type="unit">
+		<material_config path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade"/>
+		<object path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade"/>
+		<sequence_manager path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade"/>
+		<unit path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade"/>
+	</add>
+	<add path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" type="unit">
+		<material_config path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy"/>
+		<object path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy"/>
+		<unit path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy"/>
+	</add>
+	<add path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" type="unit">
+		<material_config path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk"/>
+		<object path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk"/>
+		<unit path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk"/>
+	</add>
+	<add path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" type="unit">
+		<material_config path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint"/>
+		<object path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint"/>
+		<unit path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint"/>
+	</add>
+	<add path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan" type="unit">
+		<animation path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/anims/anim_sedan_arrive"/>
+		<animation_def path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/anims/car"/>
+		<animation_state_machine path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/anims/car"/>
+		<animation_states path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/anims/std"/>
+		<animation_subset path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/anims/std"/>
+		<material_config path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
+		<object path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
+		<sequence_manager path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
+		<unit path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
+	</add>
+	<add path="units/pd2_mod_pdm/props/grapple_point/grapple_point" type="unit">
+		<material_config path="units/pd2_mod_pdm/props/grapple_point/grapple_point"/>
+		<object path="units/pd2_mod_pdm/props/grapple_point/grapple_point"/>
+		<sequence_manager path="units/pd2_mod_pdm/props/grapple_point/grapple_point"/>
+		<unit path="units/pd2_mod_pdm/props/grapple_point/grapple_point"/>
+	</add>
+	<add path="units/str_ext_asphalt_16x16m_a_suburbia_manhole/str_ext_asphalt_16x16m_a_suburbia_manhole" type="unit">
+		<material_config path="units/str_ext_asphalt_16x16m_a_suburbia_manhole/str_ext_asphalt_16x16m_a_suburbia_manhole"/>
+		<object path="units/str_ext_asphalt_16x16m_a_suburbia_manhole/str_ext_asphalt_16x16m_a_suburbia_manhole"/>
+		<unit path="units/str_ext_asphalt_16x16m_a_suburbia_manhole/str_ext_asphalt_16x16m_a_suburbia_manhole"/>
+	</add>
+	<add path="units/str_ext_road_16x16m_a_manhole_suburbia/str_ext_road_16x16m_a_manhole_suburbia" type="unit">
+		<material_config path="units/str_ext_road_16x16m_a_manhole_suburbia/str_ext_road_16x16m_a_manhole_suburbia"/>
+		<object path="units/str_ext_road_16x16m_a_manhole_suburbia/str_ext_road_16x16m_a_manhole_suburbia"/>
+		<unit path="units/str_ext_road_16x16m_a_manhole_suburbia/str_ext_road_16x16m_a_manhole_suburbia"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_holly/river/vehicles/anim_vehicle_rubber_boat/anim_vehicle_rubber_boat" type="unit">
+		<animation path="anims/rubber_boat/boat_left"/>
+		<animation path="anims/rubber_boat/boat_right"/>
+		<animation path="anims/rubber_boat/drk_boat_arrive_1"/>
+		<animation path="anims/rubber_boat/lxy_boat_arrive"/>
+		<animation path="anims/rubber_boat/lxy_boat_exit"/>
+		<animation path="anims/rubber_boat/fex_boat_exit"/>
+		<effect load="true" path="effects/payday2/particles/water/water_speed_splash_rib_boat"/>
+		<effect load="true" path="effects/payday2/particles/water/water_speed_splash_rib_boat_small"/>
+		<animation_def path="anims/units/rubber_boat/rubber_boat"/>
+		<animation_state_machine path="anims/units/rubber_boat/rubber_boat"/>
+		<animation_states path="anims/units/rubber_boat/std"/>
+		<animation_subset path="anims/units/rubber_boat/std"/>
+		<material_config path="units/pd2_dlc_holly/river/vehicles/anim_vehicle_rubber_boat/anim_vehicle_rubber_boat"/>
+		<object path="units/pd2_dlc_holly/river/vehicles/anim_vehicle_rubber_boat/anim_vehicle_rubber_boat"/>
+		<sequence_manager path="units/pd2_dlc_holly/river/vehicles/anim_vehicle_rubber_boat/anim_vehicle_rubber_boat"/>
+		<unit path="units/pd2_dlc_holly/river/vehicles/anim_vehicle_rubber_boat/anim_vehicle_rubber_boat"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a" type="unit">
+		<material_config path="units/payday2/architecture/mkp/mkp"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_floor_1x1m_a"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_born/characters/ene_biker_female_2/ene_biker_female_2" type="unit">
+		<unit load="true" path="units/pd2_dlc_born/characters/ene_biker_female_2/ene_biker_female_2"/>
+		<unit load="true" path="units/pd2_dlc_born/characters/ene_biker_female_2/ene_biker_female_2_husk"/>
+		<object path="units/pd2_dlc_born/characters/ene_biker_female_2/ene_biker_female_2"/>
 	</add>
 </table>
