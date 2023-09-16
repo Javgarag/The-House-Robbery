@@ -252,9 +252,6 @@
 			<unit_data _prev_pos="818 1062 186.962" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="clubhouse_interior" disable_collision="true" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_rvd/props/rvd_prop_diner_plate/rvd_prop_diner_plate_01" name_id="rvd_prop_diner_plate_01_001" position="818 1062 186.962" rotation="0 0 0 -1" unit_id="300076"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="827 1611 186.962" _prev_rot="0 0 -0.147809 -0.989016" _visibility_counter="0" continent="clubhouse_interior" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disable_interaction" name="units/pd2_dlc_tag/pickup/tag_pku_chimichanga/tag_pku_chimichanga" name_id="tag_pku_chimichanga_002" position="827 1611 186.962" rotation="0 0 -0.147809 -0.989016" unit_id="300077"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="498.917 -122.911 100" _prev_rot="0 0 0 -1" continent="clubhouse_interior" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/hotel/flower_pot/flower_pot_big" name_id="flower_pot_big_002" position="506.917 -122.911 100" rotation="0 0 0 -1" unit_id="300085"/>
 		</table>
 		<table>
@@ -1238,7 +1235,7 @@
 			<unit_data _prev_pos="829 1230 100" _prev_rot="0 0 0.707107 -0.707107" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_apartment_kitchen_assets/flt_prop_apartment_kitchen_counter_01" name_id="flt_prop_apartment_kitchen_counter_01_003" position="829 1230 100" rotation="0 0 0.707107 -0.707107" unit_id="300067"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="839 1217 186.962" _prev_rot="0 0 0 -1" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mcmansion/props/mcm_prop_livingroom_fruitbowl/mcm_prop_livingroom_fruitbowl" name_id="mcm_prop_livingroom_fruitbowl_002" position="839 1217 186.962" rotation="0 0 0 -1" unit_id="300068"/>
+			<unit_data _prev_pos="839 1223 186.962" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mcmansion/props/mcm_prop_livingroom_fruitbowl/mcm_prop_livingroom_fruitbowl" name_id="mcm_prop_livingroom_fruitbowl_002" position="837 1223 186.962" rotation="0 0 0 -1" unit_id="300068"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="829 1285 100" _prev_rot="0 0 0.707107 -0.707107" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_flat/props/flt_prop_apartment_kitchen_assets/flt_prop_apartment_kitchen_counter_05" name_id="flt_prop_apartment_kitchen_counter_05_002" position="829 1285 100" rotation="0 0 0.707107 -0.707107" unit_id="300069"/>
@@ -1497,9 +1494,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="608 471 579.53" _prev_rot="1.51263e-007 1.69834e-007 0.382684 -0.923879" continent="clubhouse_interior" disable_shadows="true" local_pos="0 0 0" local_rot="-0 0 0 1" name="units/world/props/train/tra_cover_cardboardbox/tra_cover_cardboardbox" name_id="tra_cover_cardboardbox_039" position="608 471 579.53" rotation="1.51263e-007 1.69834e-007 0.382684 -0.923879" unit_id="300527"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="626 327 579.53" _prev_rot="0 0 0.224951 -0.97437" continent="clubhouse_interior" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="-0 0 0 1" mesh_variation="disable_interaction" name="units/pd2_dlc_tag/pickup/tag_pku_chimichanga/tag_pku_chimichanga" name_id="tag_pku_chimichanga_003" position="626 327 579.53" rotation="0 0 0.224951 -0.97437" unit_id="300151"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="626.549 326.97 578.876" _prev_rot="0 0 -1.19209e-007 -1" continent="clubhouse_interior" disable_collision="true" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0.506612 0.21368 -0.653992" local_rot="0 0 0.224951 0.97437" name="units/pd2_dlc_rvd/props/rvd_prop_diner_plate/rvd_prop_diner_plate_01" name_id="rvd_prop_diner_plate_01_003" position="626.549 326.97 578.876" rotation="0 0 -1.19209e-007 -1" unit_id="300192"/>
@@ -2098,6 +2092,9 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="1295 805 244.603" _prev_rot="0 0 -0.507538 -0.861629" continent="clubhouse_interior" local_pos="26 15 144.623" local_rot="0 0 -0.25038 0.968148" name="units/world/props/train/tra_cover_cardboardbox/tra_cover_cardboardbox" name_id="tra_cover_cardboardbox_017" position="1295 843 244.603" rotation="0 0 -0.507538 -0.861629" unit_id="300617"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="826.551 1593.04 187.195" _prev_rot="-0.0697565 0 0 -0.997564" continent="clubhouse_interior" disable_collision="true" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_rvd/props/rvd_prop_diner_plate/rvd_prop_diner_plate_01" name_id="rvd_prop_diner_plate_01_005" position="826.551 1592.9 188.185" rotation="-0.0697565 0 0 -0.997564" unit_id="300077"/>
 		</table>
 	</statics>
 	<values>

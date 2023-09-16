@@ -5153,4 +5153,5 @@
 		<unit load="true" path="units/pd2_dlc_born/characters/ene_biker_female_2/ene_biker_female_2_husk"/>
 		<object path="units/pd2_dlc_born/characters/ene_biker_female_2/ene_biker_female_2"/>
 	</add>
+	<add from_db="true" path="fonts/font_futura" type="font"/>
 </table>

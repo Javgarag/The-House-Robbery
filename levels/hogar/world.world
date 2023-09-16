@@ -4346,7 +4346,6 @@
 					<entry index="300074" type="boolean" value="true"/>
 					<entry index="300075" type="boolean" value="true"/>
 					<entry index="300076" type="boolean" value="true"/>
-					<entry index="300077" type="boolean" value="true"/>
 					<entry index="300078" type="boolean" value="true"/>
 					<entry index="300079" type="boolean" value="true"/>
 					<entry index="300080" type="boolean" value="true"/>
@@ -4420,7 +4419,6 @@
 					<entry index="300148" type="boolean" value="true"/>
 					<entry index="300149" type="boolean" value="true"/>
 					<entry index="300150" type="boolean" value="true"/>
-					<entry index="300151" type="boolean" value="true"/>
 					<entry index="300152" type="boolean" value="true"/>
 					<entry index="300153" type="boolean" value="true"/>
 					<entry index="300154" type="boolean" value="true"/>
@@ -4920,6 +4918,14 @@
 						<entry key="height" type="number" value="400"/>
 						<entry key="position" type="vector3" value="-1661 2450 -562.03"/>
 						<entry key="rotation" type="quaternion" value="0 0 -0.707107 -0.707107"/>
+						<entry key="type" type="string" value="box"/>
+						<entry key="width" type="number" value="300"/>
+					</entry>
+					<entry index="4" type="table">
+						<entry key="depth" type="number" value="150"/>
+						<entry key="height" type="number" value="450"/>
+						<entry key="position" type="vector3" value="-705 5358 -543.004"/>
+						<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 						<entry key="type" type="string" value="box"/>
 						<entry key="width" type="number" value="300"/>
 					</entry>

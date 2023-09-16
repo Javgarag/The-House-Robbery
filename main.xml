@@ -146,6 +146,7 @@
 			<value_node value="levels/narratives/bain/roberts/world_sounds"/>
 			<value_node value="levels/instances/unique/hvh/hvh_chance/world/world"/>
 			<value_node value="hogar_world"/>
+			<value_node value="packages/narr_born_1"/>
 		</packages>
 		<script_data_mods directory="scriptdata">
 			<mod replacement="hogar_objectives.objective" replacement_type="custom_xml" target_ext="objective" target_path="gamedata/objectives">
