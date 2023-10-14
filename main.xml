@@ -1,4 +1,5 @@
 <table name="The House Robbery">
+	<AssetUpdates id="Javgarag/The-House-Robbery" provider="github" branch="main"/>
 	<instance id="code_notebook_wrong">
 		<packages/>
 	</instance>

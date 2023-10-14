@@ -3838,115 +3838,142 @@
 		<entry index="3836" type="vector3" value="353 161 60.0247"/>
 		<entry index="3837" type="vector3" value="351 161 46.6822"/>
 		<entry index="3838" type="vector3" value="351 170 21.5"/>
-		<entry index="3839" type="vector3" value="-72 158 907.257"/>
-		<entry index="3840" type="vector3" value="-68 158 906.622"/>
-		<entry index="3841" type="vector3" value="-77 152 853.063"/>
-		<entry index="3842" type="vector3" value="-75 152 853.063"/>
-		<entry index="3843" type="vector3" value="-68 152 857.547"/>
-		<entry index="3844" type="vector3" value="-68 154 874.43"/>
-		<entry index="3845" type="vector3" value="-68 158 905.053"/>
-		<entry index="3846" type="vector3" value="-79 158 905.053"/>
-		<entry index="3847" type="vector3" value="-79 158 907.257"/>
-		<entry index="3848" type="vector3" value="-72 162 906.684"/>
-		<entry index="3849" type="vector3" value="-81 162 904.7"/>
-		<entry index="3850" type="vector3" value="-57 182 904.7"/>
-		<entry index="3851" type="vector3" value="-57 158 904.7"/>
-		<entry index="3852" type="vector3" value="-57 182 904.7"/>
-		<entry index="3853" type="vector3" value="-72 182 904.7"/>
-		<entry index="3854" type="vector3" value="-77 152 846.134"/>
-		<entry index="3855" type="vector3" value="-77 151 845.926"/>
-		<entry index="3856" type="vector3" value="-75 151 825.163"/>
-		<entry index="3857" type="vector3" value="-65 152 870.755"/>
-		<entry index="3858" type="vector3" value="-90 163 920.686"/>
-		<entry index="3859" type="vector3" value="-89 163 920.45"/>
-		<entry index="3860" type="vector3" value="-81 158 904.868"/>
-		<entry index="3861" type="vector3" value="-92 163 907.305"/>
-		<entry index="3862" type="vector3" value="-92 182 904.7"/>
-		<entry index="3863" type="vector3" value="-73 182 918.555"/>
-		<entry index="3864" type="vector3" value="-80 182 907.305"/>
-		<entry index="3865" type="vector3" value="-79 182 918.555"/>
-		<entry index="3866" type="vector3" value="-72 182 904.7"/>
-		<entry index="3867" type="vector3" value="-57 188 904.7"/>
-		<entry index="3868" type="vector3" value="-119 220 904.7"/>
-		<entry index="3869" type="vector3" value="-57 158 904.7"/>
-		<entry index="3870" type="vector3" value="-56 186 924.49"/>
-		<entry index="3871" type="vector3" value="-56 188 924.49"/>
-		<entry index="3872" type="vector3" value="-73 182 932.41"/>
-		<entry index="3873" type="vector3" value="-73 181 931.15"/>
-		<entry index="3874" type="vector3" value="-67 151 873.039"/>
-		<entry index="3875" type="vector3" value="-65 151 870.756"/>
-		<entry index="3876" type="vector3" value="-92 158 904.819"/>
-		<entry index="3877" type="vector3" value="-92 182 904.7"/>
-		<entry index="3878" type="vector3" value="-92 171 907.305"/>
-		<entry index="3879" type="vector3" value="-92 163 907.305"/>
-		<entry index="3880" type="vector3" value="-119 182 904.7"/>
-		<entry index="3881" type="vector3" value="-73 181 932.41"/>
-		<entry index="3882" type="vector3" value="-75 181 943.85"/>
-		<entry index="3883" type="vector3" value="-78 181 938.13"/>
-		<entry index="3884" type="vector3" value="-79 182 932.41"/>
-		<entry index="3885" type="vector3" value="-90 171 907.305"/>
-		<entry index="3886" type="vector3" value="-85 171 904.7"/>
-		<entry index="3887" type="vector3" value="-81 171 904.7"/>
-		<entry index="3888" type="vector3" value="-88 171 907.305"/>
-		<entry index="3889" type="vector3" value="-80 182 909.91"/>
-		<entry index="3890" type="vector3" value="-79 181 935.498"/>
-		<entry index="3891" type="vector3" value="-54 186 924.49"/>
-		<entry index="3892" type="vector3" value="-75 181 955.29"/>
-		<entry index="3893" type="vector3" value="-67 151 882.007"/>
-		<entry index="3894" type="vector3" value="-89 157 904.832"/>
-		<entry index="3895" type="vector3" value="-119 158 904.7"/>
-		<entry index="3896" type="vector3" value="-90 171 909.91"/>
-		<entry index="3897" type="vector3" value="-90 165 939.46"/>
-		<entry index="3898" type="vector3" value="-90 164 931.004"/>
-		<entry index="3899" type="vector3" value="-75 179 993.326"/>
-		<entry index="3900" type="vector3" value="-78 181 949.57"/>
-		<entry index="3901" type="vector3" value="-85 171 904.7"/>
-		<entry index="3902" type="vector3" value="-88 171 909.91"/>
-		<entry index="3903" type="vector3" value="-89 164 948.801"/>
-		<entry index="3904" type="vector3" value="-89 156 914.595"/>
-		<entry index="3905" type="vector3" value="-88 165 989.499"/>
-		<entry index="3906" type="vector3" value="-88 168 978.04"/>
-		<entry index="3907" type="vector3" value="-120 219 921.19"/>
-		<entry index="3908" type="vector3" value="-120 220 921.19"/>
-		<entry index="3909" type="vector3" value="-89 156 914.595"/>
-		<entry index="3910" type="vector3" value="-81 168 1000.75"/>
-		<entry index="3911" type="vector3" value="-88 168 978.04"/>
-		<entry index="3912" type="vector3" value="-120 219 921.19"/>
-		<entry index="3913" type="vector3" value="-120 219 921.19"/>
-		<entry index="3914" type="vector3" value="7 186 924.49"/>
-		<entry index="3915" type="vector3" value="7 188 924.49"/>
-		<entry index="3916" type="vector3" value="9 182 904.7"/>
-		<entry index="3917" type="vector3" value="25 182 904.7"/>
-		<entry index="3918" type="vector3" value="39 182 904.7"/>
-		<entry index="3919" type="vector3" value="39 157 904.7"/>
-		<entry index="3920" type="vector3" value="39 182 904.7"/>
-		<entry index="3921" type="vector3" value="8 182 904.7"/>
-		<entry index="3922" type="vector3" value="39 156 914.595"/>
-		<entry index="3923" type="vector3" value="40 187 924.49"/>
-		<entry index="3924" type="vector3" value="39 187 904.7"/>
-		<entry index="3925" type="vector3" value="8 188 904.7"/>
-		<entry index="3926" type="vector3" value="7 186 924.49"/>
-		<entry index="3927" type="vector3" value="9 188 904.7"/>
-		<entry index="3928" type="vector3" value="7 186 924.49"/>
-		<entry index="3929" type="vector3" value="39 187 904.7"/>
-		<entry index="3930" type="vector3" value="25 182 904.7"/>
-		<entry index="3931" type="vector3" value="9 182 904.7"/>
-		<entry index="3932" type="vector3" value="39 182 904.7"/>
-		<entry index="3933" type="vector3" value="39 157 904.7"/>
-		<entry index="3934" type="vector3" value="39 182 904.7"/>
-		<entry index="3935" type="vector3" value="8 182 904.7"/>
-		<entry index="3936" type="vector3" value="111 185 22.5"/>
-		<entry index="3937" type="vector3" value="123 195 22.5"/>
-		<entry index="3938" type="vector3" value="123 209 22.5"/>
-		<entry index="3939" type="vector3" value="111 172 22.5"/>
-		<entry index="3940" type="vector3" value="123 212 22.5"/>
-		<entry index="3941" type="vector3" value="123 209 22.5"/>
-		<entry index="3942" type="vector3" value="105 232 22.5"/>
-		<entry index="3943" type="vector3" value="105 222 22.5"/>
-		<entry index="3944" type="vector3" value="105 213 22.5"/>
-		<entry index="3945" type="vector3" value="105 244 22.5"/>
-		<entry index="3946" type="vector3" value="100 244 22.5"/>
-		<entry index="3947" type="vector3" value="110 244 22.5"/>
+		<entry index="3839" type="vector3" value="111 185 22.5"/>
+		<entry index="3840" type="vector3" value="123 195 22.5"/>
+		<entry index="3841" type="vector3" value="123 209 22.5"/>
+		<entry index="3842" type="vector3" value="111 172 22.5"/>
+		<entry index="3843" type="vector3" value="123 212 22.5"/>
+		<entry index="3844" type="vector3" value="123 209 22.5"/>
+		<entry index="3845" type="vector3" value="105 232 22.5"/>
+		<entry index="3846" type="vector3" value="105 222 22.5"/>
+		<entry index="3847" type="vector3" value="105 213 22.5"/>
+		<entry index="3848" type="vector3" value="105 244 22.5"/>
+		<entry index="3849" type="vector3" value="100 244 22.5"/>
+		<entry index="3850" type="vector3" value="110 244 22.5"/>
+		<entry index="3851" type="vector3" value="-72 157 904.7"/>
+		<entry index="3852" type="vector3" value="-70 157 904.7"/>
+		<entry index="3853" type="vector3" value="-70 157 904.7"/>
+		<entry index="3854" type="vector3" value="-74 156 887.767"/>
+		<entry index="3855" type="vector3" value="-74 155 873.04"/>
+		<entry index="3856" type="vector3" value="-74 157 904.7"/>
+		<entry index="3857" type="vector3" value="-74 156 893.45"/>
+		<entry index="3858" type="vector3" value="-74 155 873.157"/>
+		<entry index="3859" type="vector3" value="-77 156 891.542"/>
+		<entry index="3860" type="vector3" value="-74 152 835.612"/>
+		<entry index="3861" type="vector3" value="-77 155 876"/>
+		<entry index="3862" type="vector3" value="-81 162 904.7"/>
+		<entry index="3863" type="vector3" value="-79 157 904.7"/>
+		<entry index="3864" type="vector3" value="-89 157 904.7"/>
+		<entry index="3865" type="vector3" value="-74 157 904.7"/>
+		<entry index="3866" type="vector3" value="-77 157 904.7"/>
+		<entry index="3867" type="vector3" value="-72 162 905.086"/>
+		<entry index="3868" type="vector3" value="-92 162 904.7"/>
+		<entry index="3869" type="vector3" value="-69 154 861.878"/>
+		<entry index="3870" type="vector3" value="-77 152 854.263"/>
+		<entry index="3871" type="vector3" value="-77 157 904.7"/>
+		<entry index="3872" type="vector3" value="-79 155 876"/>
+		<entry index="3873" type="vector3" value="-79 156 889.247"/>
+		<entry index="3874" type="vector3" value="-79 157 904.7"/>
+		<entry index="3875" type="vector3" value="-79 155 873.157"/>
+		<entry index="3876" type="vector3" value="-79 155 876"/>
+		<entry index="3877" type="vector3" value="-80 155 882.422"/>
+		<entry index="3878" type="vector3" value="-90 163 918.555"/>
+		<entry index="3879" type="vector3" value="-89 163 918.555"/>
+		<entry index="3880" type="vector3" value="-92 163 904.7"/>
+		<entry index="3881" type="vector3" value="-57 184 904.7"/>
+		<entry index="3882" type="vector3" value="-69 157 904.7"/>
+		<entry index="3883" type="vector3" value="-57 184 904.7"/>
+		<entry index="3884" type="vector3" value="-72 182 909.234"/>
+		<entry index="3885" type="vector3" value="-72 184 906.784"/>
+		<entry index="3886" type="vector3" value="-72 162 905.086"/>
+		<entry index="3887" type="vector3" value="-79 156 893.45"/>
+		<entry index="3888" type="vector3" value="-80 156 882.2"/>
+		<entry index="3889" type="vector3" value="-80 156 893.45"/>
+		<entry index="3890" type="vector3" value="-92 157 904.7"/>
+		<entry index="3891" type="vector3" value="-92 171 907.305"/>
+		<entry index="3892" type="vector3" value="-92 184 904.7"/>
+		<entry index="3893" type="vector3" value="-92 220 904.7"/>
+		<entry index="3894" type="vector3" value="-92 163 904.7"/>
+		<entry index="3895" type="vector3" value="-119 220 904.7"/>
+		<entry index="3896" type="vector3" value="-56 186 924.49"/>
+		<entry index="3897" type="vector3" value="-56 188 924.49"/>
+		<entry index="3898" type="vector3" value="-57 188 904.7"/>
+		<entry index="3899" type="vector3" value="-72 182 909.909"/>
+		<entry index="3900" type="vector3" value="-73 182 932.41"/>
+		<entry index="3901" type="vector3" value="-72 184 904.7"/>
+		<entry index="3902" type="vector3" value="-73 183 908.606"/>
+		<entry index="3903" type="vector3" value="-73 184 904.7"/>
+		<entry index="3904" type="vector3" value="-80 184 904.7"/>
+		<entry index="3905" type="vector3" value="-90 171 907.305"/>
+		<entry index="3906" type="vector3" value="-85 171 904.7"/>
+		<entry index="3907" type="vector3" value="-81 171 904.7"/>
+		<entry index="3908" type="vector3" value="-87 171 907.305"/>
+		<entry index="3909" type="vector3" value="-80 184 904.7"/>
+		<entry index="3910" type="vector3" value="-80 183 907.305"/>
+		<entry index="3911" type="vector3" value="-54 186 924.49"/>
+		<entry index="3912" type="vector3" value="-56 186 924.49"/>
+		<entry index="3913" type="vector3" value="-73 183 907.305"/>
+		<entry index="3914" type="vector3" value="-73 182 921.16"/>
+		<entry index="3915" type="vector3" value="-74 183 909.908"/>
+		<entry index="3916" type="vector3" value="-73 184 904.7"/>
+		<entry index="3917" type="vector3" value="-74 183 907.305"/>
+		<entry index="3918" type="vector3" value="-74 182 928.618"/>
+		<entry index="3919" type="vector3" value="-89 164 952.136"/>
+		<entry index="3920" type="vector3" value="-90 164 931.003"/>
+		<entry index="3921" type="vector3" value="-119 220 904.7"/>
+		<entry index="3922" type="vector3" value="-120 219 921.19"/>
+		<entry index="3923" type="vector3" value="-120 220 921.19"/>
+		<entry index="3924" type="vector3" value="-89 156 914.595"/>
+		<entry index="3925" type="vector3" value="-88 170 921.16"/>
+		<entry index="3926" type="vector3" value="-87 171 909.91"/>
+		<entry index="3927" type="vector3" value="-90 171 909.91"/>
+		<entry index="3928" type="vector3" value="-85 171 904.7"/>
+		<entry index="3929" type="vector3" value="-74 183 907.305"/>
+		<entry index="3930" type="vector3" value="-78 180 955.364"/>
+		<entry index="3931" type="vector3" value="-75 180 966.551"/>
+		<entry index="3932" type="vector3" value="-120 219 921.19"/>
+		<entry index="3933" type="vector3" value="-120 219 921.19"/>
+		<entry index="3934" type="vector3" value="-89 169 959.944"/>
+		<entry index="3935" type="vector3" value="-89 168 985.918"/>
+		<entry index="3936" type="vector3" value="-89 165 973.425"/>
+		<entry index="3937" type="vector3" value="-89 169 987.479"/>
+		<entry index="3938" type="vector3" value="-90 169 936.202"/>
+		<entry index="3939" type="vector3" value="-89 156 914.595"/>
+		<entry index="3940" type="vector3" value="-90 170 922.566"/>
+		<entry index="3941" type="vector3" value="-90 169 936.202"/>
+		<entry index="3942" type="vector3" value="-90 164 931.003"/>
+		<entry index="3943" type="vector3" value="-90 171 909.91"/>
+		<entry index="3944" type="vector3" value="-78 180 985.901"/>
+		<entry index="3945" type="vector3" value="-75 178 1000.75"/>
+		<entry index="3946" type="vector3" value="-88 168 1000.75"/>
+		<entry index="3947" type="vector3" value="-88 165 989.498"/>
+		<entry index="3948" type="vector3" value="-88 168 1000.75"/>
+		<entry index="3949" type="vector3" value="-88 169 966.579"/>
+		<entry index="3950" type="vector3" value="-81 168 1000.75"/>
+		<entry index="3951" type="vector3" value="7 186 924.49"/>
+		<entry index="3952" type="vector3" value="7 188 924.49"/>
+		<entry index="3953" type="vector3" value="9 182 904.7"/>
+		<entry index="3954" type="vector3" value="25 182 904.7"/>
+		<entry index="3955" type="vector3" value="39 182 904.7"/>
+		<entry index="3956" type="vector3" value="39 157 904.7"/>
+		<entry index="3957" type="vector3" value="39 182 904.7"/>
+		<entry index="3958" type="vector3" value="8 182 904.7"/>
+		<entry index="3959" type="vector3" value="39 156 914.595"/>
+		<entry index="3960" type="vector3" value="40 187 924.49"/>
+		<entry index="3961" type="vector3" value="39 187 904.7"/>
+		<entry index="3962" type="vector3" value="8 188 904.7"/>
+		<entry index="3963" type="vector3" value="7 186 924.49"/>
+		<entry index="3964" type="vector3" value="9 188 904.7"/>
+		<entry index="3965" type="vector3" value="7 186 924.49"/>
+		<entry index="3966" type="vector3" value="39 187 904.7"/>
+		<entry index="3967" type="vector3" value="-73 184 904.7"/>
+		<entry index="3968" type="vector3" value="-80 184 904.7"/>
+		<entry index="3969" type="vector3" value="25 182 904.7"/>
+		<entry index="3970" type="vector3" value="9 182 904.7"/>
+		<entry index="3971" type="vector3" value="39 182 904.7"/>
+		<entry index="3972" type="vector3" value="39 157 904.7"/>
+		<entry index="3973" type="vector3" value="39 182 904.7"/>
+		<entry index="3974" type="vector3" value="8 182 904.7"/>
 	</entry>
 	<entry key="door_high_rooms" type="table">
 		<entry index="1" type="number" value="2"/>
@@ -7787,115 +7814,142 @@
 		<entry index="3836" type="number" value="1941"/>
 		<entry index="3837" type="number" value="1981"/>
 		<entry index="3838" type="number" value="1982"/>
-		<entry index="3839" type="number" value="1985"/>
+		<entry index="3839" type="number" value="1984"/>
 		<entry index="3840" type="number" value="1986"/>
-		<entry index="3841" type="number" value="1984"/>
-		<entry index="3842" type="number" value="1984"/>
-		<entry index="3843" type="number" value="1984"/>
-		<entry index="3844" type="number" value="1989"/>
-		<entry index="3845" type="number" value="1992"/>
-		<entry index="3846" type="number" value="1984"/>
-		<entry index="3847" type="number" value="1985"/>
-		<entry index="3848" type="number" value="1986"/>
-		<entry index="3849" type="number" value="1985"/>
-		<entry index="3850" type="number" value="1991"/>
-		<entry index="3851" type="number" value="1986"/>
-		<entry index="3852" type="number" value="1993"/>
-		<entry index="3853" type="number" value="1986"/>
-		<entry index="3854" type="number" value="1988"/>
-		<entry index="3855" type="number" value="1995"/>
-		<entry index="3856" type="number" value="1988"/>
-		<entry index="3857" type="number" value="1989"/>
-		<entry index="3858" type="number" value="2006"/>
-		<entry index="3859" type="number" value="2010"/>
-		<entry index="3860" type="number" value="1990"/>
-		<entry index="3861" type="number" value="1990"/>
-		<entry index="3862" type="number" value="1991"/>
-		<entry index="3863" type="number" value="1991"/>
-		<entry index="3864" type="number" value="1991"/>
-		<entry index="3865" type="number" value="1991"/>
-		<entry index="3866" type="number" value="1991"/>
-		<entry index="3867" type="number" value="1993"/>
-		<entry index="3868" type="number" value="1991"/>
-		<entry index="3869" type="number" value="1993"/>
-		<entry index="3870" type="number" value="2001"/>
-		<entry index="3871" type="number" value="2021"/>
-		<entry index="3872" type="number" value="1994"/>
-		<entry index="3873" type="number" value="1994"/>
-		<entry index="3874" type="number" value="1996"/>
-		<entry index="3875" type="number" value="1996"/>
-		<entry index="3876" type="number" value="1997"/>
-		<entry index="3877" type="number" value="1999"/>
-		<entry index="3878" type="number" value="2006"/>
-		<entry index="3879" type="number" value="1990"/>
-		<entry index="3880" type="number" value="1997"/>
-		<entry index="3881" type="number" value="1998"/>
-		<entry index="3882" type="number" value="1998"/>
-		<entry index="3883" type="number" value="1998"/>
-		<entry index="3884" type="number" value="1998"/>
-		<entry index="3885" type="number" value="1999"/>
-		<entry index="3886" type="number" value="1999"/>
-		<entry index="3887" type="number" value="1999"/>
-		<entry index="3888" type="number" value="1999"/>
-		<entry index="3889" type="number" value="2000"/>
-		<entry index="3890" type="number" value="2032"/>
-		<entry index="3891" type="number" value="2021"/>
-		<entry index="3892" type="number" value="2002"/>
-		<entry index="3893" type="number" value="2004"/>
-		<entry index="3894" type="number" value="2005"/>
-		<entry index="3895" type="number" value="2005"/>
-		<entry index="3896" type="number" value="2012"/>
-		<entry index="3897" type="number" value="2014"/>
-		<entry index="3898" type="number" value="2010"/>
-		<entry index="3899" type="number" value="2007"/>
-		<entry index="3900" type="number" value="2007"/>
-		<entry index="3901" type="number" value="2009"/>
-		<entry index="3902" type="number" value="2008"/>
-		<entry index="3903" type="number" value="2014"/>
-		<entry index="3904" type="number" value="2011"/>
+		<entry index="3841" type="number" value="1987"/>
+		<entry index="3842" type="number" value="1985"/>
+		<entry index="3843" type="number" value="1993"/>
+		<entry index="3844" type="number" value="1988"/>
+		<entry index="3845" type="number" value="1995"/>
+		<entry index="3846" type="number" value="1995"/>
+		<entry index="3847" type="number" value="1995"/>
+		<entry index="3848" type="number" value="1995"/>
+		<entry index="3849" type="number" value="1992"/>
+		<entry index="3850" type="number" value="1993"/>
+		<entry index="3851" type="number" value="1999"/>
+		<entry index="3852" type="number" value="2005"/>
+		<entry index="3853" type="number" value="2051"/>
+		<entry index="3854" type="number" value="1996"/>
+		<entry index="3855" type="number" value="1996"/>
+		<entry index="3856" type="number" value="1996"/>
+		<entry index="3857" type="number" value="2050"/>
+		<entry index="3858" type="number" value="1997"/>
+		<entry index="3859" type="number" value="1997"/>
+		<entry index="3860" type="number" value="1998"/>
+		<entry index="3861" type="number" value="1998"/>
+		<entry index="3862" type="number" value="2004"/>
+		<entry index="3863" type="number" value="1999"/>
+		<entry index="3864" type="number" value="1999"/>
+		<entry index="3865" type="number" value="1999"/>
+		<entry index="3866" type="number" value="1999"/>
+		<entry index="3867" type="number" value="2005"/>
+		<entry index="3868" type="number" value="1999"/>
+		<entry index="3869" type="number" value="2000"/>
+		<entry index="3870" type="number" value="2002"/>
+		<entry index="3871" type="number" value="2050"/>
+		<entry index="3872" type="number" value="2001"/>
+		<entry index="3873" type="number" value="2001"/>
+		<entry index="3874" type="number" value="2001"/>
+		<entry index="3875" type="number" value="2006"/>
+		<entry index="3876" type="number" value="2001"/>
+		<entry index="3877" type="number" value="2003"/>
+		<entry index="3878" type="number" value="2027"/>
+		<entry index="3879" type="number" value="2017"/>
+		<entry index="3880" type="number" value="2004"/>
+		<entry index="3881" type="number" value="2048"/>
+		<entry index="3882" type="number" value="2005"/>
+		<entry index="3883" type="number" value="2009"/>
+		<entry index="3884" type="number" value="2005"/>
+		<entry index="3885" type="number" value="2005"/>
+		<entry index="3886" type="number" value="2005"/>
+		<entry index="3887" type="number" value="2052"/>
+		<entry index="3888" type="number" value="2006"/>
+		<entry index="3889" type="number" value="2052"/>
+		<entry index="3890" type="number" value="2008"/>
+		<entry index="3891" type="number" value="2027"/>
+		<entry index="3892" type="number" value="2012"/>
+		<entry index="3893" type="number" value="2048"/>
+		<entry index="3894" type="number" value="2004"/>
+		<entry index="3895" type="number" value="2008"/>
+		<entry index="3896" type="number" value="2013"/>
+		<entry index="3897" type="number" value="2038"/>
+		<entry index="3898" type="number" value="2009"/>
+		<entry index="3899" type="number" value="2011"/>
+		<entry index="3900" type="number" value="2010"/>
+		<entry index="3901" type="number" value="2048"/>
+		<entry index="3902" type="number" value="2011"/>
+		<entry index="3903" type="number" value="2011"/>
+		<entry index="3904" type="number" value="2048"/>
 		<entry index="3905" type="number" value="2012"/>
-		<entry index="3906" type="number" value="2016"/>
-		<entry index="3907" type="number" value="2013"/>
-		<entry index="3908" type="number" value="2013"/>
-		<entry index="3909" type="number" value="2011"/>
-		<entry index="3910" type="number" value="2019"/>
-		<entry index="3911" type="number" value="2016"/>
-		<entry index="3912" type="number" value="2018"/>
-		<entry index="3913" type="number" value="2013"/>
-		<entry index="3914" type="number" value="2021"/>
-		<entry index="3915" type="number" value="2025"/>
-		<entry index="3916" type="number" value="2031"/>
-		<entry index="3917" type="number" value="2026"/>
-		<entry index="3918" type="number" value="2030"/>
-		<entry index="3919" type="number" value="2022"/>
-		<entry index="3920" type="number" value="2024"/>
-		<entry index="3921" type="number" value="2022"/>
-		<entry index="3922" type="number" value="2023"/>
-		<entry index="3923" type="number" value="2029"/>
-		<entry index="3924" type="number" value="2024"/>
-		<entry index="3925" type="number" value="2031"/>
-		<entry index="3926" type="number" value="2025"/>
-		<entry index="3927" type="number" value="2026"/>
-		<entry index="3928" type="number" value="2025"/>
-		<entry index="3929" type="number" value="2024"/>
-		<entry index="3930" type="number" value="2026"/>
-		<entry index="3931" type="number" value="2031"/>
-		<entry index="3932" type="number" value="2030"/>
-		<entry index="3933" type="number" value="2033"/>
-		<entry index="3934" type="number" value="2024"/>
-		<entry index="3935" type="number" value="2033"/>
-		<entry index="3936" type="number" value="2034"/>
-		<entry index="3937" type="number" value="2036"/>
-		<entry index="3938" type="number" value="2037"/>
-		<entry index="3939" type="number" value="2035"/>
-		<entry index="3940" type="number" value="2043"/>
-		<entry index="3941" type="number" value="2038"/>
-		<entry index="3942" type="number" value="2045"/>
-		<entry index="3943" type="number" value="2045"/>
-		<entry index="3944" type="number" value="2045"/>
-		<entry index="3945" type="number" value="2045"/>
-		<entry index="3946" type="number" value="2042"/>
-		<entry index="3947" type="number" value="2043"/>
+		<entry index="3906" type="number" value="2012"/>
+		<entry index="3907" type="number" value="2012"/>
+		<entry index="3908" type="number" value="2012"/>
+		<entry index="3909" type="number" value="2015"/>
+		<entry index="3910" type="number" value="2023"/>
+		<entry index="3911" type="number" value="2038"/>
+		<entry index="3912" type="number" value="2013"/>
+		<entry index="3913" type="number" value="2015"/>
+		<entry index="3914" type="number" value="2014"/>
+		<entry index="3915" type="number" value="2014"/>
+		<entry index="3916" type="number" value="2048"/>
+		<entry index="3917" type="number" value="2015"/>
+		<entry index="3918" type="number" value="2016"/>
+		<entry index="3919" type="number" value="2025"/>
+		<entry index="3920" type="number" value="2017"/>
+		<entry index="3921" type="number" value="2008"/>
+		<entry index="3922" type="number" value="2018"/>
+		<entry index="3923" type="number" value="2018"/>
+		<entry index="3924" type="number" value="2019"/>
+		<entry index="3925" type="number" value="2020"/>
+		<entry index="3926" type="number" value="2021"/>
+		<entry index="3927" type="number" value="2020"/>
+		<entry index="3928" type="number" value="2022"/>
+		<entry index="3929" type="number" value="2015"/>
+		<entry index="3930" type="number" value="2023"/>
+		<entry index="3931" type="number" value="2023"/>
+		<entry index="3932" type="number" value="2032"/>
+		<entry index="3933" type="number" value="2018"/>
+		<entry index="3934" type="number" value="2033"/>
+		<entry index="3935" type="number" value="2030"/>
+		<entry index="3936" type="number" value="2031"/>
+		<entry index="3937" type="number" value="2035"/>
+		<entry index="3938" type="number" value="2025"/>
+		<entry index="3939" type="number" value="2019"/>
+		<entry index="3940" type="number" value="2033"/>
+		<entry index="3941" type="number" value="2025"/>
+		<entry index="3942" type="number" value="2017"/>
+		<entry index="3943" type="number" value="2020"/>
+		<entry index="3944" type="number" value="2029"/>
+		<entry index="3945" type="number" value="2029"/>
+		<entry index="3946" type="number" value="2035"/>
+		<entry index="3947" type="number" value="2030"/>
+		<entry index="3948" type="number" value="2034"/>
+		<entry index="3949" type="number" value="2033"/>
+		<entry index="3950" type="number" value="2037"/>
+		<entry index="3951" type="number" value="2038"/>
+		<entry index="3952" type="number" value="2042"/>
+		<entry index="3953" type="number" value="2049"/>
+		<entry index="3954" type="number" value="2043"/>
+		<entry index="3955" type="number" value="2047"/>
+		<entry index="3956" type="number" value="2039"/>
+		<entry index="3957" type="number" value="2041"/>
+		<entry index="3958" type="number" value="2039"/>
+		<entry index="3959" type="number" value="2040"/>
+		<entry index="3960" type="number" value="2046"/>
+		<entry index="3961" type="number" value="2041"/>
+		<entry index="3962" type="number" value="2049"/>
+		<entry index="3963" type="number" value="2042"/>
+		<entry index="3964" type="number" value="2043"/>
+		<entry index="3965" type="number" value="2042"/>
+		<entry index="3966" type="number" value="2041"/>
+		<entry index="3967" type="number" value="2048"/>
+		<entry index="3968" type="number" value="2048"/>
+		<entry index="3969" type="number" value="2043"/>
+		<entry index="3970" type="number" value="2049"/>
+		<entry index="3971" type="number" value="2047"/>
+		<entry index="3972" type="number" value="2053"/>
+		<entry index="3973" type="number" value="2041"/>
+		<entry index="3974" type="number" value="2053"/>
 	</entry>
 	<entry key="door_low_pos" type="table">
 		<entry index="1" type="vector3" value="-9 9 72.5"/>
@@ -11736,115 +11790,142 @@
 		<entry index="3836" type="vector3" value="351 161 42.0382"/>
 		<entry index="3837" type="vector3" value="351 159 21.5"/>
 		<entry index="3838" type="vector3" value="351 168 46.6806"/>
-		<entry index="3839" type="vector3" value="-79 158 907.257"/>
-		<entry index="3840" type="vector3" value="-72 158 907.257"/>
-		<entry index="3841" type="vector3" value="-79 152 853.063"/>
-		<entry index="3842" type="vector3" value="-77 152 853.063"/>
-		<entry index="3843" type="vector3" value="-69 152 853.063"/>
-		<entry index="3844" type="vector3" value="-68 152 859.991"/>
-		<entry index="3845" type="vector3" value="-68 157 901.298"/>
-		<entry index="3846" type="vector3" value="-79 157 901.298"/>
-		<entry index="3847" type="vector3" value="-81 158 907.248"/>
-		<entry index="3848" type="vector3" value="-72 158 909.461"/>
-		<entry index="3849" type="vector3" value="-81 158 907.081"/>
-		<entry index="3850" type="vector3" value="-72 182 904.7"/>
-		<entry index="3851" type="vector3" value="-68 158 906.622"/>
-		<entry index="3852" type="vector3" value="-57 158 904.7"/>
-		<entry index="3853" type="vector3" value="-72 171 905.791"/>
-		<entry index="3854" type="vector3" value="-77 151 846.064"/>
-		<entry index="3855" type="vector3" value="-77 150 845.856"/>
-		<entry index="3856" type="vector3" value="-77 151 845.995"/>
-		<entry index="3857" type="vector3" value="-68 152 857.547"/>
-		<entry index="3858" type="vector3" value="-92 163 909.91"/>
-		<entry index="3859" type="vector3" value="-90 163 920.686"/>
-		<entry index="3860" type="vector3" value="-92 158 904.819"/>
-		<entry index="3861" type="vector3" value="-92 158 904.7"/>
-		<entry index="3862" type="vector3" value="-119 182 904.7"/>
-		<entry index="3863" type="vector3" value="-79 182 918.555"/>
-		<entry index="3864" type="vector3" value="-92 182 904.7"/>
-		<entry index="3865" type="vector3" value="-80 182 907.305"/>
-		<entry index="3866" type="vector3" value="-73 182 918.555"/>
-		<entry index="3867" type="vector3" value="-57 182 904.7"/>
-		<entry index="3868" type="vector3" value="-119 182 904.7"/>
-		<entry index="3869" type="vector3" value="-57 157 904.7"/>
-		<entry index="3870" type="vector3" value="-56 157 924.49"/>
-		<entry index="3871" type="vector3" value="-56 186 924.49"/>
-		<entry index="3872" type="vector3" value="-73 181 931.15"/>
-		<entry index="3873" type="vector3" value="-73 180 929.891"/>
-		<entry index="3874" type="vector3" value="-68 151 868.555"/>
-		<entry index="3875" type="vector3" value="-67 151 873.039"/>
-		<entry index="3876" type="vector3" value="-119 158 904.7"/>
-		<entry index="3877" type="vector3" value="-92 171 904.7"/>
+		<entry index="3839" type="vector3" value="105 185 22.5"/>
+		<entry index="3840" type="vector3" value="123 185 22.5"/>
+		<entry index="3841" type="vector3" value="123 204 22.5"/>
+		<entry index="3842" type="vector3" value="105 172 22.5"/>
+		<entry index="3843" type="vector3" value="116 212 22.5"/>
+		<entry index="3844" type="vector3" value="116 209 22.5"/>
+		<entry index="3845" type="vector3" value="105 229 22.5"/>
+		<entry index="3846" type="vector3" value="105 219 22.5"/>
+		<entry index="3847" type="vector3" value="105 212 22.5"/>
+		<entry index="3848" type="vector3" value="105 238 22.5"/>
+		<entry index="3849" type="vector3" value="100 238 22.5"/>
+		<entry index="3850" type="vector3" value="110 212 22.5"/>
+		<entry index="3851" type="vector3" value="-74 157 904.7"/>
+		<entry index="3852" type="vector3" value="-72 157 904.7"/>
+		<entry index="3853" type="vector3" value="-70 152 847.867"/>
+		<entry index="3854" type="vector3" value="-74 155 882.083"/>
+		<entry index="3855" type="vector3" value="-74 152 847.867"/>
+		<entry index="3856" type="vector3" value="-74 156 899.017"/>
+		<entry index="3857" type="vector3" value="-77 156 895.745"/>
+		<entry index="3858" type="vector3" value="-77 155 875.452"/>
+		<entry index="3859" type="vector3" value="-77 155 887.339"/>
+		<entry index="3860" type="vector3" value="-77 152 846.862"/>
+		<entry index="3861" type="vector3" value="-77 152 855.268"/>
+		<entry index="3862" type="vector3" value="-92 162 904.7"/>
+		<entry index="3863" type="vector3" value="-81 157 904.7"/>
+		<entry index="3864" type="vector3" value="-92 157 904.7"/>
+		<entry index="3865" type="vector3" value="-77 157 904.7"/>
+		<entry index="3866" type="vector3" value="-79 157 904.7"/>
+		<entry index="3867" type="vector3" value="-72 157 904.7"/>
+		<entry index="3868" type="vector3" value="-92 157 904.7"/>
+		<entry index="3869" type="vector3" value="-69 152 848.51"/>
+		<entry index="3870" type="vector3" value="-77 150 845.856"/>
+		<entry index="3871" type="vector3" value="-77 156 900.497"/>
+		<entry index="3872" type="vector3" value="-79 152 855.268"/>
+		<entry index="3873" type="vector3" value="-79 155 885.044"/>
+		<entry index="3874" type="vector3" value="-79 156 900.497"/>
+		<entry index="3875" type="vector3" value="-80 155 886.791"/>
+		<entry index="3876" type="vector3" value="-79 152 855.268"/>
+		<entry index="3877" type="vector3" value="-80 153 859.181"/>
 		<entry index="3878" type="vector3" value="-92 163 907.305"/>
-		<entry index="3879" type="vector3" value="-92 158 904.7"/>
-		<entry index="3880" type="vector3" value="-119 158 904.7"/>
-		<entry index="3881" type="vector3" value="-75 181 943.85"/>
-		<entry index="3882" type="vector3" value="-78 181 943.85"/>
-		<entry index="3883" type="vector3" value="-79 181 932.41"/>
-		<entry index="3884" type="vector3" value="-79 181 935.498"/>
-		<entry index="3885" type="vector3" value="-92 171 907.305"/>
-		<entry index="3886" type="vector3" value="-88 171 907.305"/>
-		<entry index="3887" type="vector3" value="-85 171 904.7"/>
-		<entry index="3888" type="vector3" value="-90 171 907.305"/>
-		<entry index="3889" type="vector3" value="-80 180 909.436"/>
-		<entry index="3890" type="vector3" value="-79 180 946.898"/>
-		<entry index="3891" type="vector3" value="-56 186 924.49"/>
-		<entry index="3892" type="vector3" value="-75 180 962.943"/>
-		<entry index="3893" type="vector3" value="-67 150 882.007"/>
-		<entry index="3894" type="vector3" value="-119 157 904.7"/>
+		<entry index="3879" type="vector3" value="-90 163 918.555"/>
+		<entry index="3880" type="vector3" value="-92 162 904.7"/>
+		<entry index="3881" type="vector3" value="-72 184 906.784"/>
+		<entry index="3882" type="vector3" value="-70 157 904.7"/>
+		<entry index="3883" type="vector3" value="-57 157 904.7"/>
+		<entry index="3884" type="vector3" value="-72 171 905.78"/>
+		<entry index="3885" type="vector3" value="-72 182 909.234"/>
+		<entry index="3886" type="vector3" value="-72 157 904.7"/>
+		<entry index="3887" type="vector3" value="-80 156 893.45"/>
+		<entry index="3888" type="vector3" value="-80 155 877.832"/>
+		<entry index="3889" type="vector3" value="-81 156 893.45"/>
+		<entry index="3890" type="vector3" value="-119 157 904.7"/>
+		<entry index="3891" type="vector3" value="-92 163 907.305"/>
+		<entry index="3892" type="vector3" value="-92 171 904.7"/>
+		<entry index="3893" type="vector3" value="-92 184 904.7"/>
+		<entry index="3894" type="vector3" value="-92 162 904.7"/>
 		<entry index="3895" type="vector3" value="-119 157 904.7"/>
-		<entry index="3896" type="vector3" value="-90 165 940.987"/>
-		<entry index="3897" type="vector3" value="-90 164 940.867"/>
-		<entry index="3898" type="vector3" value="-90 163 932.41"/>
-		<entry index="3899" type="vector3" value="-78 179 993.326"/>
-		<entry index="3900" type="vector3" value="-78 179 985.901"/>
-		<entry index="3901" type="vector3" value="-85 170 904.7"/>
-		<entry index="3902" type="vector3" value="-88 170 917.48"/>
-		<entry index="3903" type="vector3" value="-90 164 942.273"/>
-		<entry index="3904" type="vector3" value="-119 156 914.595"/>
-		<entry index="3905" type="vector3" value="-90 165 953.662"/>
-		<entry index="3906" type="vector3" value="-88 165 1000.75"/>
-		<entry index="3907" type="vector3" value="-120 157 921.19"/>
-		<entry index="3908" type="vector3" value="-120 219 921.19"/>
-		<entry index="3909" type="vector3" value="-119 156 914.595"/>
-		<entry index="3910" type="vector3" value="-81 165 1000.75"/>
-		<entry index="3911" type="vector3" value="-88 165 1000.75"/>
-		<entry index="3912" type="vector3" value="-121 219 921.19"/>
-		<entry index="3913" type="vector3" value="-120 157 921.19"/>
-		<entry index="3914" type="vector3" value="6 186 924.49"/>
-		<entry index="3915" type="vector3" value="7 186 924.49"/>
-		<entry index="3916" type="vector3" value="8 182 904.7"/>
-		<entry index="3917" type="vector3" value="9 182 904.7"/>
-		<entry index="3918" type="vector3" value="38 182 904.7"/>
-		<entry index="3919" type="vector3" value="8 157 904.7"/>
-		<entry index="3920" type="vector3" value="39 157 904.7"/>
-		<entry index="3921" type="vector3" value="8 157 904.7"/>
-		<entry index="3922" type="vector3" value="8 156 914.595"/>
-		<entry index="3923" type="vector3" value="40 157 924.49"/>
-		<entry index="3924" type="vector3" value="39 182 904.7"/>
-		<entry index="3925" type="vector3" value="8 182 904.7"/>
-		<entry index="3926" type="vector3" value="7 157 924.49"/>
-		<entry index="3927" type="vector3" value="9 182 904.7"/>
-		<entry index="3928" type="vector3" value="7 157 924.49"/>
-		<entry index="3929" type="vector3" value="39 182 904.7"/>
-		<entry index="3930" type="vector3" value="9 182 904.7"/>
-		<entry index="3931" type="vector3" value="8 182 904.7"/>
-		<entry index="3932" type="vector3" value="38 182 904.7"/>
-		<entry index="3933" type="vector3" value="8 157 904.7"/>
-		<entry index="3934" type="vector3" value="39 157 904.7"/>
-		<entry index="3935" type="vector3" value="8 157 904.7"/>
-		<entry index="3936" type="vector3" value="105 185 22.5"/>
-		<entry index="3937" type="vector3" value="123 185 22.5"/>
-		<entry index="3938" type="vector3" value="123 204 22.5"/>
-		<entry index="3939" type="vector3" value="105 172 22.5"/>
-		<entry index="3940" type="vector3" value="116 212 22.5"/>
-		<entry index="3941" type="vector3" value="116 209 22.5"/>
-		<entry index="3942" type="vector3" value="105 229 22.5"/>
-		<entry index="3943" type="vector3" value="105 219 22.5"/>
-		<entry index="3944" type="vector3" value="105 212 22.5"/>
-		<entry index="3945" type="vector3" value="105 238 22.5"/>
-		<entry index="3946" type="vector3" value="100 238 22.5"/>
-		<entry index="3947" type="vector3" value="110 212 22.5"/>
+		<entry index="3896" type="vector3" value="-56 157 924.49"/>
+		<entry index="3897" type="vector3" value="-56 186 924.49"/>
+		<entry index="3898" type="vector3" value="-57 184 904.7"/>
+		<entry index="3899" type="vector3" value="-73 182 921.158"/>
+		<entry index="3900" type="vector3" value="-73 180 929.891"/>
+		<entry index="3901" type="vector3" value="-73 184 904.7"/>
+		<entry index="3902" type="vector3" value="-73 182 909.908"/>
+		<entry index="3903" type="vector3" value="-73 183 906.002"/>
+		<entry index="3904" type="vector3" value="-92 184 904.7"/>
+		<entry index="3905" type="vector3" value="-92 171 907.305"/>
+		<entry index="3906" type="vector3" value="-87 171 907.305"/>
+		<entry index="3907" type="vector3" value="-85 171 904.7"/>
+		<entry index="3908" type="vector3" value="-90 171 907.305"/>
+		<entry index="3909" type="vector3" value="-80 183 904.7"/>
+		<entry index="3910" type="vector3" value="-80 180 907.305"/>
+		<entry index="3911" type="vector3" value="-56 186 924.49"/>
+		<entry index="3912" type="vector3" value="-56 157 924.49"/>
+		<entry index="3913" type="vector3" value="-74 183 907.303"/>
+		<entry index="3914" type="vector3" value="-74 182 921.158"/>
+		<entry index="3915" type="vector3" value="-74 182 917.366"/>
+		<entry index="3916" type="vector3" value="-80 184 904.7"/>
+		<entry index="3917" type="vector3" value="-80 183 907.305"/>
+		<entry index="3918" type="vector3" value="-74 180 954.66"/>
+		<entry index="3919" type="vector3" value="-90 164 942.273"/>
+		<entry index="3920" type="vector3" value="-90 163 932.41"/>
+		<entry index="3921" type="vector3" value="-119 157 904.7"/>
+		<entry index="3922" type="vector3" value="-120 157 921.19"/>
+		<entry index="3923" type="vector3" value="-120 219 921.19"/>
+		<entry index="3924" type="vector3" value="-119 156 914.595"/>
+		<entry index="3925" type="vector3" value="-90 170 921.16"/>
+		<entry index="3926" type="vector3" value="-87 170 909.91"/>
+		<entry index="3927" type="vector3" value="-90 170 911.316"/>
+		<entry index="3928" type="vector3" value="-85 170 904.7"/>
+		<entry index="3929" type="vector3" value="-80 183 907.305"/>
+		<entry index="3930" type="vector3" value="-79 180 941.51"/>
+		<entry index="3931" type="vector3" value="-78 180 955.364"/>
+		<entry index="3932" type="vector3" value="-121 219 921.19"/>
+		<entry index="3933" type="vector3" value="-120 157 921.19"/>
+		<entry index="3934" type="vector3" value="-90 169 944.639"/>
+		<entry index="3935" type="vector3" value="-89 165 981.233"/>
+		<entry index="3936" type="vector3" value="-89 164 971.863"/>
+		<entry index="3937" type="vector3" value="-89 168 985.918"/>
+		<entry index="3938" type="vector3" value="-90 164 940.867"/>
+		<entry index="3939" type="vector3" value="-119 156 914.595"/>
+		<entry index="3940" type="vector3" value="-90 169 923.972"/>
+		<entry index="3941" type="vector3" value="-90 164 940.867"/>
+		<entry index="3942" type="vector3" value="-90 163 932.41"/>
+		<entry index="3943" type="vector3" value="-90 170 911.316"/>
+		<entry index="3944" type="vector3" value="-78 179 989.613"/>
+		<entry index="3945" type="vector3" value="-78 178 1000.75"/>
+		<entry index="3946" type="vector3" value="-89 168 987.479"/>
+		<entry index="3947" type="vector3" value="-89 165 979.671"/>
+		<entry index="3948" type="vector3" value="-88 165 1000.75"/>
+		<entry index="3949" type="vector3" value="-89 169 959.944"/>
+		<entry index="3950" type="vector3" value="-81 165 1000.75"/>
+		<entry index="3951" type="vector3" value="6 186 924.49"/>
+		<entry index="3952" type="vector3" value="7 186 924.49"/>
+		<entry index="3953" type="vector3" value="8 182 904.7"/>
+		<entry index="3954" type="vector3" value="9 182 904.7"/>
+		<entry index="3955" type="vector3" value="38 182 904.7"/>
+		<entry index="3956" type="vector3" value="8 157 904.7"/>
+		<entry index="3957" type="vector3" value="39 157 904.7"/>
+		<entry index="3958" type="vector3" value="8 157 904.7"/>
+		<entry index="3959" type="vector3" value="8 156 914.595"/>
+		<entry index="3960" type="vector3" value="40 157 924.49"/>
+		<entry index="3961" type="vector3" value="39 182 904.7"/>
+		<entry index="3962" type="vector3" value="8 182 904.7"/>
+		<entry index="3963" type="vector3" value="7 157 924.49"/>
+		<entry index="3964" type="vector3" value="9 182 904.7"/>
+		<entry index="3965" type="vector3" value="7 157 924.49"/>
+		<entry index="3966" type="vector3" value="39 182 904.7"/>
+		<entry index="3967" type="vector3" value="-80 184 904.7"/>
+		<entry index="3968" type="vector3" value="-92 184 904.7"/>
+		<entry index="3969" type="vector3" value="9 182 904.7"/>
+		<entry index="3970" type="vector3" value="8 182 904.7"/>
+		<entry index="3971" type="vector3" value="38 182 904.7"/>
+		<entry index="3972" type="vector3" value="8 157 904.7"/>
+		<entry index="3973" type="vector3" value="39 157 904.7"/>
+		<entry index="3974" type="vector3" value="8 157 904.7"/>
 	</entry>
 	<entry key="door_low_rooms" type="table">
 		<entry index="1" type="number" value="1"/>
@@ -15685,115 +15766,142 @@
 		<entry index="3836" type="number" value="1981"/>
 		<entry index="3837" type="number" value="1983"/>
 		<entry index="3838" type="number" value="1952"/>
-		<entry index="3839" type="number" value="1984"/>
+		<entry index="3839" type="number" value="1985"/>
 		<entry index="3840" type="number" value="1984"/>
-		<entry index="3841" type="number" value="1987"/>
-		<entry index="3842" type="number" value="1988"/>
-		<entry index="3843" type="number" value="1996"/>
+		<entry index="3841" type="number" value="1984"/>
+		<entry index="3842" type="number" value="1170"/>
+		<entry index="3843" type="number" value="1988"/>
 		<entry index="3844" type="number" value="1984"/>
-		<entry index="3845" type="number" value="1984"/>
-		<entry index="3846" type="number" value="2005"/>
-		<entry index="3847" type="number" value="2005"/>
-		<entry index="3848" type="number" value="1985"/>
-		<entry index="3849" type="number" value="1990"/>
-		<entry index="3850" type="number" value="1986"/>
-		<entry index="3851" type="number" value="1992"/>
-		<entry index="3852" type="number" value="1986"/>
-		<entry index="3853" type="number" value="1994"/>
-		<entry index="3854" type="number" value="1987"/>
-		<entry index="3855" type="number" value="1987"/>
-		<entry index="3856" type="number" value="1995"/>
-		<entry index="3857" type="number" value="1996"/>
-		<entry index="3858" type="number" value="1990"/>
-		<entry index="3859" type="number" value="1990"/>
-		<entry index="3860" type="number" value="2005"/>
-		<entry index="3861" type="number" value="1997"/>
-		<entry index="3862" type="number" value="1997"/>
-		<entry index="3863" type="number" value="1998"/>
-		<entry index="3864" type="number" value="1999"/>
-		<entry index="3865" type="number" value="2000"/>
-		<entry index="3866" type="number" value="1994"/>
-		<entry index="3867" type="number" value="1991"/>
-		<entry index="3868" type="number" value="2013"/>
-		<entry index="3869" type="number" value="1992"/>
-		<entry index="3870" type="number" value="1993"/>
-		<entry index="3871" type="number" value="1993"/>
-		<entry index="3872" type="number" value="1998"/>
-		<entry index="3873" type="number" value="2002"/>
-		<entry index="3874" type="number" value="2003"/>
-		<entry index="3875" type="number" value="2004"/>
-		<entry index="3876" type="number" value="2005"/>
-		<entry index="3877" type="number" value="1997"/>
-		<entry index="3878" type="number" value="1997"/>
-		<entry index="3879" type="number" value="1997"/>
-		<entry index="3880" type="number" value="2013"/>
-		<entry index="3881" type="number" value="2002"/>
-		<entry index="3882" type="number" value="2007"/>
-		<entry index="3883" type="number" value="2032"/>
-		<entry index="3884" type="number" value="2000"/>
-		<entry index="3885" type="number" value="2006"/>
-		<entry index="3886" type="number" value="2008"/>
-		<entry index="3887" type="number" value="2009"/>
-		<entry index="3888" type="number" value="2012"/>
-		<entry index="3889" type="number" value="1999"/>
-		<entry index="3890" type="number" value="2000"/>
-		<entry index="3891" type="number" value="2001"/>
-		<entry index="3892" type="number" value="2007"/>
-		<entry index="3893" type="number" value="2003"/>
-		<entry index="3894" type="number" value="2011"/>
-		<entry index="3895" type="number" value="2013"/>
-		<entry index="3896" type="number" value="2006"/>
-		<entry index="3897" type="number" value="2006"/>
-		<entry index="3898" type="number" value="2006"/>
-		<entry index="3899" type="number" value="2020"/>
-		<entry index="3900" type="number" value="2032"/>
-		<entry index="3901" type="number" value="2008"/>
-		<entry index="3902" type="number" value="2012"/>
-		<entry index="3903" type="number" value="2010"/>
-		<entry index="3904" type="number" value="2015"/>
-		<entry index="3905" type="number" value="2014"/>
-		<entry index="3906" type="number" value="2012"/>
-		<entry index="3907" type="number" value="2017"/>
-		<entry index="3908" type="number" value="2018"/>
-		<entry index="3909" type="number" value="2015"/>
-		<entry index="3910" type="number" value="2016"/>
-		<entry index="3911" type="number" value="2012"/>
-		<entry index="3912" type="number" value="2017"/>
-		<entry index="3913" type="number" value="2017"/>
-		<entry index="3914" type="number" value="2028"/>
-		<entry index="3915" type="number" value="2021"/>
-		<entry index="3916" type="number" value="2022"/>
-		<entry index="3917" type="number" value="2022"/>
-		<entry index="3918" type="number" value="2022"/>
-		<entry index="3919" type="number" value="2023"/>
-		<entry index="3920" type="number" value="2022"/>
-		<entry index="3921" type="number" value="2025"/>
-		<entry index="3922" type="number" value="2027"/>
-		<entry index="3923" type="number" value="2024"/>
-		<entry index="3924" type="number" value="2030"/>
-		<entry index="3925" type="number" value="2025"/>
-		<entry index="3926" type="number" value="2028"/>
-		<entry index="3927" type="number" value="2031"/>
-		<entry index="3928" type="number" value="2028"/>
-		<entry index="3929" type="number" value="2030"/>
-		<entry index="3930" type="number" value="2033"/>
-		<entry index="3931" type="number" value="2033"/>
-		<entry index="3932" type="number" value="2033"/>
-		<entry index="3933" type="number" value="2023"/>
-		<entry index="3934" type="number" value="2033"/>
+		<entry index="3845" type="number" value="1989"/>
+		<entry index="3846" type="number" value="1990"/>
+		<entry index="3847" type="number" value="1991"/>
+		<entry index="3848" type="number" value="1992"/>
+		<entry index="3849" type="number" value="1994"/>
+		<entry index="3850" type="number" value="1995"/>
+		<entry index="3851" type="number" value="1996"/>
+		<entry index="3852" type="number" value="1996"/>
+		<entry index="3853" type="number" value="1996"/>
+		<entry index="3854" type="number" value="1997"/>
+		<entry index="3855" type="number" value="1998"/>
+		<entry index="3856" type="number" value="2050"/>
+		<entry index="3857" type="number" value="1997"/>
+		<entry index="3858" type="number" value="1998"/>
+		<entry index="3859" type="number" value="2001"/>
+		<entry index="3860" type="number" value="2002"/>
+		<entry index="3861" type="number" value="2001"/>
+		<entry index="3862" type="number" value="1999"/>
+		<entry index="3863" type="number" value="2052"/>
+		<entry index="3864" type="number" value="2019"/>
+		<entry index="3865" type="number" value="2050"/>
+		<entry index="3866" type="number" value="2001"/>
+		<entry index="3867" type="number" value="1999"/>
+		<entry index="3868" type="number" value="2008"/>
+		<entry index="3869" type="number" value="2051"/>
+		<entry index="3870" type="number" value="2001"/>
+		<entry index="3871" type="number" value="2001"/>
+		<entry index="3872" type="number" value="2003"/>
+		<entry index="3873" type="number" value="2006"/>
+		<entry index="3874" type="number" value="2052"/>
+		<entry index="3875" type="number" value="2003"/>
+		<entry index="3876" type="number" value="2003"/>
+		<entry index="3877" type="number" value="2007"/>
+		<entry index="3878" type="number" value="2004"/>
+		<entry index="3879" type="number" value="2004"/>
+		<entry index="3880" type="number" value="2008"/>
+		<entry index="3881" type="number" value="2005"/>
+		<entry index="3882" type="number" value="2051"/>
+		<entry index="3883" type="number" value="2005"/>
+		<entry index="3884" type="number" value="2010"/>
+		<entry index="3885" type="number" value="2011"/>
+		<entry index="3886" type="number" value="1999"/>
+		<entry index="3887" type="number" value="2006"/>
+		<entry index="3888" type="number" value="2007"/>
+		<entry index="3889" type="number" value="2007"/>
+		<entry index="3890" type="number" value="2019"/>
+		<entry index="3891" type="number" value="2008"/>
+		<entry index="3892" type="number" value="2008"/>
+		<entry index="3893" type="number" value="2008"/>
+		<entry index="3894" type="number" value="2008"/>
+		<entry index="3895" type="number" value="2018"/>
+		<entry index="3896" type="number" value="2009"/>
+		<entry index="3897" type="number" value="2009"/>
+		<entry index="3898" type="number" value="2048"/>
+		<entry index="3899" type="number" value="2010"/>
+		<entry index="3900" type="number" value="2016"/>
+		<entry index="3901" type="number" value="2011"/>
+		<entry index="3902" type="number" value="2014"/>
+		<entry index="3903" type="number" value="2015"/>
+		<entry index="3904" type="number" value="2012"/>
+		<entry index="3905" type="number" value="2027"/>
+		<entry index="3906" type="number" value="2021"/>
+		<entry index="3907" type="number" value="2022"/>
+		<entry index="3908" type="number" value="2020"/>
+		<entry index="3909" type="number" value="2012"/>
+		<entry index="3910" type="number" value="2012"/>
+		<entry index="3911" type="number" value="2013"/>
+		<entry index="3912" type="number" value="2009"/>
+		<entry index="3913" type="number" value="2014"/>
+		<entry index="3914" type="number" value="2016"/>
+		<entry index="3915" type="number" value="2023"/>
+		<entry index="3916" type="number" value="2015"/>
+		<entry index="3917" type="number" value="2023"/>
+		<entry index="3918" type="number" value="2023"/>
+		<entry index="3919" type="number" value="2017"/>
+		<entry index="3920" type="number" value="2027"/>
+		<entry index="3921" type="number" value="2018"/>
+		<entry index="3922" type="number" value="2024"/>
+		<entry index="3923" type="number" value="2032"/>
+		<entry index="3924" type="number" value="2026"/>
+		<entry index="3925" type="number" value="2033"/>
+		<entry index="3926" type="number" value="2020"/>
+		<entry index="3927" type="number" value="2027"/>
+		<entry index="3928" type="number" value="2021"/>
+		<entry index="3929" type="number" value="2023"/>
+		<entry index="3930" type="number" value="2028"/>
+		<entry index="3931" type="number" value="2029"/>
+		<entry index="3932" type="number" value="2024"/>
+		<entry index="3933" type="number" value="2024"/>
+		<entry index="3934" type="number" value="2025"/>
 		<entry index="3935" type="number" value="2025"/>
-		<entry index="3936" type="number" value="2035"/>
-		<entry index="3937" type="number" value="2034"/>
-		<entry index="3938" type="number" value="2034"/>
-		<entry index="3939" type="number" value="1170"/>
-		<entry index="3940" type="number" value="2038"/>
-		<entry index="3941" type="number" value="2034"/>
-		<entry index="3942" type="number" value="2039"/>
-		<entry index="3943" type="number" value="2040"/>
-		<entry index="3944" type="number" value="2041"/>
-		<entry index="3945" type="number" value="2042"/>
-		<entry index="3946" type="number" value="2044"/>
-		<entry index="3947" type="number" value="2045"/>
+		<entry index="3936" type="number" value="2025"/>
+		<entry index="3937" type="number" value="2025"/>
+		<entry index="3938" type="number" value="2027"/>
+		<entry index="3939" type="number" value="2026"/>
+		<entry index="3940" type="number" value="2027"/>
+		<entry index="3941" type="number" value="2027"/>
+		<entry index="3942" type="number" value="2027"/>
+		<entry index="3943" type="number" value="2027"/>
+		<entry index="3944" type="number" value="2028"/>
+		<entry index="3945" type="number" value="2036"/>
+		<entry index="3946" type="number" value="2030"/>
+		<entry index="3947" type="number" value="2031"/>
+		<entry index="3948" type="number" value="2030"/>
+		<entry index="3949" type="number" value="2035"/>
+		<entry index="3950" type="number" value="2034"/>
+		<entry index="3951" type="number" value="2045"/>
+		<entry index="3952" type="number" value="2038"/>
+		<entry index="3953" type="number" value="2039"/>
+		<entry index="3954" type="number" value="2039"/>
+		<entry index="3955" type="number" value="2039"/>
+		<entry index="3956" type="number" value="2040"/>
+		<entry index="3957" type="number" value="2039"/>
+		<entry index="3958" type="number" value="2042"/>
+		<entry index="3959" type="number" value="2044"/>
+		<entry index="3960" type="number" value="2041"/>
+		<entry index="3961" type="number" value="2047"/>
+		<entry index="3962" type="number" value="2042"/>
+		<entry index="3963" type="number" value="2045"/>
+		<entry index="3964" type="number" value="2049"/>
+		<entry index="3965" type="number" value="2045"/>
+		<entry index="3966" type="number" value="2047"/>
+		<entry index="3967" type="number" value="2015"/>
+		<entry index="3968" type="number" value="2012"/>
+		<entry index="3969" type="number" value="2053"/>
+		<entry index="3970" type="number" value="2053"/>
+		<entry index="3971" type="number" value="2053"/>
+		<entry index="3972" type="number" value="2040"/>
+		<entry index="3973" type="number" value="2053"/>
+		<entry index="3974" type="number" value="2042"/>
 	</entry>
 	<entry key="helper_blockers" type="table">
 		<entry index="200002" type="number" value="3"/>
@@ -16317,7 +16425,7 @@
 					<entry index="9" type="number" value="2146"/>
 				</entry>
 				<entry index="26" type="table">
-					<entry index="1" type="number" value="3939"/>
+					<entry index="1" type="number" value="3842"/>
 				</entry>
 				<entry index="36" type="table">
 					<entry index="1" type="number" value="2527"/>
@@ -16388,10 +16496,10 @@
 			<entry key="location_id" type="string" value="location_unknown"/>
 			<entry key="neighbours" type="table">
 				<entry index="23" type="table">
-					<entry index="1" type="number" value="3939"/>
+					<entry index="1" type="number" value="3842"/>
 				</entry>
 				<entry index="37" type="table">
-					<entry index="1" type="number" value="3941"/>
+					<entry index="1" type="number" value="3844"/>
 				</entry>
 			</entry>
 			<entry key="pos" type="vector3" value="2900 4975 4.61936e-005"/>
@@ -16454,12 +16562,12 @@
 			<entry key="location_id" type="string" value="location_unknown"/>
 			<entry key="neighbours" type="table">
 				<entry index="61" type="table">
-					<entry index="1" type="number" value="3930"/>
-					<entry index="2" type="number" value="3931"/>
-					<entry index="3" type="number" value="3932"/>
-					<entry index="4" type="number" value="3935"/>
-					<entry index="5" type="number" value="3934"/>
-					<entry index="6" type="number" value="3933"/>
+					<entry index="1" type="number" value="3969"/>
+					<entry index="2" type="number" value="3970"/>
+					<entry index="3" type="number" value="3971"/>
+					<entry index="4" type="number" value="3972"/>
+					<entry index="5" type="number" value="3973"/>
+					<entry index="6" type="number" value="3974"/>
 				</entry>
 			</entry>
 			<entry key="pos" type="vector3" value="625 4400 882.2"/>
@@ -16578,7 +16686,7 @@
 			<entry key="location_id" type="string" value="location_unknown"/>
 			<entry key="neighbours" type="table">
 				<entry index="26" type="table">
-					<entry index="1" type="number" value="3941"/>
+					<entry index="1" type="number" value="3844"/>
 				</entry>
 			</entry>
 			<entry key="pos" type="vector3" value="2900 5900 4.61936e-005"/>
@@ -16940,12 +17048,12 @@
 			<entry key="location_id" type="string" value="location_unknown"/>
 			<entry key="neighbours" type="table">
 				<entry index="30" type="table">
-					<entry index="1" type="number" value="3930"/>
-					<entry index="2" type="number" value="3931"/>
-					<entry index="3" type="number" value="3932"/>
-					<entry index="4" type="number" value="3935"/>
-					<entry index="5" type="number" value="3934"/>
-					<entry index="6" type="number" value="3933"/>
+					<entry index="1" type="number" value="3969"/>
+					<entry index="2" type="number" value="3970"/>
+					<entry index="3" type="number" value="3971"/>
+					<entry index="4" type="number" value="3972"/>
+					<entry index="5" type="number" value="3973"/>
+					<entry index="6" type="number" value="3974"/>
 				</entry>
 			</entry>
 			<entry key="pos" type="vector3" value="-1820 3820 823.356"/>
@@ -19032,68 +19140,76 @@
 		<entry index="1981" type="number" value="351"/>
 		<entry index="1982" type="number" value="351"/>
 		<entry index="1983" type="number" value="350"/>
-		<entry index="1984" type="number" value="-79"/>
-		<entry index="1985" type="number" value="-81"/>
-		<entry index="1986" type="number" value="-72"/>
-		<entry index="1987" type="number" value="-79"/>
-		<entry index="1988" type="number" value="-77"/>
-		<entry index="1989" type="number" value="-68"/>
-		<entry index="1990" type="number" value="-92"/>
-		<entry index="1991" type="number" value="-119"/>
-		<entry index="1992" type="number" value="-68"/>
-		<entry index="1993" type="number" value="-57"/>
-		<entry index="1994" type="number" value="-73"/>
-		<entry index="1995" type="number" value="-77"/>
-		<entry index="1996" type="number" value="-69"/>
-		<entry index="1997" type="number" value="-119"/>
-		<entry index="1998" type="number" value="-79"/>
+		<entry index="1984" type="number" value="105"/>
+		<entry index="1985" type="number" value="105"/>
+		<entry index="1986" type="number" value="123"/>
+		<entry index="1987" type="number" value="123"/>
+		<entry index="1988" type="number" value="116"/>
+		<entry index="1989" type="number" value="104"/>
+		<entry index="1990" type="number" value="104"/>
+		<entry index="1991" type="number" value="104"/>
+		<entry index="1992" type="number" value="100"/>
+		<entry index="1993" type="number" value="110"/>
+		<entry index="1994" type="number" value="78"/>
+		<entry index="1995" type="number" value="105"/>
+		<entry index="1996" type="number" value="-74"/>
+		<entry index="1997" type="number" value="-77"/>
+		<entry index="1998" type="number" value="-77"/>
 		<entry index="1999" type="number" value="-92"/>
-		<entry index="2000" type="number" value="-80"/>
-		<entry index="2001" type="number" value="-56"/>
-		<entry index="2002" type="number" value="-75"/>
-		<entry index="2003" type="number" value="-68"/>
-		<entry index="2004" type="number" value="-67"/>
-		<entry index="2005" type="number" value="-119"/>
-		<entry index="2006" type="number" value="-92"/>
-		<entry index="2007" type="number" value="-78"/>
-		<entry index="2008" type="number" value="-88"/>
-		<entry index="2009" type="number" value="-85"/>
-		<entry index="2010" type="number" value="-90"/>
-		<entry index="2011" type="number" value="-119"/>
-		<entry index="2012" type="number" value="-90"/>
-		<entry index="2013" type="number" value="-120"/>
-		<entry index="2014" type="number" value="-90"/>
-		<entry index="2015" type="number" value="-119"/>
-		<entry index="2016" type="number" value="-88"/>
-		<entry index="2017" type="number" value="-122"/>
-		<entry index="2018" type="number" value="-121"/>
-		<entry index="2019" type="number" value="-81"/>
-		<entry index="2020" type="number" value="-78"/>
-		<entry index="2021" type="number" value="-56"/>
-		<entry index="2022" type="number" value="8"/>
-		<entry index="2023" type="number" value="8"/>
-		<entry index="2024" type="number" value="39"/>
-		<entry index="2025" type="number" value="7"/>
-		<entry index="2026" type="number" value="9"/>
-		<entry index="2027" type="number" value="8"/>
-		<entry index="2028" type="number" value="6"/>
-		<entry index="2029" type="number" value="40"/>
-		<entry index="2030" type="number" value="38"/>
-		<entry index="2031" type="number" value="8"/>
-		<entry index="2032" type="number" value="-79"/>
-		<entry index="2033" type="number" value="8"/>
-		<entry index="2034" type="number" value="105"/>
-		<entry index="2035" type="number" value="105"/>
-		<entry index="2036" type="number" value="123"/>
-		<entry index="2037" type="number" value="123"/>
-		<entry index="2038" type="number" value="116"/>
-		<entry index="2039" type="number" value="104"/>
-		<entry index="2040" type="number" value="104"/>
-		<entry index="2041" type="number" value="104"/>
-		<entry index="2042" type="number" value="100"/>
-		<entry index="2043" type="number" value="110"/>
-		<entry index="2044" type="number" value="78"/>
-		<entry index="2045" type="number" value="105"/>
+		<entry index="2000" type="number" value="-69"/>
+		<entry index="2001" type="number" value="-79"/>
+		<entry index="2002" type="number" value="-77"/>
+		<entry index="2003" type="number" value="-80"/>
+		<entry index="2004" type="number" value="-92"/>
+		<entry index="2005" type="number" value="-72"/>
+		<entry index="2006" type="number" value="-80"/>
+		<entry index="2007" type="number" value="-81"/>
+		<entry index="2008" type="number" value="-119"/>
+		<entry index="2009" type="number" value="-57"/>
+		<entry index="2010" type="number" value="-73"/>
+		<entry index="2011" type="number" value="-73"/>
+		<entry index="2012" type="number" value="-92"/>
+		<entry index="2013" type="number" value="-56"/>
+		<entry index="2014" type="number" value="-74"/>
+		<entry index="2015" type="number" value="-80"/>
+		<entry index="2016" type="number" value="-74"/>
+		<entry index="2017" type="number" value="-90"/>
+		<entry index="2018" type="number" value="-120"/>
+		<entry index="2019" type="number" value="-119"/>
+		<entry index="2020" type="number" value="-90"/>
+		<entry index="2021" type="number" value="-87"/>
+		<entry index="2022" type="number" value="-85"/>
+		<entry index="2023" type="number" value="-80"/>
+		<entry index="2024" type="number" value="-122"/>
+		<entry index="2025" type="number" value="-90"/>
+		<entry index="2026" type="number" value="-119"/>
+		<entry index="2027" type="number" value="-92"/>
+		<entry index="2028" type="number" value="-79"/>
+		<entry index="2029" type="number" value="-78"/>
+		<entry index="2030" type="number" value="-89"/>
+		<entry index="2031" type="number" value="-89"/>
+		<entry index="2032" type="number" value="-121"/>
+		<entry index="2033" type="number" value="-90"/>
+		<entry index="2034" type="number" value="-88"/>
+		<entry index="2035" type="number" value="-89"/>
+		<entry index="2036" type="number" value="-78"/>
+		<entry index="2037" type="number" value="-81"/>
+		<entry index="2038" type="number" value="-56"/>
+		<entry index="2039" type="number" value="8"/>
+		<entry index="2040" type="number" value="8"/>
+		<entry index="2041" type="number" value="39"/>
+		<entry index="2042" type="number" value="7"/>
+		<entry index="2043" type="number" value="9"/>
+		<entry index="2044" type="number" value="8"/>
+		<entry index="2045" type="number" value="6"/>
+		<entry index="2046" type="number" value="40"/>
+		<entry index="2047" type="number" value="38"/>
+		<entry index="2048" type="number" value="-92"/>
+		<entry index="2049" type="number" value="8"/>
+		<entry index="2050" type="number" value="-77"/>
+		<entry index="2051" type="number" value="-70"/>
+		<entry index="2052" type="number" value="-81"/>
+		<entry index="2053" type="number" value="8"/>
 	</entry>
 	<entry key="room_borders_x_pos" type="table">
 		<entry index="1" type="number" value="14"/>
@@ -21079,68 +21195,76 @@
 		<entry index="1981" type="number" value="353"/>
 		<entry index="1982" type="number" value="353"/>
 		<entry index="1983" type="number" value="351"/>
-		<entry index="1984" type="number" value="-68"/>
-		<entry index="1985" type="number" value="-72"/>
-		<entry index="1986" type="number" value="-57"/>
-		<entry index="1987" type="number" value="-77"/>
-		<entry index="1988" type="number" value="-75"/>
-		<entry index="1989" type="number" value="-65"/>
-		<entry index="1990" type="number" value="-81"/>
-		<entry index="1991" type="number" value="-57"/>
-		<entry index="1992" type="number" value="-57"/>
-		<entry index="1993" type="number" value="-56"/>
-		<entry index="1994" type="number" value="-72"/>
-		<entry index="1995" type="number" value="-75"/>
-		<entry index="1996" type="number" value="-65"/>
-		<entry index="1997" type="number" value="-92"/>
-		<entry index="1998" type="number" value="-73"/>
-		<entry index="1999" type="number" value="-80"/>
-		<entry index="2000" type="number" value="-79"/>
-		<entry index="2001" type="number" value="-54"/>
-		<entry index="2002" type="number" value="-73"/>
-		<entry index="2003" type="number" value="-67"/>
-		<entry index="2004" type="number" value="-65"/>
-		<entry index="2005" type="number" value="-79"/>
-		<entry index="2006" type="number" value="-90"/>
-		<entry index="2007" type="number" value="-75"/>
-		<entry index="2008" type="number" value="-85"/>
-		<entry index="2009" type="number" value="-81"/>
-		<entry index="2010" type="number" value="-89"/>
-		<entry index="2011" type="number" value="-89"/>
-		<entry index="2012" type="number" value="-88"/>
-		<entry index="2013" type="number" value="-119"/>
-		<entry index="2014" type="number" value="-88"/>
-		<entry index="2015" type="number" value="-89"/>
-		<entry index="2016" type="number" value="-81"/>
-		<entry index="2017" type="number" value="-120"/>
-		<entry index="2018" type="number" value="-120"/>
-		<entry index="2019" type="number" value="-80"/>
-		<entry index="2020" type="number" value="-75"/>
-		<entry index="2021" type="number" value="7"/>
-		<entry index="2022" type="number" value="39"/>
-		<entry index="2023" type="number" value="39"/>
-		<entry index="2024" type="number" value="40"/>
-		<entry index="2025" type="number" value="8"/>
-		<entry index="2026" type="number" value="25"/>
-		<entry index="2027" type="number" value="39"/>
-		<entry index="2028" type="number" value="7"/>
-		<entry index="2029" type="number" value="42"/>
-		<entry index="2030" type="number" value="39"/>
-		<entry index="2031" type="number" value="9"/>
-		<entry index="2032" type="number" value="-78"/>
-		<entry index="2033" type="number" value="39"/>
-		<entry index="2034" type="number" value="123"/>
-		<entry index="2035" type="number" value="111"/>
-		<entry index="2036" type="number" value="125"/>
-		<entry index="2037" type="number" value="125"/>
-		<entry index="2038" type="number" value="123"/>
-		<entry index="2039" type="number" value="105"/>
-		<entry index="2040" type="number" value="105"/>
-		<entry index="2041" type="number" value="105"/>
-		<entry index="2042" type="number" value="105"/>
-		<entry index="2043" type="number" value="125"/>
-		<entry index="2044" type="number" value="100"/>
-		<entry index="2045" type="number" value="110"/>
+		<entry index="1984" type="number" value="123"/>
+		<entry index="1985" type="number" value="111"/>
+		<entry index="1986" type="number" value="125"/>
+		<entry index="1987" type="number" value="125"/>
+		<entry index="1988" type="number" value="123"/>
+		<entry index="1989" type="number" value="105"/>
+		<entry index="1990" type="number" value="105"/>
+		<entry index="1991" type="number" value="105"/>
+		<entry index="1992" type="number" value="105"/>
+		<entry index="1993" type="number" value="125"/>
+		<entry index="1994" type="number" value="100"/>
+		<entry index="1995" type="number" value="110"/>
+		<entry index="1996" type="number" value="-70"/>
+		<entry index="1997" type="number" value="-74"/>
+		<entry index="1998" type="number" value="-74"/>
+		<entry index="1999" type="number" value="-72"/>
+		<entry index="2000" type="number" value="-65"/>
+		<entry index="2001" type="number" value="-77"/>
+		<entry index="2002" type="number" value="-74"/>
+		<entry index="2003" type="number" value="-79"/>
+		<entry index="2004" type="number" value="-81"/>
+		<entry index="2005" type="number" value="-57"/>
+		<entry index="2006" type="number" value="-79"/>
+		<entry index="2007" type="number" value="-80"/>
+		<entry index="2008" type="number" value="-92"/>
+		<entry index="2009" type="number" value="-56"/>
+		<entry index="2010" type="number" value="-72"/>
+		<entry index="2011" type="number" value="-72"/>
+		<entry index="2012" type="number" value="-80"/>
+		<entry index="2013" type="number" value="-54"/>
+		<entry index="2014" type="number" value="-73"/>
+		<entry index="2015" type="number" value="-73"/>
+		<entry index="2016" type="number" value="-73"/>
+		<entry index="2017" type="number" value="-89"/>
+		<entry index="2018" type="number" value="-119"/>
+		<entry index="2019" type="number" value="-89"/>
+		<entry index="2020" type="number" value="-87"/>
+		<entry index="2021" type="number" value="-85"/>
+		<entry index="2022" type="number" value="-81"/>
+		<entry index="2023" type="number" value="-74"/>
+		<entry index="2024" type="number" value="-120"/>
+		<entry index="2025" type="number" value="-89"/>
+		<entry index="2026" type="number" value="-89"/>
+		<entry index="2027" type="number" value="-90"/>
+		<entry index="2028" type="number" value="-78"/>
+		<entry index="2029" type="number" value="-75"/>
+		<entry index="2030" type="number" value="-88"/>
+		<entry index="2031" type="number" value="-88"/>
+		<entry index="2032" type="number" value="-120"/>
+		<entry index="2033" type="number" value="-88"/>
+		<entry index="2034" type="number" value="-81"/>
+		<entry index="2035" type="number" value="-88"/>
+		<entry index="2036" type="number" value="-75"/>
+		<entry index="2037" type="number" value="-80"/>
+		<entry index="2038" type="number" value="7"/>
+		<entry index="2039" type="number" value="39"/>
+		<entry index="2040" type="number" value="39"/>
+		<entry index="2041" type="number" value="40"/>
+		<entry index="2042" type="number" value="8"/>
+		<entry index="2043" type="number" value="25"/>
+		<entry index="2044" type="number" value="39"/>
+		<entry index="2045" type="number" value="7"/>
+		<entry index="2046" type="number" value="42"/>
+		<entry index="2047" type="number" value="39"/>
+		<entry index="2048" type="number" value="-57"/>
+		<entry index="2049" type="number" value="9"/>
+		<entry index="2050" type="number" value="-74"/>
+		<entry index="2051" type="number" value="-69"/>
+		<entry index="2052" type="number" value="-79"/>
+		<entry index="2053" type="number" value="39"/>
 	</entry>
 	<entry key="room_borders_y_neg" type="table">
 		<entry index="1" type="number" value="-12"/>
@@ -23126,68 +23250,76 @@
 		<entry index="1981" type="number" value="159"/>
 		<entry index="1982" type="number" value="168"/>
 		<entry index="1983" type="number" value="159"/>
-		<entry index="1984" type="number" value="152"/>
-		<entry index="1985" type="number" value="158"/>
-		<entry index="1986" type="number" value="158"/>
-		<entry index="1987" type="number" value="150"/>
-		<entry index="1988" type="number" value="151"/>
-		<entry index="1989" type="number" value="152"/>
-		<entry index="1990" type="number" value="158"/>
-		<entry index="1991" type="number" value="182"/>
-		<entry index="1992" type="number" value="157"/>
-		<entry index="1993" type="number" value="157"/>
-		<entry index="1994" type="number" value="171"/>
-		<entry index="1995" type="number" value="150"/>
-		<entry index="1996" type="number" value="151"/>
-		<entry index="1997" type="number" value="158"/>
-		<entry index="1998" type="number" value="181"/>
-		<entry index="1999" type="number" value="171"/>
-		<entry index="2000" type="number" value="180"/>
-		<entry index="2001" type="number" value="157"/>
-		<entry index="2002" type="number" value="180"/>
-		<entry index="2003" type="number" value="150"/>
-		<entry index="2004" type="number" value="150"/>
+		<entry index="1984" type="number" value="185"/>
+		<entry index="1985" type="number" value="172"/>
+		<entry index="1986" type="number" value="185"/>
+		<entry index="1987" type="number" value="204"/>
+		<entry index="1988" type="number" value="209"/>
+		<entry index="1989" type="number" value="229"/>
+		<entry index="1990" type="number" value="219"/>
+		<entry index="1991" type="number" value="212"/>
+		<entry index="1992" type="number" value="238"/>
+		<entry index="1993" type="number" value="212"/>
+		<entry index="1994" type="number" value="237"/>
+		<entry index="1995" type="number" value="212"/>
+		<entry index="1996" type="number" value="152"/>
+		<entry index="1997" type="number" value="155"/>
+		<entry index="1998" type="number" value="152"/>
+		<entry index="1999" type="number" value="157"/>
+		<entry index="2000" type="number" value="150"/>
+		<entry index="2001" type="number" value="150"/>
+		<entry index="2002" type="number" value="150"/>
+		<entry index="2003" type="number" value="152"/>
+		<entry index="2004" type="number" value="162"/>
 		<entry index="2005" type="number" value="157"/>
-		<entry index="2006" type="number" value="163"/>
-		<entry index="2007" type="number" value="179"/>
-		<entry index="2008" type="number" value="170"/>
-		<entry index="2009" type="number" value="170"/>
-		<entry index="2010" type="number" value="163"/>
-		<entry index="2011" type="number" value="156"/>
-		<entry index="2012" type="number" value="165"/>
+		<entry index="2006" type="number" value="155"/>
+		<entry index="2007" type="number" value="153"/>
+		<entry index="2008" type="number" value="157"/>
+		<entry index="2009" type="number" value="157"/>
+		<entry index="2010" type="number" value="171"/>
+		<entry index="2011" type="number" value="182"/>
+		<entry index="2012" type="number" value="171"/>
 		<entry index="2013" type="number" value="157"/>
-		<entry index="2014" type="number" value="164"/>
-		<entry index="2015" type="number" value="154"/>
-		<entry index="2016" type="number" value="165"/>
-		<entry index="2017" type="number" value="157"/>
-		<entry index="2018" type="number" value="219"/>
-		<entry index="2019" type="number" value="165"/>
-		<entry index="2020" type="number" value="171"/>
-		<entry index="2021" type="number" value="186"/>
-		<entry index="2022" type="number" value="157"/>
-		<entry index="2023" type="number" value="156"/>
+		<entry index="2014" type="number" value="182"/>
+		<entry index="2015" type="number" value="183"/>
+		<entry index="2016" type="number" value="180"/>
+		<entry index="2017" type="number" value="163"/>
+		<entry index="2018" type="number" value="157"/>
+		<entry index="2019" type="number" value="156"/>
+		<entry index="2020" type="number" value="170"/>
+		<entry index="2021" type="number" value="170"/>
+		<entry index="2022" type="number" value="170"/>
+		<entry index="2023" type="number" value="180"/>
 		<entry index="2024" type="number" value="157"/>
-		<entry index="2025" type="number" value="157"/>
-		<entry index="2026" type="number" value="182"/>
-		<entry index="2027" type="number" value="154"/>
-		<entry index="2028" type="number" value="157"/>
-		<entry index="2029" type="number" value="157"/>
-		<entry index="2030" type="number" value="182"/>
-		<entry index="2031" type="number" value="182"/>
-		<entry index="2032" type="number" value="179"/>
-		<entry index="2033" type="number" value="157"/>
-		<entry index="2034" type="number" value="185"/>
-		<entry index="2035" type="number" value="172"/>
-		<entry index="2036" type="number" value="185"/>
-		<entry index="2037" type="number" value="204"/>
-		<entry index="2038" type="number" value="209"/>
-		<entry index="2039" type="number" value="229"/>
-		<entry index="2040" type="number" value="219"/>
-		<entry index="2041" type="number" value="212"/>
-		<entry index="2042" type="number" value="238"/>
-		<entry index="2043" type="number" value="212"/>
-		<entry index="2044" type="number" value="237"/>
-		<entry index="2045" type="number" value="212"/>
+		<entry index="2025" type="number" value="164"/>
+		<entry index="2026" type="number" value="154"/>
+		<entry index="2027" type="number" value="163"/>
+		<entry index="2028" type="number" value="179"/>
+		<entry index="2029" type="number" value="178"/>
+		<entry index="2030" type="number" value="165"/>
+		<entry index="2031" type="number" value="164"/>
+		<entry index="2032" type="number" value="219"/>
+		<entry index="2033" type="number" value="169"/>
+		<entry index="2034" type="number" value="165"/>
+		<entry index="2035" type="number" value="168"/>
+		<entry index="2036" type="number" value="171"/>
+		<entry index="2037" type="number" value="165"/>
+		<entry index="2038" type="number" value="186"/>
+		<entry index="2039" type="number" value="157"/>
+		<entry index="2040" type="number" value="156"/>
+		<entry index="2041" type="number" value="157"/>
+		<entry index="2042" type="number" value="157"/>
+		<entry index="2043" type="number" value="182"/>
+		<entry index="2044" type="number" value="154"/>
+		<entry index="2045" type="number" value="157"/>
+		<entry index="2046" type="number" value="157"/>
+		<entry index="2047" type="number" value="182"/>
+		<entry index="2048" type="number" value="184"/>
+		<entry index="2049" type="number" value="182"/>
+		<entry index="2050" type="number" value="156"/>
+		<entry index="2051" type="number" value="152"/>
+		<entry index="2052" type="number" value="156"/>
+		<entry index="2053" type="number" value="157"/>
 	</entry>
 	<entry key="room_borders_y_pos" type="table">
 		<entry index="1" type="number" value="9"/>
@@ -25173,68 +25305,76 @@
 		<entry index="1981" type="number" value="161"/>
 		<entry index="1982" type="number" value="170"/>
 		<entry index="1983" type="number" value="161"/>
-		<entry index="1984" type="number" value="158"/>
-		<entry index="1985" type="number" value="162"/>
-		<entry index="1986" type="number" value="182"/>
-		<entry index="1987" type="number" value="152"/>
-		<entry index="1988" type="number" value="152"/>
-		<entry index="1989" type="number" value="154"/>
-		<entry index="1990" type="number" value="163"/>
-		<entry index="1991" type="number" value="220"/>
-		<entry index="1992" type="number" value="158"/>
-		<entry index="1993" type="number" value="188"/>
-		<entry index="1994" type="number" value="182"/>
-		<entry index="1995" type="number" value="151"/>
-		<entry index="1996" type="number" value="152"/>
-		<entry index="1997" type="number" value="182"/>
-		<entry index="1998" type="number" value="182"/>
-		<entry index="1999" type="number" value="182"/>
-		<entry index="2000" type="number" value="182"/>
-		<entry index="2001" type="number" value="186"/>
-		<entry index="2002" type="number" value="181"/>
-		<entry index="2003" type="number" value="151"/>
-		<entry index="2004" type="number" value="151"/>
-		<entry index="2005" type="number" value="158"/>
-		<entry index="2006" type="number" value="171"/>
-		<entry index="2007" type="number" value="181"/>
-		<entry index="2008" type="number" value="171"/>
-		<entry index="2009" type="number" value="171"/>
-		<entry index="2010" type="number" value="164"/>
-		<entry index="2011" type="number" value="157"/>
-		<entry index="2012" type="number" value="171"/>
-		<entry index="2013" type="number" value="220"/>
-		<entry index="2014" type="number" value="165"/>
-		<entry index="2015" type="number" value="156"/>
-		<entry index="2016" type="number" value="168"/>
-		<entry index="2017" type="number" value="219"/>
+		<entry index="1984" type="number" value="209"/>
+		<entry index="1985" type="number" value="185"/>
+		<entry index="1986" type="number" value="195"/>
+		<entry index="1987" type="number" value="209"/>
+		<entry index="1988" type="number" value="212"/>
+		<entry index="1989" type="number" value="232"/>
+		<entry index="1990" type="number" value="222"/>
+		<entry index="1991" type="number" value="213"/>
+		<entry index="1992" type="number" value="244"/>
+		<entry index="1993" type="number" value="312"/>
+		<entry index="1994" type="number" value="244"/>
+		<entry index="1995" type="number" value="244"/>
+		<entry index="1996" type="number" value="157"/>
+		<entry index="1997" type="number" value="156"/>
+		<entry index="1998" type="number" value="155"/>
+		<entry index="1999" type="number" value="162"/>
+		<entry index="2000" type="number" value="154"/>
+		<entry index="2001" type="number" value="157"/>
+		<entry index="2002" type="number" value="152"/>
+		<entry index="2003" type="number" value="155"/>
+		<entry index="2004" type="number" value="163"/>
+		<entry index="2005" type="number" value="184"/>
+		<entry index="2006" type="number" value="156"/>
+		<entry index="2007" type="number" value="156"/>
+		<entry index="2008" type="number" value="220"/>
+		<entry index="2009" type="number" value="188"/>
+		<entry index="2010" type="number" value="182"/>
+		<entry index="2011" type="number" value="184"/>
+		<entry index="2012" type="number" value="184"/>
+		<entry index="2013" type="number" value="186"/>
+		<entry index="2014" type="number" value="183"/>
+		<entry index="2015" type="number" value="184"/>
+		<entry index="2016" type="number" value="182"/>
+		<entry index="2017" type="number" value="164"/>
 		<entry index="2018" type="number" value="220"/>
-		<entry index="2019" type="number" value="168"/>
-		<entry index="2020" type="number" value="179"/>
-		<entry index="2021" type="number" value="188"/>
-		<entry index="2022" type="number" value="182"/>
-		<entry index="2023" type="number" value="157"/>
-		<entry index="2024" type="number" value="187"/>
-		<entry index="2025" type="number" value="188"/>
-		<entry index="2026" type="number" value="220"/>
-		<entry index="2027" type="number" value="156"/>
-		<entry index="2028" type="number" value="186"/>
-		<entry index="2029" type="number" value="187"/>
-		<entry index="2030" type="number" value="220"/>
-		<entry index="2031" type="number" value="188"/>
-		<entry index="2032" type="number" value="181"/>
-		<entry index="2033" type="number" value="182"/>
-		<entry index="2034" type="number" value="209"/>
-		<entry index="2035" type="number" value="185"/>
-		<entry index="2036" type="number" value="195"/>
-		<entry index="2037" type="number" value="209"/>
-		<entry index="2038" type="number" value="212"/>
-		<entry index="2039" type="number" value="232"/>
-		<entry index="2040" type="number" value="222"/>
-		<entry index="2041" type="number" value="213"/>
-		<entry index="2042" type="number" value="244"/>
-		<entry index="2043" type="number" value="312"/>
-		<entry index="2044" type="number" value="244"/>
-		<entry index="2045" type="number" value="244"/>
+		<entry index="2019" type="number" value="157"/>
+		<entry index="2020" type="number" value="171"/>
+		<entry index="2021" type="number" value="171"/>
+		<entry index="2022" type="number" value="171"/>
+		<entry index="2023" type="number" value="183"/>
+		<entry index="2024" type="number" value="219"/>
+		<entry index="2025" type="number" value="169"/>
+		<entry index="2026" type="number" value="156"/>
+		<entry index="2027" type="number" value="171"/>
+		<entry index="2028" type="number" value="180"/>
+		<entry index="2029" type="number" value="180"/>
+		<entry index="2030" type="number" value="168"/>
+		<entry index="2031" type="number" value="165"/>
+		<entry index="2032" type="number" value="220"/>
+		<entry index="2033" type="number" value="170"/>
+		<entry index="2034" type="number" value="168"/>
+		<entry index="2035" type="number" value="169"/>
+		<entry index="2036" type="number" value="178"/>
+		<entry index="2037" type="number" value="168"/>
+		<entry index="2038" type="number" value="188"/>
+		<entry index="2039" type="number" value="182"/>
+		<entry index="2040" type="number" value="157"/>
+		<entry index="2041" type="number" value="187"/>
+		<entry index="2042" type="number" value="188"/>
+		<entry index="2043" type="number" value="220"/>
+		<entry index="2044" type="number" value="156"/>
+		<entry index="2045" type="number" value="186"/>
+		<entry index="2046" type="number" value="187"/>
+		<entry index="2047" type="number" value="220"/>
+		<entry index="2048" type="number" value="220"/>
+		<entry index="2049" type="number" value="188"/>
+		<entry index="2050" type="number" value="157"/>
+		<entry index="2051" type="number" value="157"/>
+		<entry index="2052" type="number" value="157"/>
+		<entry index="2053" type="number" value="182"/>
 	</entry>
 	<entry key="room_heights_xn_yn" type="table">
 		<entry index="1" type="number" value="72.5"/>
@@ -27220,68 +27360,76 @@
 		<entry index="1981" type="number" value="21.5"/>
 		<entry index="1982" type="number" value="46.6806"/>
 		<entry index="1983" type="number" value="21.5"/>
-		<entry index="1984" type="number" value="859.991"/>
-		<entry index="1985" type="number" value="909.461"/>
-		<entry index="1986" type="number" value="909.461"/>
-		<entry index="1987" type="number" value="845.856"/>
-		<entry index="1988" type="number" value="846.134"/>
-		<entry index="1989" type="number" value="859.991"/>
-		<entry index="1990" type="number" value="904.7"/>
-		<entry index="1991" type="number" value="904.7"/>
-		<entry index="1992" type="number" value="905.053"/>
-		<entry index="1993" type="number" value="904.7"/>
-		<entry index="1994" type="number" value="904.7"/>
-		<entry index="1995" type="number" value="845.856"/>
-		<entry index="1996" type="number" value="846.134"/>
-		<entry index="1997" type="number" value="904.7"/>
-		<entry index="1998" type="number" value="932.41"/>
+		<entry index="1984" type="number" value="22.5"/>
+		<entry index="1985" type="number" value="22.5"/>
+		<entry index="1986" type="number" value="22.5"/>
+		<entry index="1987" type="number" value="22.5"/>
+		<entry index="1988" type="number" value="22.5"/>
+		<entry index="1989" type="number" value="22.5"/>
+		<entry index="1990" type="number" value="22.5"/>
+		<entry index="1991" type="number" value="22.5"/>
+		<entry index="1992" type="number" value="22.5"/>
+		<entry index="1993" type="number" value="22.5"/>
+		<entry index="1994" type="number" value="22.5"/>
+		<entry index="1995" type="number" value="22.5"/>
+		<entry index="1996" type="number" value="847.867"/>
+		<entry index="1997" type="number" value="886.79"/>
+		<entry index="1998" type="number" value="847.867"/>
 		<entry index="1999" type="number" value="904.7"/>
-		<entry index="2000" type="number" value="909.91"/>
-		<entry index="2001" type="number" value="924.49"/>
-		<entry index="2002" type="number" value="955.29"/>
-		<entry index="2003" type="number" value="882.007"/>
-		<entry index="2004" type="number" value="882.007"/>
+		<entry index="2000" type="number" value="845.856"/>
+		<entry index="2001" type="number" value="845.856"/>
+		<entry index="2002" type="number" value="845.856"/>
+		<entry index="2003" type="number" value="847.867"/>
+		<entry index="2004" type="number" value="904.7"/>
 		<entry index="2005" type="number" value="904.7"/>
-		<entry index="2006" type="number" value="909.91"/>
-		<entry index="2007" type="number" value="985.901"/>
-		<entry index="2008" type="number" value="909.91"/>
+		<entry index="2006" type="number" value="882.2"/>
+		<entry index="2007" type="number" value="855.99"/>
+		<entry index="2008" type="number" value="904.7"/>
 		<entry index="2009" type="number" value="904.7"/>
-		<entry index="2010" type="number" value="932.41"/>
-		<entry index="2011" type="number" value="904.7"/>
-		<entry index="2012" type="number" value="955.189"/>
-		<entry index="2013" type="number" value="921.19"/>
-		<entry index="2014" type="number" value="952.136"/>
-		<entry index="2015" type="number" value="924.49"/>
-		<entry index="2016" type="number" value="1000.75"/>
-		<entry index="2017" type="number" value="921.19"/>
+		<entry index="2010" type="number" value="904.7"/>
+		<entry index="2011" type="number" value="909.906"/>
+		<entry index="2012" type="number" value="904.7"/>
+		<entry index="2013" type="number" value="924.49"/>
+		<entry index="2014" type="number" value="909.906"/>
+		<entry index="2015" type="number" value="904.7"/>
+		<entry index="2016" type="number" value="954.66"/>
+		<entry index="2017" type="number" value="932.41"/>
 		<entry index="2018" type="number" value="921.19"/>
-		<entry index="2019" type="number" value="1000.75"/>
-		<entry index="2020" type="number" value="1000.75"/>
-		<entry index="2021" type="number" value="924.49"/>
+		<entry index="2019" type="number" value="904.7"/>
+		<entry index="2020" type="number" value="909.91"/>
+		<entry index="2021" type="number" value="909.91"/>
 		<entry index="2022" type="number" value="904.7"/>
-		<entry index="2023" type="number" value="904.7"/>
-		<entry index="2024" type="number" value="904.7"/>
-		<entry index="2025" type="number" value="924.49"/>
-		<entry index="2026" type="number" value="904.7"/>
-		<entry index="2027" type="number" value="924.49"/>
-		<entry index="2028" type="number" value="924.49"/>
-		<entry index="2029" type="number" value="924.49"/>
-		<entry index="2030" type="number" value="904.7"/>
-		<entry index="2031" type="number" value="904.7"/>
-		<entry index="2032" type="number" value="965.653"/>
-		<entry index="2033" type="number" value="904.7"/>
-		<entry index="2034" type="number" value="22.5"/>
-		<entry index="2035" type="number" value="22.5"/>
-		<entry index="2036" type="number" value="22.5"/>
-		<entry index="2037" type="number" value="22.5"/>
-		<entry index="2038" type="number" value="22.5"/>
-		<entry index="2039" type="number" value="22.5"/>
-		<entry index="2040" type="number" value="22.5"/>
-		<entry index="2041" type="number" value="22.5"/>
-		<entry index="2042" type="number" value="22.5"/>
-		<entry index="2043" type="number" value="22.5"/>
-		<entry index="2044" type="number" value="22.5"/>
-		<entry index="2045" type="number" value="22.5"/>
+		<entry index="2023" type="number" value="909.91"/>
+		<entry index="2024" type="number" value="921.19"/>
+		<entry index="2025" type="number" value="952.136"/>
+		<entry index="2026" type="number" value="924.49"/>
+		<entry index="2027" type="number" value="909.91"/>
+		<entry index="2028" type="number" value="965.653"/>
+		<entry index="2029" type="number" value="1000.75"/>
+		<entry index="2030" type="number" value="987.479"/>
+		<entry index="2031" type="number" value="971.863"/>
+		<entry index="2032" type="number" value="921.19"/>
+		<entry index="2033" type="number" value="932.41"/>
+		<entry index="2034" type="number" value="1000.75"/>
+		<entry index="2035" type="number" value="987.479"/>
+		<entry index="2036" type="number" value="1000.75"/>
+		<entry index="2037" type="number" value="1000.75"/>
+		<entry index="2038" type="number" value="924.49"/>
+		<entry index="2039" type="number" value="904.7"/>
+		<entry index="2040" type="number" value="904.7"/>
+		<entry index="2041" type="number" value="904.7"/>
+		<entry index="2042" type="number" value="924.49"/>
+		<entry index="2043" type="number" value="904.7"/>
+		<entry index="2044" type="number" value="924.49"/>
+		<entry index="2045" type="number" value="924.49"/>
+		<entry index="2046" type="number" value="924.49"/>
+		<entry index="2047" type="number" value="904.7"/>
+		<entry index="2048" type="number" value="904.7"/>
+		<entry index="2049" type="number" value="904.7"/>
+		<entry index="2050" type="number" value="904.7"/>
+		<entry index="2051" type="number" value="847.867"/>
+		<entry index="2052" type="number" value="904.7"/>
+		<entry index="2053" type="number" value="904.7"/>
 	</entry>
 	<entry key="room_heights_xn_yp" type="table">
 		<entry index="1" type="number" value="72.5"/>
@@ -29267,68 +29415,76 @@
 		<entry index="1981" type="number" value="46.6822"/>
 		<entry index="1982" type="number" value="21.5"/>
 		<entry index="1983" type="number" value="21.5"/>
-		<entry index="1984" type="number" value="905.053"/>
-		<entry index="1985" type="number" value="904.7"/>
-		<entry index="1986" type="number" value="904.7"/>
-		<entry index="1987" type="number" value="846.134"/>
-		<entry index="1988" type="number" value="846.134"/>
-		<entry index="1989" type="number" value="873.849"/>
-		<entry index="1990" type="number" value="909.91"/>
-		<entry index="1991" type="number" value="904.7"/>
-		<entry index="1992" type="number" value="905.053"/>
-		<entry index="1993" type="number" value="904.7"/>
-		<entry index="1994" type="number" value="932.41"/>
-		<entry index="1995" type="number" value="845.856"/>
-		<entry index="1996" type="number" value="846.134"/>
-		<entry index="1997" type="number" value="904.7"/>
-		<entry index="1998" type="number" value="932.41"/>
+		<entry index="1984" type="number" value="22.5"/>
+		<entry index="1985" type="number" value="22.5"/>
+		<entry index="1986" type="number" value="22.5"/>
+		<entry index="1987" type="number" value="22.5"/>
+		<entry index="1988" type="number" value="22.5"/>
+		<entry index="1989" type="number" value="22.5"/>
+		<entry index="1990" type="number" value="22.5"/>
+		<entry index="1991" type="number" value="22.5"/>
+		<entry index="1992" type="number" value="22.5"/>
+		<entry index="1993" type="number" value="22.5"/>
+		<entry index="1994" type="number" value="22.5"/>
+		<entry index="1995" type="number" value="22.5"/>
+		<entry index="1996" type="number" value="904.7"/>
+		<entry index="1997" type="number" value="886.79"/>
+		<entry index="1998" type="number" value="864.113"/>
 		<entry index="1999" type="number" value="904.7"/>
-		<entry index="2000" type="number" value="909.91"/>
-		<entry index="2001" type="number" value="924.49"/>
-		<entry index="2002" type="number" value="955.29"/>
-		<entry index="2003" type="number" value="882.007"/>
-		<entry index="2004" type="number" value="882.007"/>
-		<entry index="2005" type="number" value="904.7"/>
-		<entry index="2006" type="number" value="909.91"/>
-		<entry index="2007" type="number" value="955.29"/>
-		<entry index="2008" type="number" value="909.91"/>
+		<entry index="2000" type="number" value="853.457"/>
+		<entry index="2001" type="number" value="904.7"/>
+		<entry index="2002" type="number" value="845.856"/>
+		<entry index="2003" type="number" value="891.381"/>
+		<entry index="2004" type="number" value="904.7"/>
+		<entry index="2005" type="number" value="908.867"/>
+		<entry index="2006" type="number" value="882.2"/>
+		<entry index="2007" type="number" value="882.2"/>
+		<entry index="2008" type="number" value="904.7"/>
 		<entry index="2009" type="number" value="904.7"/>
 		<entry index="2010" type="number" value="932.41"/>
 		<entry index="2011" type="number" value="904.7"/>
-		<entry index="2012" type="number" value="909.91"/>
-		<entry index="2013" type="number" value="921.19"/>
-		<entry index="2014" type="number" value="952.136"/>
-		<entry index="2015" type="number" value="924.49"/>
-		<entry index="2016" type="number" value="1000.75"/>
-		<entry index="2017" type="number" value="921.19"/>
+		<entry index="2012" type="number" value="904.7"/>
+		<entry index="2013" type="number" value="924.49"/>
+		<entry index="2014" type="number" value="909.906"/>
+		<entry index="2015" type="number" value="904.7"/>
+		<entry index="2016" type="number" value="932.41"/>
+		<entry index="2017" type="number" value="932.41"/>
 		<entry index="2018" type="number" value="921.19"/>
-		<entry index="2019" type="number" value="1000.75"/>
-		<entry index="2020" type="number" value="1000.75"/>
-		<entry index="2021" type="number" value="924.49"/>
+		<entry index="2019" type="number" value="904.7"/>
+		<entry index="2020" type="number" value="909.91"/>
+		<entry index="2021" type="number" value="909.91"/>
 		<entry index="2022" type="number" value="904.7"/>
-		<entry index="2023" type="number" value="904.7"/>
-		<entry index="2024" type="number" value="904.7"/>
-		<entry index="2025" type="number" value="924.49"/>
-		<entry index="2026" type="number" value="904.7"/>
-		<entry index="2027" type="number" value="924.49"/>
-		<entry index="2028" type="number" value="924.49"/>
-		<entry index="2029" type="number" value="924.49"/>
-		<entry index="2030" type="number" value="904.7"/>
-		<entry index="2031" type="number" value="904.7"/>
-		<entry index="2032" type="number" value="932.41"/>
-		<entry index="2033" type="number" value="904.7"/>
-		<entry index="2034" type="number" value="22.5"/>
-		<entry index="2035" type="number" value="22.5"/>
-		<entry index="2036" type="number" value="22.5"/>
-		<entry index="2037" type="number" value="22.5"/>
-		<entry index="2038" type="number" value="22.5"/>
-		<entry index="2039" type="number" value="22.5"/>
-		<entry index="2040" type="number" value="22.5"/>
-		<entry index="2041" type="number" value="22.5"/>
-		<entry index="2042" type="number" value="22.5"/>
-		<entry index="2043" type="number" value="22.5"/>
-		<entry index="2044" type="number" value="22.5"/>
-		<entry index="2045" type="number" value="22.5"/>
+		<entry index="2023" type="number" value="909.91"/>
+		<entry index="2024" type="number" value="921.19"/>
+		<entry index="2025" type="number" value="956.869"/>
+		<entry index="2026" type="number" value="924.49"/>
+		<entry index="2027" type="number" value="909.91"/>
+		<entry index="2028" type="number" value="965.653"/>
+		<entry index="2029" type="number" value="985.901"/>
+		<entry index="2030" type="number" value="987.479"/>
+		<entry index="2031" type="number" value="971.863"/>
+		<entry index="2032" type="number" value="921.19"/>
+		<entry index="2033" type="number" value="932.41"/>
+		<entry index="2034" type="number" value="1000.75"/>
+		<entry index="2035" type="number" value="987.479"/>
+		<entry index="2036" type="number" value="1000.75"/>
+		<entry index="2037" type="number" value="1000.75"/>
+		<entry index="2038" type="number" value="924.49"/>
+		<entry index="2039" type="number" value="904.7"/>
+		<entry index="2040" type="number" value="904.7"/>
+		<entry index="2041" type="number" value="904.7"/>
+		<entry index="2042" type="number" value="924.49"/>
+		<entry index="2043" type="number" value="904.7"/>
+		<entry index="2044" type="number" value="924.49"/>
+		<entry index="2045" type="number" value="924.49"/>
+		<entry index="2046" type="number" value="924.49"/>
+		<entry index="2047" type="number" value="904.7"/>
+		<entry index="2048" type="number" value="904.7"/>
+		<entry index="2049" type="number" value="904.7"/>
+		<entry index="2050" type="number" value="904.7"/>
+		<entry index="2051" type="number" value="904.7"/>
+		<entry index="2052" type="number" value="904.7"/>
+		<entry index="2053" type="number" value="904.7"/>
 	</entry>
 	<entry key="room_heights_xp_yn" type="table">
 		<entry index="1" type="number" value="72.5"/>
@@ -31314,68 +31470,76 @@
 		<entry index="1981" type="number" value="21.5"/>
 		<entry index="1982" type="number" value="50.8668"/>
 		<entry index="1983" type="number" value="21.5"/>
-		<entry index="1984" type="number" value="859.991"/>
-		<entry index="1985" type="number" value="909.461"/>
-		<entry index="1986" type="number" value="904.7"/>
-		<entry index="1987" type="number" value="845.856"/>
-		<entry index="1988" type="number" value="846.134"/>
-		<entry index="1989" type="number" value="859.503"/>
-		<entry index="1990" type="number" value="904.7"/>
-		<entry index="1991" type="number" value="904.7"/>
-		<entry index="1992" type="number" value="904.7"/>
-		<entry index="1993" type="number" value="924.49"/>
-		<entry index="1994" type="number" value="904.7"/>
-		<entry index="1995" type="number" value="804.192"/>
-		<entry index="1996" type="number" value="882.007"/>
-		<entry index="1997" type="number" value="904.7"/>
-		<entry index="1998" type="number" value="932.41"/>
+		<entry index="1984" type="number" value="22.5"/>
+		<entry index="1985" type="number" value="22.5"/>
+		<entry index="1986" type="number" value="22.5"/>
+		<entry index="1987" type="number" value="22.5"/>
+		<entry index="1988" type="number" value="22.5"/>
+		<entry index="1989" type="number" value="22.5"/>
+		<entry index="1990" type="number" value="22.5"/>
+		<entry index="1991" type="number" value="22.5"/>
+		<entry index="1992" type="number" value="22.5"/>
+		<entry index="1993" type="number" value="22.5"/>
+		<entry index="1994" type="number" value="22.5"/>
+		<entry index="1995" type="number" value="22.5"/>
+		<entry index="1996" type="number" value="847.867"/>
+		<entry index="1997" type="number" value="882.2"/>
+		<entry index="1998" type="number" value="847.867"/>
 		<entry index="1999" type="number" value="904.7"/>
-		<entry index="2000" type="number" value="944.764"/>
-		<entry index="2001" type="number" value="924.49"/>
-		<entry index="2002" type="number" value="932.41"/>
-		<entry index="2003" type="number" value="882.007"/>
-		<entry index="2004" type="number" value="859.506"/>
-		<entry index="2005" type="number" value="905.053"/>
-		<entry index="2006" type="number" value="932.41"/>
-		<entry index="2007" type="number" value="985.901"/>
+		<entry index="2000" type="number" value="845.856"/>
+		<entry index="2001" type="number" value="845.856"/>
+		<entry index="2002" type="number" value="789.048"/>
+		<entry index="2003" type="number" value="847.867"/>
+		<entry index="2004" type="number" value="904.7"/>
+		<entry index="2005" type="number" value="904.7"/>
+		<entry index="2006" type="number" value="882.2"/>
+		<entry index="2007" type="number" value="855.99"/>
 		<entry index="2008" type="number" value="904.7"/>
-		<entry index="2009" type="number" value="904.7"/>
-		<entry index="2010" type="number" value="932.41"/>
-		<entry index="2011" type="number" value="904.7"/>
-		<entry index="2012" type="number" value="1000.75"/>
-		<entry index="2013" type="number" value="904.7"/>
-		<entry index="2014" type="number" value="978.248"/>
-		<entry index="2015" type="number" value="924.49"/>
-		<entry index="2016" type="number" value="1000.75"/>
-		<entry index="2017" type="number" value="921.19"/>
-		<entry index="2018" type="number" value="921.19"/>
-		<entry index="2019" type="number" value="1021.15"/>
-		<entry index="2020" type="number" value="1000.75"/>
-		<entry index="2021" type="number" value="924.49"/>
+		<entry index="2009" type="number" value="924.49"/>
+		<entry index="2010" type="number" value="904.7"/>
+		<entry index="2011" type="number" value="909.909"/>
+		<entry index="2012" type="number" value="904.7"/>
+		<entry index="2013" type="number" value="924.49"/>
+		<entry index="2014" type="number" value="909.91"/>
+		<entry index="2015" type="number" value="904.7"/>
+		<entry index="2016" type="number" value="932.41"/>
+		<entry index="2017" type="number" value="932.41"/>
+		<entry index="2018" type="number" value="904.7"/>
+		<entry index="2019" type="number" value="904.7"/>
+		<entry index="2020" type="number" value="909.91"/>
+		<entry index="2021" type="number" value="904.7"/>
 		<entry index="2022" type="number" value="904.7"/>
-		<entry index="2023" type="number" value="904.7"/>
-		<entry index="2024" type="number" value="924.49"/>
-		<entry index="2025" type="number" value="904.7"/>
-		<entry index="2026" type="number" value="904.7"/>
-		<entry index="2027" type="number" value="924.49"/>
-		<entry index="2028" type="number" value="924.49"/>
-		<entry index="2029" type="number" value="924.49"/>
-		<entry index="2030" type="number" value="904.7"/>
-		<entry index="2031" type="number" value="904.7"/>
-		<entry index="2032" type="number" value="985.901"/>
-		<entry index="2033" type="number" value="904.7"/>
-		<entry index="2034" type="number" value="22.5"/>
-		<entry index="2035" type="number" value="22.5"/>
-		<entry index="2036" type="number" value="22.5"/>
-		<entry index="2037" type="number" value="22.5"/>
-		<entry index="2038" type="number" value="22.5"/>
-		<entry index="2039" type="number" value="22.5"/>
-		<entry index="2040" type="number" value="22.5"/>
-		<entry index="2041" type="number" value="22.5"/>
-		<entry index="2042" type="number" value="22.5"/>
-		<entry index="2043" type="number" value="22.5"/>
-		<entry index="2044" type="number" value="22.5"/>
-		<entry index="2045" type="number" value="22.5"/>
+		<entry index="2023" type="number" value="954.66"/>
+		<entry index="2024" type="number" value="921.19"/>
+		<entry index="2025" type="number" value="971.863"/>
+		<entry index="2026" type="number" value="924.49"/>
+		<entry index="2027" type="number" value="932.41"/>
+		<entry index="2028" type="number" value="985.901"/>
+		<entry index="2029" type="number" value="1000.75"/>
+		<entry index="2030" type="number" value="1000.75"/>
+		<entry index="2031" type="number" value="978.248"/>
+		<entry index="2032" type="number" value="921.19"/>
+		<entry index="2033" type="number" value="932.41"/>
+		<entry index="2034" type="number" value="1000.75"/>
+		<entry index="2035" type="number" value="1000.75"/>
+		<entry index="2036" type="number" value="1000.75"/>
+		<entry index="2037" type="number" value="1021.15"/>
+		<entry index="2038" type="number" value="924.49"/>
+		<entry index="2039" type="number" value="904.7"/>
+		<entry index="2040" type="number" value="904.7"/>
+		<entry index="2041" type="number" value="924.49"/>
+		<entry index="2042" type="number" value="904.7"/>
+		<entry index="2043" type="number" value="904.7"/>
+		<entry index="2044" type="number" value="924.49"/>
+		<entry index="2045" type="number" value="924.49"/>
+		<entry index="2046" type="number" value="924.49"/>
+		<entry index="2047" type="number" value="904.7"/>
+		<entry index="2048" type="number" value="904.7"/>
+		<entry index="2049" type="number" value="904.7"/>
+		<entry index="2050" type="number" value="904.7"/>
+		<entry index="2051" type="number" value="847.364"/>
+		<entry index="2052" type="number" value="904.7"/>
+		<entry index="2053" type="number" value="904.7"/>
 	</entry>
 	<entry key="room_heights_xp_yp" type="table">
 		<entry index="1" type="number" value="73.5078"/>
@@ -33361,68 +33525,76 @@
 		<entry index="1981" type="number" value="50.8672"/>
 		<entry index="1982" type="number" value="21.5"/>
 		<entry index="1983" type="number" value="46.6821"/>
-		<entry index="1984" type="number" value="905.053"/>
-		<entry index="1985" type="number" value="904.7"/>
-		<entry index="1986" type="number" value="904.7"/>
-		<entry index="1987" type="number" value="846.134"/>
-		<entry index="1988" type="number" value="846.134"/>
-		<entry index="1989" type="number" value="845.856"/>
-		<entry index="1990" type="number" value="904.7"/>
-		<entry index="1991" type="number" value="904.7"/>
-		<entry index="1992" type="number" value="904.7"/>
-		<entry index="1993" type="number" value="924.49"/>
-		<entry index="1994" type="number" value="904.7"/>
-		<entry index="1995" type="number" value="804.192"/>
-		<entry index="1996" type="number" value="882.007"/>
-		<entry index="1997" type="number" value="904.7"/>
-		<entry index="1998" type="number" value="932.41"/>
-		<entry index="1999" type="number" value="909.91"/>
-		<entry index="2000" type="number" value="932.41"/>
-		<entry index="2001" type="number" value="924.49"/>
-		<entry index="2002" type="number" value="932.41"/>
-		<entry index="2003" type="number" value="882.007"/>
-		<entry index="2004" type="number" value="859.506"/>
-		<entry index="2005" type="number" value="905.053"/>
-		<entry index="2006" type="number" value="909.91"/>
-		<entry index="2007" type="number" value="955.29"/>
+		<entry index="1984" type="number" value="22.5"/>
+		<entry index="1985" type="number" value="22.5"/>
+		<entry index="1986" type="number" value="22.5"/>
+		<entry index="1987" type="number" value="22.5"/>
+		<entry index="1988" type="number" value="22.5"/>
+		<entry index="1989" type="number" value="22.5"/>
+		<entry index="1990" type="number" value="22.5"/>
+		<entry index="1991" type="number" value="22.5"/>
+		<entry index="1992" type="number" value="22.5"/>
+		<entry index="1993" type="number" value="22.5"/>
+		<entry index="1994" type="number" value="22.5"/>
+		<entry index="1995" type="number" value="22.5"/>
+		<entry index="1996" type="number" value="904.7"/>
+		<entry index="1997" type="number" value="882.2"/>
+		<entry index="1998" type="number" value="864.113"/>
+		<entry index="1999" type="number" value="904.7"/>
+		<entry index="2000" type="number" value="845.856"/>
+		<entry index="2001" type="number" value="904.7"/>
+		<entry index="2002" type="number" value="823.356"/>
+		<entry index="2003" type="number" value="864.113"/>
+		<entry index="2004" type="number" value="904.7"/>
+		<entry index="2005" type="number" value="904.7"/>
+		<entry index="2006" type="number" value="882.2"/>
+		<entry index="2007" type="number" value="882.2"/>
 		<entry index="2008" type="number" value="904.7"/>
-		<entry index="2009" type="number" value="904.7"/>
-		<entry index="2010" type="number" value="932.41"/>
+		<entry index="2009" type="number" value="924.49"/>
+		<entry index="2010" type="number" value="909.909"/>
 		<entry index="2011" type="number" value="904.7"/>
-		<entry index="2012" type="number" value="909.91"/>
-		<entry index="2013" type="number" value="904.7"/>
-		<entry index="2014" type="number" value="978.248"/>
-		<entry index="2015" type="number" value="924.49"/>
-		<entry index="2016" type="number" value="1000.75"/>
-		<entry index="2017" type="number" value="921.19"/>
-		<entry index="2018" type="number" value="921.19"/>
-		<entry index="2019" type="number" value="1021.15"/>
-		<entry index="2020" type="number" value="1000.75"/>
-		<entry index="2021" type="number" value="924.49"/>
+		<entry index="2012" type="number" value="904.7"/>
+		<entry index="2013" type="number" value="924.49"/>
+		<entry index="2014" type="number" value="909.91"/>
+		<entry index="2015" type="number" value="904.7"/>
+		<entry index="2016" type="number" value="932.41"/>
+		<entry index="2017" type="number" value="932.41"/>
+		<entry index="2018" type="number" value="904.7"/>
+		<entry index="2019" type="number" value="904.7"/>
+		<entry index="2020" type="number" value="909.91"/>
+		<entry index="2021" type="number" value="904.7"/>
 		<entry index="2022" type="number" value="904.7"/>
-		<entry index="2023" type="number" value="904.7"/>
-		<entry index="2024" type="number" value="924.49"/>
-		<entry index="2025" type="number" value="904.7"/>
-		<entry index="2026" type="number" value="904.7"/>
-		<entry index="2027" type="number" value="924.49"/>
-		<entry index="2028" type="number" value="924.49"/>
-		<entry index="2029" type="number" value="924.49"/>
-		<entry index="2030" type="number" value="904.7"/>
-		<entry index="2031" type="number" value="904.7"/>
-		<entry index="2032" type="number" value="943.85"/>
-		<entry index="2033" type="number" value="904.7"/>
-		<entry index="2034" type="number" value="22.5"/>
-		<entry index="2035" type="number" value="22.5"/>
-		<entry index="2036" type="number" value="22.5"/>
-		<entry index="2037" type="number" value="22.5"/>
-		<entry index="2038" type="number" value="22.5"/>
-		<entry index="2039" type="number" value="22.5"/>
-		<entry index="2040" type="number" value="22.5"/>
-		<entry index="2041" type="number" value="22.5"/>
-		<entry index="2042" type="number" value="22.5"/>
-		<entry index="2043" type="number" value="22.5"/>
-		<entry index="2044" type="number" value="22.5"/>
-		<entry index="2045" type="number" value="22.5"/>
+		<entry index="2023" type="number" value="909.91"/>
+		<entry index="2024" type="number" value="921.19"/>
+		<entry index="2025" type="number" value="987.479"/>
+		<entry index="2026" type="number" value="924.49"/>
+		<entry index="2027" type="number" value="909.91"/>
+		<entry index="2028" type="number" value="985.901"/>
+		<entry index="2029" type="number" value="985.901"/>
+		<entry index="2030" type="number" value="1000.75"/>
+		<entry index="2031" type="number" value="978.248"/>
+		<entry index="2032" type="number" value="921.19"/>
+		<entry index="2033" type="number" value="932.41"/>
+		<entry index="2034" type="number" value="1000.75"/>
+		<entry index="2035" type="number" value="1000.75"/>
+		<entry index="2036" type="number" value="1000.75"/>
+		<entry index="2037" type="number" value="1021.15"/>
+		<entry index="2038" type="number" value="924.49"/>
+		<entry index="2039" type="number" value="904.7"/>
+		<entry index="2040" type="number" value="904.7"/>
+		<entry index="2041" type="number" value="924.49"/>
+		<entry index="2042" type="number" value="904.7"/>
+		<entry index="2043" type="number" value="904.7"/>
+		<entry index="2044" type="number" value="924.49"/>
+		<entry index="2045" type="number" value="924.49"/>
+		<entry index="2046" type="number" value="924.49"/>
+		<entry index="2047" type="number" value="904.7"/>
+		<entry index="2048" type="number" value="904.7"/>
+		<entry index="2049" type="number" value="904.7"/>
+		<entry index="2050" type="number" value="904.7"/>
+		<entry index="2051" type="number" value="904.7"/>
+		<entry index="2052" type="number" value="904.7"/>
+		<entry index="2053" type="number" value="904.7"/>
 	</entry>
 	<entry key="room_vis_groups" type="table">
 		<entry index="1" type="number" value="10"/>
@@ -35408,18 +35580,18 @@
 		<entry index="1981" type="number" value="6"/>
 		<entry index="1982" type="number" value="6"/>
 		<entry index="1983" type="number" value="6"/>
-		<entry index="1984" type="number" value="61"/>
-		<entry index="1985" type="number" value="61"/>
-		<entry index="1986" type="number" value="61"/>
-		<entry index="1987" type="number" value="61"/>
-		<entry index="1988" type="number" value="61"/>
-		<entry index="1989" type="number" value="61"/>
-		<entry index="1990" type="number" value="61"/>
-		<entry index="1991" type="number" value="61"/>
-		<entry index="1992" type="number" value="61"/>
-		<entry index="1993" type="number" value="61"/>
-		<entry index="1994" type="number" value="61"/>
-		<entry index="1995" type="number" value="61"/>
+		<entry index="1984" type="number" value="26"/>
+		<entry index="1985" type="number" value="26"/>
+		<entry index="1986" type="number" value="26"/>
+		<entry index="1987" type="number" value="26"/>
+		<entry index="1988" type="number" value="37"/>
+		<entry index="1989" type="number" value="37"/>
+		<entry index="1990" type="number" value="37"/>
+		<entry index="1991" type="number" value="37"/>
+		<entry index="1992" type="number" value="37"/>
+		<entry index="1993" type="number" value="37"/>
+		<entry index="1994" type="number" value="37"/>
+		<entry index="1995" type="number" value="37"/>
 		<entry index="1996" type="number" value="61"/>
 		<entry index="1997" type="number" value="61"/>
 		<entry index="1998" type="number" value="61"/>
@@ -35457,19 +35629,27 @@
 		<entry index="2030" type="number" value="61"/>
 		<entry index="2031" type="number" value="61"/>
 		<entry index="2032" type="number" value="61"/>
-		<entry index="2033" type="number" value="30"/>
-		<entry index="2034" type="number" value="26"/>
-		<entry index="2035" type="number" value="26"/>
-		<entry index="2036" type="number" value="26"/>
-		<entry index="2037" type="number" value="26"/>
-		<entry index="2038" type="number" value="37"/>
-		<entry index="2039" type="number" value="37"/>
-		<entry index="2040" type="number" value="37"/>
-		<entry index="2041" type="number" value="37"/>
-		<entry index="2042" type="number" value="37"/>
-		<entry index="2043" type="number" value="37"/>
-		<entry index="2044" type="number" value="37"/>
-		<entry index="2045" type="number" value="37"/>
+		<entry index="2033" type="number" value="61"/>
+		<entry index="2034" type="number" value="61"/>
+		<entry index="2035" type="number" value="61"/>
+		<entry index="2036" type="number" value="61"/>
+		<entry index="2037" type="number" value="61"/>
+		<entry index="2038" type="number" value="61"/>
+		<entry index="2039" type="number" value="61"/>
+		<entry index="2040" type="number" value="61"/>
+		<entry index="2041" type="number" value="61"/>
+		<entry index="2042" type="number" value="61"/>
+		<entry index="2043" type="number" value="61"/>
+		<entry index="2044" type="number" value="61"/>
+		<entry index="2045" type="number" value="61"/>
+		<entry index="2046" type="number" value="61"/>
+		<entry index="2047" type="number" value="61"/>
+		<entry index="2048" type="number" value="61"/>
+		<entry index="2049" type="number" value="61"/>
+		<entry index="2050" type="number" value="61"/>
+		<entry index="2051" type="number" value="61"/>
+		<entry index="2052" type="number" value="61"/>
+		<entry index="2053" type="number" value="30"/>
 	</entry>
 	<entry key="version" type="number" value="5"/>
 	<entry key="vis_groups" type="table">
@@ -38611,10 +38791,10 @@
 		<entry index="26" type="table">
 			<entry key="pos" type="vector3" value="2900 4975 4.61936e-005"/>
 			<entry key="rooms" type="table">
-				<entry index="2034" type="boolean" value="true"/>
-				<entry index="2035" type="boolean" value="true"/>
-				<entry index="2036" type="boolean" value="true"/>
-				<entry index="2037" type="boolean" value="true"/>
+				<entry index="1984" type="boolean" value="true"/>
+				<entry index="1985" type="boolean" value="true"/>
+				<entry index="1986" type="boolean" value="true"/>
+				<entry index="1987" type="boolean" value="true"/>
 			</entry>
 			<entry key="seg" type="number" value="26"/>
 			<entry key="vis_groups" type="table">
@@ -39030,7 +39210,7 @@
 		<entry index="30" type="table">
 			<entry key="pos" type="vector3" value="625 4400 882.2"/>
 			<entry key="rooms" type="table">
-				<entry index="2033" type="boolean" value="true"/>
+				<entry index="2053" type="boolean" value="true"/>
 			</entry>
 			<entry key="seg" type="number" value="30"/>
 			<entry key="vis_groups" type="table">
@@ -39925,14 +40105,14 @@
 		<entry index="37" type="table">
 			<entry key="pos" type="vector3" value="2900 5900 4.61936e-005"/>
 			<entry key="rooms" type="table">
-				<entry index="2038" type="boolean" value="true"/>
-				<entry index="2039" type="boolean" value="true"/>
-				<entry index="2040" type="boolean" value="true"/>
-				<entry index="2041" type="boolean" value="true"/>
-				<entry index="2042" type="boolean" value="true"/>
-				<entry index="2043" type="boolean" value="true"/>
-				<entry index="2044" type="boolean" value="true"/>
-				<entry index="2045" type="boolean" value="true"/>
+				<entry index="1988" type="boolean" value="true"/>
+				<entry index="1989" type="boolean" value="true"/>
+				<entry index="1990" type="boolean" value="true"/>
+				<entry index="1991" type="boolean" value="true"/>
+				<entry index="1992" type="boolean" value="true"/>
+				<entry index="1993" type="boolean" value="true"/>
+				<entry index="1994" type="boolean" value="true"/>
+				<entry index="1995" type="boolean" value="true"/>
 			</entry>
 			<entry key="seg" type="number" value="37"/>
 			<entry key="vis_groups" type="table">
@@ -41833,18 +42013,6 @@
 		<entry index="61" type="table">
 			<entry key="pos" type="vector3" value="-1820 3820 823.356"/>
 			<entry key="rooms" type="table">
-				<entry index="1984" type="boolean" value="true"/>
-				<entry index="1985" type="boolean" value="true"/>
-				<entry index="1986" type="boolean" value="true"/>
-				<entry index="1987" type="boolean" value="true"/>
-				<entry index="1988" type="boolean" value="true"/>
-				<entry index="1989" type="boolean" value="true"/>
-				<entry index="1990" type="boolean" value="true"/>
-				<entry index="1991" type="boolean" value="true"/>
-				<entry index="1992" type="boolean" value="true"/>
-				<entry index="1993" type="boolean" value="true"/>
-				<entry index="1994" type="boolean" value="true"/>
-				<entry index="1995" type="boolean" value="true"/>
 				<entry index="1996" type="boolean" value="true"/>
 				<entry index="1997" type="boolean" value="true"/>
 				<entry index="1998" type="boolean" value="true"/>
@@ -41882,6 +42050,26 @@
 				<entry index="2030" type="boolean" value="true"/>
 				<entry index="2031" type="boolean" value="true"/>
 				<entry index="2032" type="boolean" value="true"/>
+				<entry index="2033" type="boolean" value="true"/>
+				<entry index="2034" type="boolean" value="true"/>
+				<entry index="2035" type="boolean" value="true"/>
+				<entry index="2036" type="boolean" value="true"/>
+				<entry index="2037" type="boolean" value="true"/>
+				<entry index="2038" type="boolean" value="true"/>
+				<entry index="2039" type="boolean" value="true"/>
+				<entry index="2040" type="boolean" value="true"/>
+				<entry index="2041" type="boolean" value="true"/>
+				<entry index="2042" type="boolean" value="true"/>
+				<entry index="2043" type="boolean" value="true"/>
+				<entry index="2044" type="boolean" value="true"/>
+				<entry index="2045" type="boolean" value="true"/>
+				<entry index="2046" type="boolean" value="true"/>
+				<entry index="2047" type="boolean" value="true"/>
+				<entry index="2048" type="boolean" value="true"/>
+				<entry index="2049" type="boolean" value="true"/>
+				<entry index="2050" type="boolean" value="true"/>
+				<entry index="2051" type="boolean" value="true"/>
+				<entry index="2052" type="boolean" value="true"/>
 			</entry>
 			<entry key="seg" type="number" value="61"/>
 			<entry key="vis_groups" type="table">

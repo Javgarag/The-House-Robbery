@@ -180,6 +180,7 @@
 	"cart_hogar_70_2" : "You have to stay hidden guys. These guards are mercyless.",
 	"cart_hogar_71_1" : "Make sure that the zipline doesn't attract any attention from the guards!",
 	"cart_hogar_72_1" : "That's the good stuff. Take as much as you can.",
+	"cart_hogar_73_1" : "Camera feed destroyed. Good work!",
 
      
 	"house_robbery_name" : "The House Robbery",

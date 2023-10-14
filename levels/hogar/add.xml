@@ -5154,4 +5154,17 @@
 		<object path="units/pd2_dlc_born/characters/ene_biker_female_2/ene_biker_female_2"/>
 	</add>
 	<add from_db="true" path="fonts/font_futura" type="font"/>
+	<add from_db="true" path="units/payday2/props/air_prop_terminal_ac_door/air_prop_terminal_door_ac" type="unit">
+		<material_config path="units/payday2/props/air_prop_terminal_ac_door/air_prop_terminal_door_ac"/>
+		<object path="units/payday2/props/air_prop_terminal_ac_door/air_prop_terminal_door_ac"/>
+		<unit path="units/payday2/props/air_prop_terminal_ac_door/air_prop_terminal_door_ac"/>
+	</add>
+	<add from_db="true" path="effects/payday2/environment/gas_vent_branchbank" type="effect">
+		<effect load="true" path="effects/payday2/environment/gas_vent_branchbank"/>
+	</add>
+	<add from_db="true" path="units/world/props/office/airconditioner/airconditioner_01" type="unit">
+		<unit path="units/world/props/office/airconditioner/airconditioner_01"/>
+		<object path="units/world/props/office/airconditioner/airconditioner_01"/>
+		<material_config path="units/world/props/office/airconditioner/airconditioner_01"/>
+	</add>
 </table>
