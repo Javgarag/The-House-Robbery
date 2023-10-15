@@ -1,0 +1,27 @@
+<table>
+	<editor_groups/>
+	<instances/>
+	<statics>
+		<table>
+			<unit_data _prev_pos="-723.781 -256.802 144.199" _prev_rot="0 0 -0.803857 -0.594823" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_chca/props/chca_prop_vault_code/chca_prop_vault_code" name_id="chca_prop_vault_code_001" position="-723.781 -256.802 144.199" rotation="0 0 -0.803857 -0.594823" unit_id="100007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-473.216 681.686 130.278" _prev_rot="0 0 0.939693 0.34202" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_chca/props/chca_prop_vault_code/chca_prop_vault_code" name_id="chca_prop_vault_code_002" position="-473.216 681.686 130.278" rotation="0 0 0.939693 0.34202" unit_id="100008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="931.838 430.614 580.278" _prev_rot="-0 0 -0.559193 -0.829038" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_chca/props/chca_prop_vault_code/chca_prop_vault_code" name_id="chca_prop_vault_code_003" position="931.838 430.614 580.278" rotation="-0 0 -0.559193 -0.829038" unit_id="100009"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="991 100 144.954" _prev_rot="0.00060908 -0.0174418 0.999239 -0.0348942" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_chca/props/chca_prop_vault_code/chca_prop_vault_code" name_id="chca_prop_vault_code_004" position="991 100 144.954" rotation="0.00060908 -0.0174418 0.999239 -0.0348942" unit_id="100010"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1686 -370 580.665" _prev_rot="0 0 -0.113203 -0.993572" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_chca/props/chca_prop_vault_code/chca_prop_vault_code" name_id="chca_prop_vault_code_005" position="1690 -388 581" rotation="0 0 0.284015 -0.95882" unit_id="100011"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="822.819 1548.97 186.962" _prev_rot="0 0 -0.573577 -0.819152" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_chca/props/chca_prop_vault_code/chca_prop_vault_code" name_id="chca_prop_vault_code_006" position="822.819 1548.97 186.962" rotation="0 0 -0.573577 -0.819152" unit_id="100012"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

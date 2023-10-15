@@ -1,40 +1,29 @@
 <table directory="assets">
-
-	<!--Biker voicelines-->
-	<bnk from_db="true" path="soundbanks/npc_biker_thugs"/>
-
 	<unit from_db="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy"/>
 	<unit from_db="true" path="units/payday2/props/gen_prop_lazer_blaster_dome/gen_prop_lazer_blaster_dome"/>
-	
-	<!--Cop grenade-->
 	<add>
 		<material_config path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
 		<model path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
 		<object path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
-		<sequence_manager load="true" path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
 		<unit load="true" path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
 		<cooked_physics path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
-		
 		<material_config path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
 		<model path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
 		<object path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
 		<unit load="true" path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
 		<cooked_physics path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
-		
 		<material_config path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
 		<model path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
 		<object path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
 		<unit load="true" path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
 		<cooked_physics path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
-		
 		<material_config path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
 		<model path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
 		<object path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
 		<unit load="true" path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
 		<cooked_physics path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
+		<sequence_manager load="true" path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
 	</add>
-	
-	<!--Zipline-->
 	<add path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall" type="unit">
 		<material_config path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall" unload="true"/>
 		<model path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall" unload="true"/>
@@ -42,7 +31,6 @@
 		<sequence_manager path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall" unload="true"/>
 		<unit path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall" unload="true"/>
 	</add>
-	
 	<add path="units/pd2_mod_custom/hogar_tv_program/hogar_tv_program" type="unit">
 		<material_config path="units/pd2_mod_custom/hogar_tv_program/hogar_tv_program" unload="true"/>
 		<model path="units/pd2_mod_custom/hogar_tv_program/hogar_tv_program" unload="true"/>
@@ -169,5 +157,6 @@
 		<texture path="units/pd2_mod_pdm/props/grapple_point/gui_grapple_hook"/>
 		<unit path="units/pd2_mod_pdm/props/grapple_point/grapple_point"/>
 	</add>
+	<bnk from_db="true" path="soundbanks/npc_biker_thugs"/>
 	<movie path="movies/hogar_video_tv"/>
 </table>

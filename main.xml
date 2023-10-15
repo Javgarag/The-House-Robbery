@@ -1,8 +1,4 @@
 <table name="The House Robbery">
-	<AssetUpdates id="Javgarag/The-House-Robbery" provider="github" branch="main"/>
-	<instance id="code_notebook_wrong">
-		<packages/>
-	</instance>
 	<instance id="bex_keypad_mod">
 		<packages>
 			<value_node value="levels/instances/unique/bex/bex_keypad/world"/>
@@ -27,6 +23,9 @@
 		<packages/>
 	</instance>
 	<instance id="hogar_vault">
+		<packages/>
+	</instance>
+	<instance id="hogar_code_notebook">
 		<packages/>
 	</instance>
 	<Achievements icon="textures/achievements/hs_achiev_thumb" id="house_robbery">
@@ -82,6 +81,10 @@
 		<texture force="true" path="units/gen_pku_turkey_head/gen_pku_turkey_head_df"/>
 		<texture force="true" path="units/pd2_mod_custom/hogar_code_note/hogar_code_note_df"/>
 	</AddFiles>
+	<AssetUpdates branch="main" id="Javgarag/The-House-Robbery" provider="github"/>
+	<Elements directory="elements">
+		<element name="FourDigitCodeRandomizer"/>
+	</Elements>
 	<Hooks directory="Hooks">
 		<hook file="guitweakdata.lua" source_file="lib/tweak_data/guitweakdata"/>
 		<hook file="musicmanager.lua" source_file="lib/managers/musicmanager"/>

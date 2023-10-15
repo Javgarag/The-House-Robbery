@@ -163,5 +163,7 @@
 		<sound id="Play_cart_hogar_71" path="hogar_71_1.ogg" subtitle_id="cart_hogar_71_1"/>
 		<sound id="Play_cart_hogar_72" path="hogar_72_1.ogg" subtitle_id="cart_hogar_72_1"/>
 		<sound id="Play_cart_hogar_73" path="hogar_73_1.ogg" subtitle_id="cart_hogar_73_1"/>
+		<sound id="Play_cart_hogar_74" path="hogar_74_1.ogg" subtitle_id="cart_hogar_74_1"/>
+		<sound id="Play_cart_hogar_75" path="hogar_75_1.ogg" subtitle_id="cart_hogar_75_1"/>
 	</Sounds>
 </table>

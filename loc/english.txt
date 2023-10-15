@@ -98,7 +98,7 @@
 	"cart_hogar_04" : "Great, you've disabled the alarmed door.",
 	"cart_hogar_05" : "Don't use the code on the couch, it was past week's code.",
 	"cart_hogar_06" : "According to these files, the code written on the kitchen table is invalid.",
-	"cart_hogar_07" : "Interesting. The notebook that is next to the bed, on a table, has an invalid code.",
+	"cart_hogar_07" : "There's something here. It says that the notebook located near the stairs, on the first floor, contains a code which is not accepted by the keypad. Take note!",
 	"cart_hogar_08" : "The code by the keypad is the default factory code. However, it doesn't work.",
 	"cart_hogar_09" : "Security guard Frank has reported the code on the pool table doesn't work.",
 	"cart_hogar_10" : "Got info on the code: the code near the entrance was last month's code. It's invalid!",
@@ -181,7 +181,9 @@
 	"cart_hogar_71_1" : "Make sure that the zipline doesn't attract any attention from the guards!",
 	"cart_hogar_72_1" : "That's the good stuff. Take as much as you can.",
 	"cart_hogar_73_1" : "Camera feed destroyed. Good work!",
-
+	"cart_hogar_74_1" : "The helicopter will stay around an elevated platform behind the clubhouse. It should create less heat that way. You'll need to find a ladder to get up there, though.",
+	"cart_hogar_75_1" : "The fuck are you doing? They'll surely notice the missing guards!",
+	
      
 	"house_robbery_name" : "The House Robbery",
 	"hs_achiev_sewertorture" : "Hector's Revenge",
