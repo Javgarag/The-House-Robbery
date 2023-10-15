@@ -1051,7 +1051,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="1099 -966 748.834" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_008" position="1099 -966 748.834" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="300451">
+			<unit_data _prev_pos="1099 -966 748.834" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" _visibility_counter="0" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_008" position="1099 -966 748.834" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="300451">
 				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 0" font_size="1.3" render_template="diffuse_vc_decal" text="CONGRATULATIONS!" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
@@ -1075,8 +1075,8 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="1099 -966 722.834" _prev_rot="3.09086e-008 0.707107 0.707107 3.09086e-008" _visibility_counter="0" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_010" position="1099 -966 722.834" rotation="3.09086e-008 0.707107 0.707107 3.09086e-008" unit_id="300453">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.607845" render_template="diffuse_vc_decal" text="Map Logic/Decoration: Javgarag" vertical="center" word_wrap="false" wrap="false">
+			<unit_data _prev_pos="1099 -966 722.834" _prev_rot="3.09086e-008 0.707107 0.707107 3.09086e-008" _visibility_counter="0" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_010" position="1099 -966 722.834" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="300453">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.61" render_template="diffuse_vc_decal" text="Map made by: Javgarag" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
 						<value_node value="0"/>
@@ -1087,8 +1087,8 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="1099 -966 691.834" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" _visibility_counter="0" continent="clubhouse_interior" local_pos="-84 6.99999 43.791" local_rot="0.707107 6.18172e-008 6.18172e-008 0.707107" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_011" position="1099 -966 691.834" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="300454">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.61" render_template="diffuse_vc_decal" text="Playtesters: zmani, Idiosyncrasy, MochA, Martin, Helmut," vertical="center" word_wrap="false" wrap="false">
+			<unit_data _prev_pos="1099 -966 691.834" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" _visibility_counter="0" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_011" position="1099 -966 691.834" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="300454">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.61" render_template="diffuse_vc_decal" text="Playtesters: zmani,  Helmut, Xeletron, TimeForSteve" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
 						<value_node value="0"/>
@@ -1144,8 +1144,8 @@
 			<unit_data _prev_pos="-1528.98 1966.51 115.674" _prev_rot="0 0 0.681998 -0.731354" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_born/props/bor_prop_posters/bor_prop_poster_manhattan" name_id="bor_prop_poster_manhattan_003" position="-1527.17 1940.58 115.674" rotation="0 0 0.681998 -0.731354" unit_id="300462"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1099 -966 681.834" _prev_rot="3.09086e-008 0.707107 0.707107 3.09086e-008" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_016" position="1099 -966 681.834" rotation="-3.09086e-008 0.707107 0.707107 -3.09086e-008" unit_id="300463">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.61" render_template="diffuse_vc_decal" text="Charizard-Delta, pinki_ninja, JackoMeister and Metal Invitine" vertical="center" word_wrap="false" wrap="false">
+			<unit_data _prev_pos="1099 -966 681.834" _prev_rot="-3.09086e-008 0.707107 0.707107 -3.09086e-008" _visibility_counter="0" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_short/editable_text_short" name_id="editable_text_short_016" position="1099 -966 681.834" rotation="3.09086e-008 0.707107 0.707107 3.09086e-008" unit_id="300463">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="0.61" render_template="diffuse_vc_decal" text="Charizard-Delta, pinki_ninja, MefistofelL and Metal Invitine" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
 						<value_node value="0"/>

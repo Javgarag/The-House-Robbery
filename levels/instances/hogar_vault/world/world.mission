@@ -1391,12 +1391,6 @@
 							<entry key="notify_unit_sequence" type="string" value="state_show"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="2" type="table">
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="100039"/>
-							<entry key="notify_unit_sequence" type="string" value="state_show"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
 					</entry>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>

@@ -12,18 +12,6 @@
 				<value_node value="300273"/>
 			</units>
 		</table>
-		<table continent="world" name="credits_whiteboard" reference="101733" visible="true">
-			<units>
-				<value_node value="101733"/>
-				<value_node value="300451"/>
-				<value_node value="300457"/>
-				<value_node value="300452"/>
-				<value_node value="300453"/>
-				<value_node value="300455"/>
-				<value_node value="300454"/>
-				<value_node value="300456"/>
-			</units>
-		</table>
 		<table continent="world" name="tirepile_001" reference="101100" visible="true">
 			<units>
 				<value_node value="101102"/>
@@ -3874,7 +3862,7 @@
 			<unit_data _prev_pos="1144 731 727.463" _prev_rot="3.09086e-008 0.707107 0.707107 3.09086e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_02" name_id="ind_ext_prop_lamp_02_001" position="1144 731 737.463" rotation="3.09086e-008 0.707107 0.707107 3.09086e-008" unit_id="101596"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1095 677 501.75" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" name_id="dev_door_blocker_1x1x3_001" only_visible_in_editor="true" position="1095 677 501.75" rotation="0 0 0 -1" unit_id="101597"/>
+			<unit_data _prev_pos="1094 677 501.75" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" name_id="dev_door_blocker_1x1x3_001" only_visible_in_editor="true" position="1094 677 501.75" rotation="0 0 0 -1" unit_id="101597"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1053 2013 740.286" _prev_rot="0.5 0.5 0.5 0.5" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_01" name_id="ind_ext_prop_lamp_01_004" position="1052 2013 740.286" rotation="0.5 0.5 0.5 0.5" unit_id="101602"/>
@@ -5869,7 +5857,7 @@
 			<unit_data _prev_pos="2268 -345.62 404.437" _prev_rot="0 -1.78816e-007 -0.707107 -0.707107" _visibility_counter="0" continent="world" disable_shadows="true" local_pos="1052.82 677.801 404.437" local_rot="-1.26442e-007 1.26442e-007 1 0" name="units/world/architecture/diamondheist/props/diamondheist_roof_gen_small_01" name_id="diamondheist_roof_gen_small_01_006" position="2268 -345.62 404.437" rotation="0 -1.78816e-007 -0.707107 -0.707107" unit_id="102092"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-530 1319 146.573" _prev_rot="0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_hitbox" name="units/dev_tools/level_tools/target_hitbox/target_hitbox" name_id="target_hitbox_001" only_visible_in_editor="true" position="-530 1319 146.573" rotation="0.707107 0 0 -0.707107" unit_id="100812"/>
+			<unit_data _prev_pos="-530 1319 146.573" _prev_rot="0.707107 0 0 -0.707107" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_hitbox" name="units/dev_tools/level_tools/target_hitbox/target_hitbox" name_id="target_hitbox_001" only_visible_in_editor="true" position="-530 1319 146.573" rotation="0.707107 0 0 -0.707107" unit_id="100812"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1595 3715 823.356" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x1x2m" name_id="dev_ai_vis_blocker_005x1x2m_053" only_visible_in_editor="true" position="-1595 3715 823.356" rotation="0 0 -0.707107 -0.707107" unit_id="101050"/>
