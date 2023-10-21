@@ -1,6 +1,5 @@
 <table>
 	<clubhouse_interior file="clubhouse_interior/clubhouse_interior"/>
-	<debugging file="debugging/debugging"/>
 	<editor_only file="editor_only/editor_only"/>
 	<occluder_planes file="occluder_planes/occluder_planes"/>
 	<world file="world/world"/>

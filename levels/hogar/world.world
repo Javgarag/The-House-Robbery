@@ -4881,19 +4881,6 @@
 					<entry index="300615" type="boolean" value="true"/>
 					<entry index="300616" type="boolean" value="true"/>
 					<entry index="300617" type="boolean" value="true"/>
-					<entry index="500000" type="boolean" value="true"/>
-					<entry index="500001" type="boolean" value="true"/>
-					<entry index="500002" type="boolean" value="true"/>
-					<entry index="500003" type="boolean" value="true"/>
-					<entry index="500004" type="boolean" value="true"/>
-					<entry index="500005" type="boolean" value="true"/>
-					<entry index="500006" type="boolean" value="true"/>
-					<entry index="500007" type="boolean" value="true"/>
-					<entry index="500008" type="boolean" value="true"/>
-					<entry index="500009" type="boolean" value="true"/>
-					<entry index="500010" type="boolean" value="true"/>
-					<entry index="500012" type="boolean" value="true"/>
-					<entry index="500013" type="boolean" value="true"/>
 				</entry>
 				<entry key="shapes" type="table">
 					<entry index="1" type="table">

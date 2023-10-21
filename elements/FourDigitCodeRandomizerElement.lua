@@ -24,12 +24,10 @@ function FourDigitCodeRandomizerElement:on_executed(instigator)
 		for _,id in ipairs(self._values.unit) do
 			local unit = managers.worlddefinition:get_unit(id)
 			if unit and unit:damage() then
-				log(self._values.sequence.. tostring(self:get_mission_element(self._values.sequence_counter_append):counter_value()))
 				unit:damage():run_sequence_simple(self._values.sequence.. tostring(self:get_mission_element(self._values.sequence_counter_append):counter_value() or ""))
 			end
 		end
 	else
-		log(self._values.instance or "no instance")
 		local input_elements = managers.world_instance:get_registered_input_elements(self._values.instance, (self._values.instance_event or "").. tostring(self:get_mission_element(self._values.instance_counter_append) and self:get_mission_element(self._values.instance_counter_append):counter_value() or ""))
 		if input_elements then
 			for _, element in ipairs(input_elements) do

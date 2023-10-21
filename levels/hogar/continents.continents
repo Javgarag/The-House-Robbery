@@ -1,6 +1,5 @@
 <table>
 	<clubhouse_interior base_id="300000" name="clubhouse_interior" visible="true"/>
-	<debugging base_id="500000" editor_only="true" name="debugging" visible="true"/>
 	<editor_only base_id="200000" editor_only="true" name="editor_only" visible="true"/>
 	<occluder_planes base_id="400000" name="occluder_planes" visible="true"/>
 	<world base_id="100000" editor_only="false" name="world" visible="true"/>
