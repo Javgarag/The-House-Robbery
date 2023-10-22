@@ -5163,8 +5163,8 @@
 		<effect load="true" path="effects/payday2/environment/gas_vent_branchbank"/>
 	</add>
 	<add from_db="true" path="units/world/props/office/airconditioner/airconditioner_01" type="unit">
-		<unit path="units/world/props/office/airconditioner/airconditioner_01"/>
-		<object path="units/world/props/office/airconditioner/airconditioner_01"/>
 		<material_config path="units/world/props/office/airconditioner/airconditioner_01"/>
+		<object path="units/world/props/office/airconditioner/airconditioner_01"/>
+		<unit path="units/world/props/office/airconditioner/airconditioner_01"/>
 	</add>
 </table>
