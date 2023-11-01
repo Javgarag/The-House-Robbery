@@ -4931,7 +4931,7 @@
 			<unit_data _prev_pos="1022.21 -173.476 500" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="1" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_door_unopenable" name="units/payday2/equipment/ind_interactable_door_reinforced/ind_interactable_door_reinforced" name_id="ind_interactable_door_reinforced_001" position="1022.21 -173.476 500" rotation="0 0 -0.707107 -0.707107" unit_id="101731"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1550 -2050 4.19713" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disable_outline" name="units/pd2_dlc_fex/pickups/fex_pku_blowtorch/fex_pku_blowtorch" name_id="fex_pku_blowtorch_001" position="1554 -2050 4.19713" rotation="0 0 0 -1" unit_id="101732"/>
+			<unit_data _prev_pos="709 -1968 4.19713" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disable_outline" name="units/pd2_dlc_fex/pickups/fex_pku_blowtorch/fex_pku_blowtorch" name_id="fex_pku_blowtorch_001" position="709 -1968 4.19713" rotation="0 0 0 -1" unit_id="101732"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1500 -183 198.486" _prev_rot="-0.0165505 -0.00553773 -0.317257 -0.948179" _visibility_counter="0" continent="world" local_pos="-1064 660 89.986" local_rot="0.0165505 0.00553773 0.317257 0.948179" mesh_variation="switch_to_no_glow_mtr" name="units/payday2/pickups/gen_pku_keycard_standard_outline/gen_pku_keycard_standard_outline" name_id="gen_pku_keycard_standard_outline_002" position="1500 -183 198.486" rotation="-0.0165505 -0.00553773 -0.317257 -0.948179" unit_id="100179"/>

@@ -2480,7 +2480,7 @@
 			<unit_data _prev_pos="636 -1100 3.72529e-007" _prev_rot="0 0 -0.707107 -0.707107" continent="editor_only" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_103" only_exists_in_editor="true" position="636 -1100 3.72529e-007" rotation="0 0 -0.707107 -0.707107" unit_id="200694"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-530.265 1311.06 30.558" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="anim_open" name="units/pd2_dlc_friend/props/sfm_prop_ext_door_shed/sfm_prop_ext_door_double" name_id="sfm_prop_ext_door_double_editoronly" position="-530.265 1311.06 30.558" rotation="-0 0 -0 -1" unit_id="200004"/>
+			<unit_data _prev_pos="-530.265 1311.06 30.558" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="anim_open" name="units/pd2_dlc_friend/props/sfm_prop_ext_door_shed/sfm_prop_ext_door_double" name_id="sfm_prop_ext_door_double_editoronly" position="-530.265 1311.06 30.558" rotation="0 0 0 -1" unit_id="200004"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="3291 1524 3027" _prev_rot="0 0 1 -4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_051" position="3291 1474 3027" rotation="0 0 1 -4.37114e-008" unit_id="200176">
