@@ -190,9 +190,7 @@
 	</add>
 	<add from_db="true" path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1" type="unit">
 		<unit load="true" path="units/payday2/characters/civ_male_casual_1/civ_male_casual_1"/>
-		<animation_states path="anims/units/enemies/cop/std"/>
 		<animation_states path="anims/units/enemies/cop/civilian"/>
-		<animation_subset path="anims/units/enemies/cop/std"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
@@ -225,9 +223,7 @@
 	</add>
 	<add from_db="true" path="units/payday2/characters/civ_female_casual_1/civ_female_casual_1" type="unit">
 		<unit load="true" path="units/payday2/characters/civ_female_casual_1/civ_female_casual_1"/>
-		<animation_states path="anims/units/enemies/cop/std"/>
 		<animation_states path="anims/units/enemies/cop/civilian"/>
-		<animation_subset path="anims/units/enemies/cop/std"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
@@ -253,9 +249,7 @@
 	</add>
 	<add from_db="true" path="units/payday2/characters/civ_male_casual_9/civ_male_casual_9" type="unit">
 		<unit load="true" path="units/payday2/characters/civ_male_casual_9/civ_male_casual_9"/>
-		<animation_states path="anims/units/enemies/cop/std"/>
 		<animation_states path="anims/units/enemies/cop/civilian"/>
-		<animation_subset path="anims/units/enemies/cop/std"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
@@ -450,9 +444,7 @@
 	</add>
 	<add from_db="true" path="units/payday2/characters/ene_biker_1/ene_biker_1" type="unit">
 		<unit load="true" path="units/payday2/characters/ene_biker_1/ene_biker_1"/>
-		<animation_states path="anims/units/enemies/cop/std"/>
 		<animation_states path="anims/units/enemies/cop/civilian"/>
-		<animation_subset path="anims/units/enemies/cop/std"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
@@ -479,9 +471,7 @@
 	</add>
 	<add from_db="true" path="units/payday2/characters/ene_biker_4/ene_biker_4" type="unit">
 		<unit load="true" path="units/payday2/characters/ene_biker_4/ene_biker_4"/>
-		<animation_states path="anims/units/enemies/cop/std"/>
 		<animation_states path="anims/units/enemies/cop/civilian"/>
-		<animation_subset path="anims/units/enemies/cop/std"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
@@ -515,9 +505,7 @@
 	</add>
 	<add from_db="true" path="units/payday2/characters/ene_cop_1/ene_cop_1" type="unit">
 		<unit load="true" path="units/payday2/characters/ene_cop_1/ene_cop_1"/>
-		<animation_states path="anims/units/enemies/cop/std"/>
 		<animation_states path="anims/units/enemies/cop/civilian"/>
-		<animation_subset path="anims/units/enemies/cop/std"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
@@ -544,11 +532,9 @@
 	</add>
 	<add from_db="true" path="units/payday2/characters/ene_cop_2/ene_cop_2" type="unit">
 		<unit load="true" path="units/payday2/characters/ene_cop_2/ene_cop_2"/>
-		<animation_states path="anims/units/enemies/cop/std"/>
 		<animation_states path="anims/units/enemies/cop/civilian"/>
 		<object path="units/payday2/characters/ene_cop_2/ene_cop_2"/>
 		<material_config path="units/payday2/characters/ene_cop_2/ene_cop_2"/>
-		<animation_subset path="anims/units/enemies/cop/std"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
@@ -613,9 +599,7 @@
 	</add>
 	<add from_db="true" path="units/pd2_dlc1/characters/ene_security_gensec_1/ene_security_gensec_1" type="unit">
 		<unit load="true" path="units/pd2_dlc1/characters/ene_security_gensec_1/ene_security_gensec_1"/>
-		<animation_states path="anims/units/enemies/cop/std"/>
 		<animation_states path="anims/units/enemies/cop/civilian"/>
-		<animation_subset path="anims/units/enemies/cop/std"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
@@ -642,9 +626,7 @@
 	</add>
 	<add from_db="true" path="units/pd2_dlc1/characters/ene_security_gensec_2/ene_security_gensec_2" type="unit">
 		<unit load="true" path="units/pd2_dlc1/characters/ene_security_gensec_2/ene_security_gensec_2"/>
-		<animation_states path="anims/units/enemies/cop/std"/>
 		<animation_states path="anims/units/enemies/cop/civilian"/>
-		<animation_subset path="anims/units/enemies/cop/std"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_legs"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_rifle"/>
 		<animation_subset path="anims/units/enemies/cop/neutral_pistol"/>
