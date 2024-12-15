@@ -1,0 +1,7 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_hogar/props/hogar_prop_tv_program/hogar_prop_tv_program" orientation_object="rp_hogar_tv_program" />
+	<sequence_manager file="units/pd2_mod_hogar/props/hogar_prop_tv_program/hogar_prop_tv_program" />
+	<graphics>
+		<object name="g_block" enabled="false" shadow_caster="false"/>
+    </graphics>
+</dynamic_object>

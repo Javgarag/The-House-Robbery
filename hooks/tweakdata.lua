@@ -1,12 +1,12 @@
 if Global.game_settings and Global.game_settings.level_id == "hogar" then
 	-- Adds enemy Force Pickup for HDD steal 
 	tweak_data.pickups.hdd_hogar = {
-		unit = Idstring("units/pd2_mod_custom/hogar_pickup_hdd/secret_stash_equipment_server_rack_pickup")
+		unit = Idstring("units/pd2_mod_hogar/pickups/hogar_pickup_hdd/hogar_pickup_hdd")
 	}
 
 	-- Adds enemy Force pickup for GenSec call event
 	tweak_data.pickups.code_note_hogar = {
-		unit = Idstring("units/pd2_mod_custom/hogar_code_note/hogar_code_note")
+		unit = Idstring("units/pd2_mod_hogar/pickups/hogar_pickup_code_note/hogar_pickup_code_note")
 	}
 
 	-- Adds wrong code waypoint
@@ -23,9 +23,9 @@ if Global.game_settings and Global.game_settings.level_id == "hogar" then
 	-- Add instakill cop grenade to blackmarket tweak_data
 	tweak_data.blackmarket.projectiles.frag_cops = {
 		name_id = "bm_grenade_frag_cops",
-		unit = "units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade",
-		unit_dummy = "units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk",
-		sprint_unit = "units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint",
+		unit = "units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade",
+		unit_dummy = "units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk",
+		sprint_unit = "units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint",
 		throwable = true,
 		animation = "throw_grenade",
 		max_amount = 1,

@@ -1,0 +1,30 @@
+<dynamic_object>
+	<diesel materials="units/pd2_mod_hogar/architecture/hogar_ext_wall_hole/hogar_ext_wall_hole" orientation_object="rp_sand_ext_sidewall" />
+	<sequence_manager file="units/pd2_dlc_sand/architecture/ext/sand_ext_open_zone_a/sand_ext_sidewall" />
+	<bodies>
+		<body name="body_orig" enabled="true" template="static">
+			
+			<object name="rp_sand_ext_sidewall" />
+			<object name="c_box_1" collision_type="mesh_mopp" padding="-2.5" />
+			<object name="c_box_2" collision_type="mesh_mopp" padding="-2.5" />
+			<object name="c_box_3" collision_type="mesh_mopp" padding="-2.5" />
+			<object name="c_box_4" collision_type="mesh_mopp" padding="-2.5" />
+			
+		</body>
+		<body name="body_broken" enabled="false" template="static">
+			<object name="rp_sand_ext_sidewall" />
+			<object name="c_convex_3" collision_type="convex" padding="-2.5" />
+			<object name="c_convex_2" collision_type="convex" padding="-2.5" />
+			<object name="c_convex_1" collision_type="convex" padding="-2.5" />			
+		</body>
+	</bodies>
+	<decal_surfaces default_material="concrete">
+		<decal_mesh name="dm_side_wall" enabled="true" material="concrete" />
+		<decal_mesh name="dm_side_wall_broken" enabled="false" material="concrete" />
+	</decal_surfaces>
+	<graphics>
+		<object name="g_side_wall" enabled="true" />
+		<object name="g_broken_piece" enabled="false" />
+		<object name="g_side_wall_broken" enabled="false" />
+	</graphics>
+</dynamic_object>

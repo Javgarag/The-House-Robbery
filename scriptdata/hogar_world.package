@@ -2,151 +2,150 @@
 	<unit from_db="true" path="units/dev_tools/mission_elements/point_interaction/interaction_dummy"/>
 	<unit from_db="true" path="units/payday2/props/gen_prop_lazer_blaster_dome/gen_prop_lazer_blaster_dome"/>
 	<add>
-		<material_config path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
-		<model path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
-		<object path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
-		<unit load="true" path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
-		<cooked_physics path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
-		<material_config path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
-		<model path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
-		<object path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
-		<unit load="true" path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
-		<cooked_physics path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
-		<material_config path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
-		<model path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
-		<object path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
-		<unit load="true" path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
-		<cooked_physics path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
-		<material_config path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
-		<model path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
-		<object path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
-		<unit load="true" path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
-		<cooked_physics path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
-		<sequence_manager load="true" path="units/pd2_mod_custom/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
+		<material_config path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
+		<model path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
+		<object path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
+		<unit load="true" path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
+		<cooked_physics path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
+		<material_config path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
+		<model path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
+		<object path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
+		<unit load="true" path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
+		<cooked_physics path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_enemy" unload="true"/>
+		<material_config path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
+		<model path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
+		<object path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
+		<unit load="true" path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
+		<cooked_physics path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_husk" unload="true"/>
+		<material_config path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
+		<model path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
+		<object path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
+		<unit load="true" path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
+		<cooked_physics path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade_sprint" unload="true"/>
+		<sequence_manager load="true" path="units/pd2_mod_hogar/props/hogar_wpn_frag_grenade_cops/wpn_frag_grenade" unload="true"/>
 	</add>
-	<add path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall" type="unit">
-		<material_config path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall" unload="true"/>
-		<model path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall" unload="true"/>
-		<object path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall" unload="true"/>
-		<sequence_manager path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall" unload="true"/>
-		<unit path="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall" unload="true"/>
+	<add path="units/pd2_mod_hogar/props/hogar_prop_int_zipline_mount_wall/hogar_prop_int_zipline_mount_wall" type="unit">
+		<material_config path="units/pd2_mod_hogar/props/hogar_prop_int_zipline_mount_wall/hogar_prop_int_zipline_mount_wall" unload="true"/>
+		<model path="units/pd2_mod_hogar/props/hogar_prop_int_zipline_mount_wall/hogar_prop_int_zipline_mount_wall" unload="true"/>
+		<object path="units/pd2_mod_hogar/props/hogar_prop_int_zipline_mount_wall/hogar_prop_int_zipline_mount_wall" unload="true"/>
+		<sequence_manager path="units/pd2_mod_hogar/props/hogar_prop_int_zipline_mount_wall/hogar_prop_int_zipline_mount_wall" unload="true"/>
+		<unit path="units/pd2_mod_hogar/props/hogar_prop_int_zipline_mount_wall/hogar_prop_int_zipline_mount_wall" unload="true"/>
 	</add>
-	<add path="units/pd2_mod_custom/hogar_tv_program/hogar_tv_program" type="unit">
-		<material_config path="units/pd2_mod_custom/hogar_tv_program/hogar_tv_program" unload="true"/>
-		<model path="units/pd2_mod_custom/hogar_tv_program/hogar_tv_program" unload="true"/>
-		<object path="units/pd2_mod_custom/hogar_tv_program/hogar_tv_program" unload="true"/>
-		<sequence_manager load="true" path="units/pd2_mod_custom/hogar_tv_program/hogar_tv_program" unload="true"/>
-		<unit load="true" path="units/pd2_mod_custom/hogar_tv_program/hogar_tv_program" unload="true"/>
+	<add path="units/pd2_mod_hogar/props/hogar_prop_tv_program/hogar_prop_tv_program" type="unit">
+		<material_config path="units/pd2_mod_hogar/props/hogar_prop_tv_program/hogar_prop_tv_program" unload="true"/>
+		<model path="units/pd2_mod_hogar/props/hogar_prop_tv_program/hogar_prop_tv_program" unload="true"/>
+		<object path="units/pd2_mod_hogar/props/hogar_prop_tv_program/hogar_prop_tv_program" unload="true"/>
+		<sequence_manager load="true" path="units/pd2_mod_hogar/props/hogar_prop_tv_program/hogar_prop_tv_program" unload="true"/>
+		<unit load="true" path="units/pd2_mod_hogar/props/hogar_prop_tv_program/hogar_prop_tv_program" unload="true"/>
 	</add>
-	<add path="units/pd2_mod_custom/hogar_securitycables/securitycables" type="unit">
-		<material_config path="units/pd2_mod_custom/hogar_securitycables/securitycables" unload="true"/>
-		<model path="units/pd2_mod_custom/hogar_securitycables/securitycables" unload="true"/>
-		<object path="units/pd2_mod_custom/hogar_securitycables/securitycables" unload="true"/>
-		<sequence_manager load="true" path="units/pd2_mod_custom/hogar_securitycables/securitycables" unload="true"/>
-		<unit load="true" path="units/pd2_mod_custom/hogar_securitycables/securitycables" unload="true"/>
+	<add path="units/pd2_mod_hogar/props/hogar_prop_security_cables/hogar_prop_security_cables" type="unit">
+		<material_config path="units/pd2_mod_hogar/props/hogar_prop_security_cables/hogar_prop_security_cables" unload="true"/>
+		<model path="units/pd2_mod_hogar/props/hogar_prop_security_cables/hogar_prop_security_cables" unload="true"/>
+		<object path="units/pd2_mod_hogar/props/hogar_prop_security_cables/hogar_prop_security_cables" unload="true"/>
+		<sequence_manager load="true" path="units/pd2_mod_hogar/props/hogar_prop_security_cables/hogar_prop_security_cables" unload="true"/>
+		<unit load="true" path="units/pd2_mod_hogar/props/hogar_prop_security_cables/hogar_prop_security_cables" unload="true"/>
 	</add>
-	<add path="units/pd2_mod_custom/hogar_code_note/hogar_code_note" type="unit">
-		<material_config path="units/pd2_mod_custom/hogar_code_note/hogar_code_note" unload="true"/>
-		<model path="units/pd2_mod_custom/hogar_code_note/hogar_code_note" unload="true"/>
-		<object path="units/pd2_mod_custom/hogar_code_note/hogar_code_note" unload="true"/>
-		<sequence_manager load="true" path="units/pd2_mod_custom/hogar_code_note/hogar_code_note" unload="true"/>
-		<texture load="true" path="units/pd2_mod_custom/hogar_code_note/hogar_code_note_df" unload="true"/>
-		<unit load="true" path="units/pd2_mod_custom/hogar_code_note/hogar_code_note" unload="true"/>
+	<add path="units/pd2_mod_hogar/pickups/hogar_pickup_code_note/hogar_pickup_code_note" type="unit">
+		<material_config path="units/pd2_mod_hogar/pickups/hogar_pickup_code_note/hogar_pickup_code_note" unload="true"/>
+		<model path="units/pd2_mod_hogar/pickups/hogar_pickup_code_note/hogar_pickup_code_note" unload="true"/>
+		<object path="units/pd2_mod_hogar/pickups/hogar_pickup_code_note/hogar_pickup_code_note" unload="true"/>
+		<sequence_manager load="true" path="units/pd2_mod_hogar/pickups/hogar_pickup_code_note/hogar_pickup_code_note" unload="true"/>
+		<texture load="true" path="units/pd2_mod_hogar/pickups/hogar_pickup_code_note/hogar_pickup_code_note_df" unload="true"/>
+		<unit load="true" path="units/pd2_mod_hogar/pickups/hogar_pickup_code_note/hogar_pickup_code_note" unload="true"/>
 	</add>
-	<add path="units/pd2_mod_custom/hogar_pickup_hdd/secret_stash_equipment_server_rack_pickup" type="unit">
-		<material_config path="units/pd2_mod_custom/hogar_pickup_hdd/secret_stash_equipment_server_rack_interaction_contour" unload="true"/>
-		<model load="true" path="units/pd2_mod_custom/hogar_pickup_hdd/secret_stash_equipment_server_rack_pickup" unload="true"/>
-		<object path="units/pd2_mod_custom/hogar_pickup_hdd/secret_stash_equipment_server_rack_pickup" unload="true"/>
-		<sequence_manager load="true" path="units/pd2_mod_custom/hogar_pickup_hdd/secret_stash_equipment_server_rack_pickup" unload="true"/>
-		<unit load="true" path="units/pd2_mod_custom/hogar_pickup_hdd/secret_stash_equipment_server_rack_pickup" unload="true"/>
+	<add path="units/pd2_mod_hogar/pickups/hogar_pickup_hdd/hogar_pickup_hdd" type="unit">
+		<material_config path="units/pd2_mod_hogar/pickups/hogar_pickup_hdd/hogar_pickup_hdd" unload="true"/>
+		<model load="true" path="units/pd2_mod_hogar/pickups/hogar_pickup_hdd/hogar_pickup_hdd" unload="true"/>
+		<object path="units/pd2_mod_hogar/pickups/hogar_pickup_hdd/hogar_pickup_hdd" unload="true"/>
+		<sequence_manager load="true" path="units/pd2_mod_hogar/pickups/hogar_pickup_hdd/hogar_pickup_hdd" unload="true"/>
+		<unit load="true" path="units/pd2_mod_hogar/pickups/hogar_pickup_hdd/hogar_pickup_hdd" unload="true"/>
 	</add>
-	<add path="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big" type="unit">
-		<cooked_physics path="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big"/>
-		<material_config path="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big"/>
-		<model path="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big"/>
-		<object path="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big"/>
-		<sequence_manager path="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big"/>
-		<unit path="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big"/>
+	<add path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_main_entrance_big/hogar_prop_titan_shutters_main_entrance_big" type="unit">
+		<cooked_physics path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_main_entrance_big/hogar_prop_titan_shutters_main_entrance_big"/>
+		<material_config path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_main_entrance_big/hogar_prop_titan_shutters_main_entrance_big"/>
+		<model path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_main_entrance_big/hogar_prop_titan_shutters_main_entrance_big"/>
+		<object path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_main_entrance_big/hogar_prop_titan_shutters_main_entrance_big"/>
+		<sequence_manager path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_main_entrance_big/hogar_prop_titan_shutters_main_entrance_big"/>
+		<unit path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_main_entrance_big/hogar_prop_titan_shutters_main_entrance_big"/>
 	</add>
-	<add path="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window" type="unit">
-		<cooked_physics path="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window"/>
-		<material_config path="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window"/>
-		<model path="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window"/>
-		<object path="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window"/>
-		<sequence_manager path="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window"/>
-		<unit path="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window"/>
+	<add path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window" type="unit">
+		<cooked_physics path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window"/>
+		<material_config path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window"/>
+		<model path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window"/>
+		<object path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window"/>
+		<sequence_manager path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window"/>
+		<unit path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window"/>
 	</add>
-	<add path="units/pd2_mod_custom/hogar_props_titan_shutters/brb_prop_titan_shutters" type="unit">
-		<material_config path="units/pd2_mod_custom/hogar_props_titan_shutters/brb_prop_titan_shutters"/>
-		<model path="units/pd2_mod_custom/hogar_props_titan_shutters/brb_prop_titan_shutters"/>
-		<object path="units/pd2_mod_custom/hogar_props_titan_shutters/brb_prop_titan_shutters"/>
-		<sequence_manager path="units/pd2_mod_custom/hogar_props_titan_shutters/brb_prop_titan_shutters"/>
-		<unit path="units/pd2_mod_custom/hogar_props_titan_shutters/brb_prop_titan_shutters"/>
+	<add path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_vault/hogar_prop_titan_shutters_vault" type="unit">
+		<material_config path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_vault/hogar_prop_titan_shutters_vault"/>
+		<model path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_vault/hogar_prop_titan_shutters_vault"/>
+		<object path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_vault/hogar_prop_titan_shutters_vault"/>
+		<sequence_manager path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_vault/hogar_prop_titan_shutters_vault"/>
+		<unit path="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_vault/hogar_prop_titan_shutters_vault"/>
 	</add>
-	<add path="units/pd2_mod_custom/hogar_brick_debree/hogar_brick_debree" type="unit">
-		<material_config path="units/pd2_mod_custom/hogar_brick_debree/hogar_brick_debree"/>
-		<model path="units/pd2_mod_custom/hogar_brick_debree/hogar_brick_debree"/>
-		<object path="units/pd2_mod_custom/hogar_brick_debree/hogar_brick_debree"/>
-		<unit path="units/pd2_mod_custom/hogar_brick_debree/hogar_brick_debree"/>
+	<add path="units/pd2_mod_hogar/props/hogar_prop_brick_debree/hogar_prop_brick_debree" type="unit">
+		<material_config path="units/pd2_mod_hogar/props/hogar_prop_brick_debree/hogar_prop_brick_debree"/>
+		<model path="units/pd2_mod_hogar/props/hogar_prop_brick_debree/hogar_prop_brick_debree"/>
+		<object path="units/pd2_mod_hogar/props/hogar_prop_brick_debree/hogar_prop_brick_debree"/>
+		<unit path="units/pd2_mod_hogar/props/hogar_prop_brick_debree/hogar_prop_brick_debree"/>
 	</add>
-	<add path="units/pd2_dlc_sand/architecture/ext/sand_ext_open_zone_a_hole/sand_ext_sidewall" type="unit">
-		<material_config path="units/pd2_dlc_sand/architecture/ext/sand_ext_open_zone_a_hole/sand_ext_sidewall"/>
-		<model path="units/pd2_dlc_sand/architecture/ext/sand_ext_open_zone_a_hole/sand_ext_sidewall"/>
-		<object path="units/pd2_dlc_sand/architecture/ext/sand_ext_open_zone_a_hole/sand_ext_sidewall"/>
-		<sequence_manager path="units/pd2_dlc_sand/architecture/ext/sand_ext_open_zone_a_hole/sand_ext_sidewall"/>
-		<unit path="units/pd2_dlc_sand/architecture/ext/sand_ext_open_zone_a_hole/sand_ext_sidewall"/>
+	<add path="units/pd2_mod_hogar/architecture/hogar_ext_wall_hole/hogar_ext_wall_hole" type="unit">
+		<material_config path="units/pd2_mod_hogar/architecture/hogar_ext_wall_hole/hogar_ext_wall_hole"/>
+		<model path="units/pd2_mod_hogar/architecture/hogar_ext_wall_hole/hogar_ext_wall_hole"/>
+		<object path="units/pd2_mod_hogar/architecture/hogar_ext_wall_hole/hogar_ext_wall_hole"/>
+		<unit path="units/pd2_mod_hogar/architecture/hogar_ext_wall_hole/hogar_ext_wall_hole"/>
 	</add>
-	<add path="units/laptop_marcmb/laptop_marcmb" type="unit">
-		<material_config path="units/laptop_marcmb/laptop_marcmb"/>
-		<model path="units/laptop_marcmb/laptop_marcmb"/>
-		<object path="units/laptop_marcmb/laptop_marcmb"/>
-		<unit path="units/laptop_marcmb/laptop_marcmb"/>
+	<add path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb" type="unit">
+		<material_config path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb"/>
+		<model path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb"/>
+		<object path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb"/>
+		<unit path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb"/>
 	</add>
-	<add path="units/pd2_dlc_born_mod/architecture/bor_clubhouse/bor_clubhouse" type="unit">
-		<material_config path="units/pd2_dlc_born_mod/architecture/bor_clubhouse/bor_clubhouse"/>
-		<model path="units/pd2_dlc_born_mod/architecture/bor_clubhouse/bor_clubhouse"/>
-		<object path="units/pd2_dlc_born_mod/architecture/bor_clubhouse/bor_clubhouse"/>
-		<unit path="units/pd2_dlc_born_mod/architecture/bor_clubhouse/bor_clubhouse"/>
+	<add path="units/pd2_mod_hogar/architecture/hogar_ext_clubhouse/hogar_ext_clubhouse" type="unit">
+		<material_config path="units/pd2_mod_hogar/architecture/hogar_ext_clubhouse/hogar_ext_clubhouse"/>
+		<model path="units/pd2_mod_hogar/architecture/hogar_ext_clubhouse/hogar_ext_clubhouse"/>
+		<object path="units/pd2_mod_hogar/architecture/hogar_ext_clubhouse/hogar_ext_clubhouse"/>
+		<unit path="units/pd2_mod_hogar/architecture/hogar_ext_clubhouse/hogar_ext_clubhouse"/>
 	</add>
-	<add path="units/gen_pku_turkey_head/gen_pku_turkey_head" type="unit">
-		<material_config path="units/gen_pku_turkey_head/gen_pku_turkey_head"/>
-		<model path="units/gen_pku_turkey_head/gen_pku_turkey_head"/>
-		<object path="units/gen_pku_turkey_head/gen_pku_turkey_head"/>
-		<sequence_manager path="units/gen_pku_turkey_head/gen_pku_turkey_head"/>
-		<unit path="units/gen_pku_turkey_head/gen_pku_turkey_head"/>
+	<add path="units/pd2_mod_hogar/props/hogar_prop_int_turkey_head/hogar_prop_int_turkey_head" type="unit">
+		<material_config path="units/pd2_mod_hogar/props/hogar_prop_int_turkey_head/hogar_prop_int_turkey_head"/>
+		<model path="units/pd2_mod_hogar/props/hogar_prop_int_turkey_head/hogar_prop_int_turkey_head"/>
+		<object path="units/pd2_mod_hogar/props/hogar_prop_int_turkey_head/hogar_prop_int_turkey_head"/>
+		<sequence_manager path="units/pd2_mod_hogar/props/hogar_prop_int_turkey_head/hogar_prop_int_turkey_head"/>
+		<unit path="units/pd2_mod_hogar/props/hogar_prop_int_turkey_head/hogar_prop_int_turkey_head"/>
 	</add>
-	<add path="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" type="unit">
-		<material_config path="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching"/>
-		<model path="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false"/>
-		<object path="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false"/>
-		<sequence_manager path="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching"/>
-		<unit path="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false"/>
+	<add path="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" type="unit">
+		<material_config path="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction"/>
+		<model path="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction"/>
+		<object path="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction"/>
+		<sequence_manager path="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction"/>
+		<unit path="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction"/>
 	</add>
-	<add path="units/str_ext_road_16x16m_a_manhole_suburbia/str_ext_road_16x16m_a_manhole_suburbia" type="unit">
-		<material_config path="units/str_ext_road_16x16m_a_manhole_suburbia/str_ext_road_16x16m_a_manhole_suburbia"/>
-		<model path="units/str_ext_road_16x16m_a_manhole_suburbia/str_ext_road_16x16m_a_manhole_suburbia"/>
-		<object path="units/str_ext_road_16x16m_a_manhole_suburbia/str_ext_road_16x16m_a_manhole_suburbia"/>
-		<unit path="units/str_ext_road_16x16m_a_manhole_suburbia/str_ext_road_16x16m_a_manhole_suburbia"/>
+	<add path="units/pd2_mod_hogar/architecture/hogar_ext_street_16x16m_manhole/hogar_ext_street_16x16m_manhole" type="unit">
+		<material_config path="units/pd2_mod_hogar/architecture/hogar_ext_street_16x16m_manhole/hogar_ext_street_16x16m_manhole"/>
+		<model path="units/pd2_mod_hogar/architecture/hogar_ext_street_16x16m_manhole/hogar_ext_street_16x16m_manhole"/>
+		<object path="units/pd2_mod_hogar/architecture/hogar_ext_street_16x16m_manhole/hogar_ext_street_16x16m_manhole"/>
+		<unit path="units/pd2_mod_hogar/architecture/hogar_ext_street_16x16m_manhole/hogar_ext_street_16x16m_manhole"/>
 	</add>
-	<add path="units/str_ext_asphalt_16x16m_a_suburbia_manhole/str_ext_asphalt_16x16m_a_suburbia_manhole" type="unit">
-		<material_config path="units/str_ext_asphalt_16x16m_a_suburbia_manhole/str_ext_asphalt_16x16m_a_suburbia_manhole"/>
-		<model path="units/str_ext_asphalt_16x16m_a_suburbia_manhole/str_ext_asphalt_16x16m_a_suburbia_manhole"/>
-		<object path="units/str_ext_asphalt_16x16m_a_suburbia_manhole/str_ext_asphalt_16x16m_a_suburbia_manhole"/>
-		<unit path="units/str_ext_asphalt_16x16m_a_suburbia_manhole/str_ext_asphalt_16x16m_a_suburbia_manhole"/>
+	<add path="units/pd2_mod_hogar/architecture/hogar_ext_asphalt_16x16m_manhole/hogar_ext_asphalt_16x16m_manhole" type="unit">
+		<material_config path="units/pd2_mod_hogar/architecture/hogar_ext_asphalt_16x16m_manhole/hogar_ext_asphalt_16x16m_manhole"/>
+		<model path="units/pd2_mod_hogar/architecture/hogar_ext_asphalt_16x16m_manhole/hogar_ext_asphalt_16x16m_manhole"/>
+		<object path="units/pd2_mod_hogar/architecture/hogar_ext_asphalt_16x16m_manhole/hogar_ext_asphalt_16x16m_manhole"/>
+		<unit path="units/pd2_mod_hogar/architecture/hogar_ext_asphalt_16x16m_manhole/hogar_ext_asphalt_16x16m_manhole"/>
 	</add>
 	<add>
-		<material_config path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
+		<material_config path="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
 		<material_config from_db="true" path="units/payday2/props/dest_glass/glass_shatter"/>
-		<animation path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/anims/anim_sedan_arrive"/>
-		<animation_def path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/anims/car"/>
-		<animation_state_machine path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/anims/car"/>
-		<animation_states path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/anims/std"/>
-		<animation_subset path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/anims/std"/>
-		<cooked_physics path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
-		<model path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
-		<object path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
-		<sequence_manager path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
-		<unit path="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
+		<animation path="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/anims/anim_sedan_arrive"/>
+		<animation_def path="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/anims/car"/>
+		<animation_state_machine path="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/anims/car"/>
+		<animation_states path="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/anims/std"/>
+		<animation_subset path="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/anims/std"/>
+		<cooked_physics path="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
+		<model path="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
+		<object path="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
+		<sequence_manager path="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
+		<unit path="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan"/>
 	</add>
 	<add path="units/pd2_mod_pdm/props/grapple_point/grapple_point" type="unit">
 		<bnk from_db="true" path="soundbanks/zipline"/>

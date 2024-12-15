@@ -1,0 +1,27 @@
+<dynamic_object>
+    <diesel orientation_object="rp_securitycables" materials="units/pd2_mod_hogar/props/hogar_prop_security_cables/hogar_prop_security_cables" />
+    <sequence_manager file="units/pd2_mod_hogar/props/hogar_prop_security_cables/hogar_prop_security_cables" />
+
+	<bodies>
+		<body name="static_body" enabled="true" template="editor">
+			<object name="rp_securitycables" />
+			<object name="g_bits" collision_type="box" />
+			
+		</body>
+	</bodies>
+
+	<decal_surfaces default_material="plastic" static="true">
+	</decal_surfaces>
+	
+	<graphics>
+	
+		<object enabled="true" name="g_bits" />
+			
+		<object enabled="true" name="g_cable_1" />
+		
+		<object enabled="true" name="g_light_1" />
+		
+    </graphics>
+
+
+</dynamic_object>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" orientation_object="rp_invisible_interaction_searching" />
+  <sequence_manager file="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" />
+  <bodies>
+	<body name="static_body" enabled="true" template="editor" collides_with_mover="false" remove_ray_type="bullet">
+    <object name="rp_invisible_interaction_searching"/>
+		<object name="c_box" collision_type="box" />
+	</body>
+  </bodies>
+  <graphics>
+    <graphic_group name="grp_icon" enabled="true" culling_object="CullingObjectName">
+      <lod_object name="lod_icon">
+        <object name="g_icon" enabled="true"  max_distance="600"  max_draw_lod="0" />
+        <object name="g_icon_lod1" enabled="true" lod="1" />
+      </lod_object>
+    </graphic_group>
+
+  </graphics>
+</dynamic_object>

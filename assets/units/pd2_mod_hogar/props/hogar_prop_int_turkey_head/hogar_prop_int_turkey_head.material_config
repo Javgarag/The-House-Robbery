@@ -1,0 +1,5 @@
+<materials version="3">
+	<material name="mat_turkey_head" render_template="generic:CUBE_ENVIRONMENT_MAPPING:DIFFUSE_TEXTURE" version="2">
+		<diffuse_texture file="units/pd2_mod_hogar/props/hogar_prop_int_turkey_head/hogar_prop_int_turkey_head_df" />
+	</material>
+</materials>

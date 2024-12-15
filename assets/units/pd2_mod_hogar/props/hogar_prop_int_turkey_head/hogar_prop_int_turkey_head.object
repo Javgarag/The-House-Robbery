@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<dynamic_object>
+  <diesel materials="units/pd2_mod_hogar/props/hogar_prop_int_turkey_head/hogar_prop_int_turkey_head" orientation_object="rp_turkey_head" />
+  <sequence_manager file="units/pd2_mod_hogar/props/hogar_prop_int_turkey_head/hogar_prop_int_turkey_head" />
+
+  <bodies>
+    <body name="turkey_body" enabled="true" template="static">
+      <object name="rp_turkey_head" />
+      <object name="g_head" collision_type="mesh_mopp" />
+    </body>
+  </bodies>
+
+  <graphics>
+    <object name="g_head" enabled="true" />    
+  </graphics>
+</dynamic_object> 

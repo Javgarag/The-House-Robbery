@@ -1,0 +1,8 @@
+<unit type="sand" slot="1">
+	<object file="units/pd2_mod_hogar/architecture/hogar_ext_wall_hole/hogar_ext_wall_hole" />
+	<network sync="spawn"/>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+		<extension name="damage" class="UnitDamage" />
+	</extensions>
+</unit>

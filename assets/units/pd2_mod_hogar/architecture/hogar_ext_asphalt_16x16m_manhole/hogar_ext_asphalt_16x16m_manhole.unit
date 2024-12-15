@@ -1,0 +1,6 @@
+<unit type="str" slot="1" >
+    <object file="units/pd2_mod_hogar/architecture/hogar_ext_asphalt_16x16m_manhole/hogar_ext_asphalt_16x16m_manhole" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+    </extensions>
+</unit>

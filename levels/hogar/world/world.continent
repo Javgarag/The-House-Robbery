@@ -3151,7 +3151,7 @@
 			<unit_data _prev_pos="2176 -416 704.545" _prev_rot="4.37114e-008 1 -4.37114e-008 1.91069e-015" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="hide" name="units/payday2/equipment/gen_equipment_shape_charge_plantable/gen_equipment_shape_charge_plantable" name_id="gen_equipment_shape_charge_plantable_014" position="2176 -416 704.545" rotation="-0.707107 0.707107 -3.09086e-008 -3.09086e-008" unit_id="101277"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-317 3905 0" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/str_ext_road_16x16m_a_manhole_suburbia/str_ext_road_16x16m_a_manhole_suburbia" name_id="str_ext_road_16x16m_a_manhole_suburbia_001" position="-317 3905 0" rotation="0 0 1 4.37114e-008" unit_id="101279"/>
+			<unit_data _prev_pos="-317 3905 0" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_hogar/architecture/hogar_ext_street_16x16m_manhole/hogar_ext_street_16x16m_manhole" name_id="str_ext_road_16x16m_a_manhole_suburbia_001" position="-317 3905 0" rotation="0 0 1 4.37114e-008" unit_id="101279"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1643 2575 1.08" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disable_interaction" name="units/world/props/suburbia_manhole/suburbia_manhole" name_id="suburbia_manhole_001" position="-1643 2575 1.08" rotation="0 0 0.707107 -0.707107" unit_id="100005"/>
@@ -3360,7 +3360,7 @@
 			<unit_data _prev_pos="-2307 5600 -532.53" _prev_rot="0.5 -0.5 -0.5 -0.5" continent="world" instance_data="false" local_pos="0 -800 0" local_rot="0 0 0 1" name="units/pd2_dlc_chill/architecture/chl_int_basement_pipes/chl_int_basement_pipes_02" name_id="chl_int_basement_pipes_02_009" position="-2307 5600 -532.53" rotation="0.5 -0.5 -0.5 -0.5" unit_id="101374"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-750 -2000 340.634" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/str_ext_asphalt_16x16m_a_suburbia_manhole/str_ext_asphalt_16x16m_a_suburbia_manhole" name_id="str_ext_asphalt_16x16m_a_suburbia_manhole_001" position="-1604.4 -2487.7 0" rotation="-0 0 -0 -1" unit_id="101375"/>
+			<unit_data _prev_pos="-750 -2000 340.634" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_hogar/architecture/hogar_ext_asphalt_16x16m_manhole/hogar_ext_asphalt_16x16m_manhole" name_id="str_ext_asphalt_16x16m_a_suburbia_manhole_001" position="-1604.4 -2487.7 0" rotation="-0 0 -0 -1" unit_id="101375"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-383 -1786 -595" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc2/architecture/csb_sewer/csb_sewer_t_intersect_entry_4m" name_id="csb_sewer_t_intersect_entry_4m_003" position="-383 -1786 -595" rotation="0 0 0 -1" unit_id="100015"/>
@@ -3789,9 +3789,6 @@
 			<unit_data _prev_pos="-358 1140 169.749" _prev_rot="-0.5 0.5 0.5 -0.5" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disable_interaction" name="units/world/props/secret_stash_circuitbreaker/secret_stash_circuitbreaker" name_id="computer_circuitbreaker" position="-358 1140 169.749" rotation="-0.5 0.5 0.5 -0.5" unit_id="101567"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="967.21 -568.476 500" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="-36.2258 60.771 0" local_rot="0 0 -0.275638 0.961262" name="units/pd2_dlc_born/architecture/bor_clubhouse/bor_clubhouse_storage" name_id="bor_clubhouse_storage_001" position="967.21 -568.476 500" rotation="0 0 0.707107 -0.707107" unit_id="101569"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="835 730 727.158" _prev_rot="0 0 0 -1" _visibility_counter="2" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="light_green_on_black" name="units/payday2/props/gen_prop_security_timelock/gen_prop_security_timelock" name_id="gen_prop_security_timelock_001" position="835 730 727.158" rotation="0 0 0 -1" unit_id="101570"/>
 		</table>
 		<table>
@@ -3955,7 +3952,7 @@
 			<unit_data _prev_pos="874.947 -2220.27 67.1971" _prev_rot="-0.694115 0.134922 0.134922 -0.694115" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chill/props/chl_prop_ecm_jammer/chl_prop_ecm_jammer" name_id="chl_prop_ecm_jammer_002" position="874.947 -2220.27 67.1971" rotation="-0.694115 -0.134922 -0.134922 -0.694115" unit_id="101632"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="941 -2225 67.1971" _prev_rot="0 0 0.995396 -0.0958456" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/laptop_marcmb/laptop_marcmb" name_id="laptop_marcmb_001" position="942.526 -2232.85 67.1971" rotation="0 0 0.995396 -0.0958456" unit_id="101633"/>
+			<unit_data _prev_pos="941 -2225 67.1971" _prev_rot="0 0 0.995396 -0.0958456" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb" name_id="laptop_marcmb_001" position="942.526 -2232.85 67.1971" rotation="0 0 0.995396 -0.0958456" unit_id="101633"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="513 1606 619.884" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_5" name="units/payday2/props/gen_interactable_panel_keycard/gen_interactable_panel_keycard" name_id="gen_interactable_panel_keycard_003" position="513 1606 619.884" rotation="0 0 1 -4.37114e-008" unit_id="101634"/>
@@ -4350,88 +4347,88 @@
 			<unit_data _prev_pos="1260 38 498" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_on_ai_graph="false" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_door_open" name="units/pd2_dlc1/equipment/gen_interactable_door_wooden_c/gen_interactable_door_wooden_c_v2_dirty" name_id="gen_interactable_door_wooden_c_v2_dirty_006" position="1260 38 498" rotation="0 0 -0.707107 -0.707107" unit_id="100204"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1336 1066 177.083" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_001" position="1336 1066 177.083" rotation="-0 0 -0 -1" unit_id="100205"/>
+			<unit_data _prev_pos="1336 1066 177.083" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_001" position="1336 1066 177.083" rotation="-0 0 -0 -1" unit_id="100205"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1336 1116 177.083" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_002" position="1336 1116 177.083" rotation="-0 0 -0 -1" unit_id="100206"/>
+			<unit_data _prev_pos="1336 1116 177.083" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_002" position="1336 1116 177.083" rotation="-0 0 -0 -1" unit_id="100206"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1336 1166 177.083" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_003" position="1336 1166 177.083" rotation="-0 0 -0 -1" unit_id="100207"/>
+			<unit_data _prev_pos="1336 1166 177.083" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_003" position="1336 1166 177.083" rotation="-0 0 -0 -1" unit_id="100207"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1353 1391 154.506" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_004" position="1353 1391 154.506" rotation="-0 0 -0 -1" unit_id="100208"/>
+			<unit_data _prev_pos="1353 1391 154.506" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_004" position="1353 1391 154.506" rotation="-0 0 -0 -1" unit_id="100208"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1353 1391 123.506" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_005" position="1353 1391 123.506" rotation="-0 0 -0 -1" unit_id="100209"/>
+			<unit_data _prev_pos="1353 1391 123.506" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_005" position="1353 1391 123.506" rotation="-0 0 -0 -1" unit_id="100209"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1353 1567 123.506" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_006" position="1353 1567 123.506" rotation="-0 0 -0 -1" unit_id="100210"/>
+			<unit_data _prev_pos="1353 1567 123.506" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_006" position="1353 1567 123.506" rotation="-0 0 -0 -1" unit_id="100210"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1353 1567 154.506" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_007" position="1353 1567 154.506" rotation="-0 0 -0 -1" unit_id="100211"/>
+			<unit_data _prev_pos="1353 1567 154.506" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_007" position="1353 1567 154.506" rotation="-0 0 -0 -1" unit_id="100211"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1424 1722 125.601" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_008" position="1424 1722 125.601" rotation="0 0 0.707107 -0.707107" unit_id="100212"/>
+			<unit_data _prev_pos="1424 1722 125.601" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_008" position="1424 1722 125.601" rotation="0 0 0.707107 -0.707107" unit_id="100212"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1424 1722 156.601" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_009" position="1424 1722 156.601" rotation="0 0 0.707107 -0.707107" unit_id="100213"/>
+			<unit_data _prev_pos="1424 1722 156.601" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_009" position="1424 1722 156.601" rotation="0 0 0.707107 -0.707107" unit_id="100213"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1499 1740 173.601" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_010" position="1499 1740 173.601" rotation="0 0 0.707107 -0.707107" unit_id="100214"/>
+			<unit_data _prev_pos="1499 1740 173.601" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_010" position="1499 1740 173.601" rotation="0 0 0.707107 -0.707107" unit_id="100214"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1557 1740 173.601" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_011" position="1557 1740 173.601" rotation="0 0 0.707107 -0.707107" unit_id="100215"/>
+			<unit_data _prev_pos="1557 1740 173.601" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_011" position="1557 1740 173.601" rotation="0 0 0.707107 -0.707107" unit_id="100215"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1673 1740 173.601" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_012" position="1673 1740 173.601" rotation="0 0 0.707107 -0.707107" unit_id="100216"/>
+			<unit_data _prev_pos="1673 1740 173.601" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_012" position="1673 1740 173.601" rotation="0 0 0.707107 -0.707107" unit_id="100216"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1615 1740 173.601" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_013" position="1615 1740 173.601" rotation="0 0 0.707107 -0.707107" unit_id="100217"/>
+			<unit_data _prev_pos="1615 1740 173.601" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_013" position="1615 1740 173.601" rotation="0 0 0.707107 -0.707107" unit_id="100217"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1645 1240 141.733" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_014" position="1650 1240 141.733" rotation="0 0 1 4.37114e-008" unit_id="100218"/>
+			<unit_data _prev_pos="1645 1240 141.733" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_014" position="1650 1240 141.733" rotation="0 0 1 4.37114e-008" unit_id="100218"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1650 1429 141.733" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_015" position="1650 1431 141.733" rotation="0 0 1 4.37114e-008" unit_id="100219"/>
+			<unit_data _prev_pos="1650 1429 141.733" _prev_rot="0 0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_015" position="1650 1431 141.733" rotation="0 0 1 4.37114e-008" unit_id="100219"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="981 -114 138.448" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_016" position="981 -114 134.448" rotation="0 0 -0.707107 -0.707107" unit_id="100220"/>
+			<unit_data _prev_pos="981 -114 138.448" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_016" position="981 -114 134.448" rotation="0 0 -0.707107 -0.707107" unit_id="100220"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="981 -114 134.448" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_017" position="885 -114 134.448" rotation="0 0 -0.707107 -0.707107" unit_id="100221"/>
+			<unit_data _prev_pos="981 -114 134.448" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_017" position="885 -114 134.448" rotation="0 0 -0.707107 -0.707107" unit_id="100221"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="885 -114 134.448" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_018" position="790 -114 134.448" rotation="0 0 -0.707107 -0.707107" unit_id="100222"/>
+			<unit_data _prev_pos="885 -114 134.448" _prev_rot="0 0 -0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_018" position="790 -114 134.448" rotation="0 0 -0.707107 -0.707107" unit_id="100222"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="928 1967 172.94" _prev_rot="0 0 1 2.68221e-007" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_019" position="928 1965 172.94" rotation="0 0 1 2.68221e-007" unit_id="100223"/>
+			<unit_data _prev_pos="928 1967 172.94" _prev_rot="0 0 1 2.68221e-007" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_019" position="928 1965 172.94" rotation="0 0 1 2.68221e-007" unit_id="100223"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="928 1965 172.94" _prev_rot="0 0 1 2.68221e-007" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_020" position="928 1907 172.94" rotation="0 0 1 2.68221e-007" unit_id="100224"/>
+			<unit_data _prev_pos="928 1965 172.94" _prev_rot="0 0 1 2.68221e-007" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_020" position="928 1907 172.94" rotation="0 0 1 2.68221e-007" unit_id="100224"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="928 1907 172.94" _prev_rot="0 0 1 2.68221e-007" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_021" position="928 1849 172.94" rotation="0 0 1 2.68221e-007" unit_id="100225"/>
+			<unit_data _prev_pos="928 1907 172.94" _prev_rot="0 0 1 2.68221e-007" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_021" position="928 1849 172.94" rotation="0 0 1 2.68221e-007" unit_id="100225"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="928 1849 172.94" _prev_rot="0 0 1 2.68221e-007" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_022" position="928 1791 172.94" rotation="0 0 1 2.68221e-007" unit_id="100226"/>
+			<unit_data _prev_pos="928 1849 172.94" _prev_rot="0 0 1 2.68221e-007" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_022" position="928 1791 172.94" rotation="0 0 1 2.68221e-007" unit_id="100226"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-108 917 81.635" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="1" continent="world" local_pos="0 -140 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_023" position="8 917 81.635" rotation="0 0 0.707107 -0.707107" unit_id="100227"/>
+			<unit_data _prev_pos="-108 917 81.635" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="1" continent="world" local_pos="0 -140 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_023" position="8 917 81.635" rotation="0 0 0.707107 -0.707107" unit_id="100227"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="32 917 81.635" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_024" position="148 917 81.635" rotation="0 0 0.707107 -0.707107" unit_id="100228"/>
+			<unit_data _prev_pos="32 917 81.635" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_024" position="148 917 81.635" rotation="0 0 0.707107 -0.707107" unit_id="100228"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-60 970 288.13" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_025" position="-55 970 288.13" rotation="0 0 0.707107 -0.707107" unit_id="100229"/>
+			<unit_data _prev_pos="-60 970 288.13" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_025" position="-55 970 288.13" rotation="0 0 0.707107 -0.707107" unit_id="100229"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-57 -386 94.7173" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="5.11589e-013 24 44.7173" local_rot="0 0 0.707107 0.707107" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_026" position="-60 -386 94.7173" rotation="0 0 -0.707107 -0.707107" unit_id="100230"/>
+			<unit_data _prev_pos="-57 -386 94.7173" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="5.11589e-013 24 44.7173" local_rot="0 0 0.707107 0.707107" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_026" position="-60 -386 94.7173" rotation="0 0 -0.707107 -0.707107" unit_id="100230"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1690 -351 546.809" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="-874 492 438.309" local_rot="0 0 0.707107 0.707107" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_027" position="1690 -351 546.809" rotation="0 0 -0.707107 -0.707107" unit_id="100231"/>
+			<unit_data _prev_pos="1690 -351 546.809" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="-874 492 438.309" local_rot="0 0 0.707107 0.707107" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_027" position="1690 -351 546.809" rotation="0 0 -0.707107 -0.707107" unit_id="100231"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="771 -105 542.293" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_028" position="771 -105 542" rotation="0 0 -0.707107 -0.707107" unit_id="100232"/>
+			<unit_data _prev_pos="771 -105 542.293" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_028" position="771 -105 542" rotation="0 0 -0.707107 -0.707107" unit_id="100232"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2185 648 800" _prev_rot="0 0 0.93358 0.358368" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_off" name="units/payday2/props/com_prop_store_spotlight/com_prop_store_spot_light_b_1" name_id="com_prop_store_spot_light_b_1_002" position="2185 648 800" rotation="0 0 0.93358 0.358368" unit_id="100235"/>
@@ -4561,22 +4558,22 @@
 			<unit_data _prev_pos="-491 385 50" _prev_rot="0 0 0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="enable_vision_blocker" name="units/dev_tools/level_tools/dev_ai_vis_blocker/dev_ai_vis_blocker_005x1x2m" name_id="dev_ai_vis_blocker_005x1x2m_006" only_visible_in_editor="true" position="-491 385 50" rotation="0 0 0 -1" unit_id="100275"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-184 968 286.938" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_029" position="-184 973 286.938" rotation="0 0 0.707107 -0.707107" unit_id="100276"/>
+			<unit_data _prev_pos="-184 968 286.938" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_029" position="-184 973 286.938" rotation="0 0 0.707107 -0.707107" unit_id="100276"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1941 -338 585.074" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_030" position="1941 -338 588.074" rotation="0 0 -0.707107 -0.707107" unit_id="100277"/>
+			<unit_data _prev_pos="1941 -338 585.074" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_030" position="1941 -338 588.074" rotation="0 0 -0.707107 -0.707107" unit_id="100277"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1209 -100 575.29" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_031" position="1209 -100 575" rotation="0 0 -0.707107 -0.707107" unit_id="100278"/>
+			<unit_data _prev_pos="1209 -100 575.29" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_031" position="1209 -100 575" rotation="0 0 -0.707107 -0.707107" unit_id="100278"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1148 -104 573.922" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_032" position="1148 -104 574" rotation="0 0 -0.707107 -0.707107" unit_id="100279"/>
+			<unit_data _prev_pos="1148 -104 573.922" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_032" position="1148 -104 574" rotation="0 0 -0.707107 -0.707107" unit_id="100279"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="851 -139 738.255" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_033" position="851 -139 738" rotation="0 0 -0.707107 -0.707107" unit_id="100280"/>
+			<unit_data _prev_pos="851 -139 738.255" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_033" position="851 -139 738" rotation="0 0 -0.707107 -0.707107" unit_id="100280"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="794 -137 738.631" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_034" position="794 -137 739" rotation="0 0 -0.707107 -0.707107" unit_id="100281"/>
+			<unit_data _prev_pos="794 -137 738.631" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_034" position="794 -137 739" rotation="0 0 -0.707107 -0.707107" unit_id="100281"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1676 1532 77" _prev_rot="-0 0 -0 -1" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" name_id="dev_door_blocker_1x1x3_004" only_visible_in_editor="true" position="1676 1532 77" rotation="-0 0 -0 -1" unit_id="100086"/>
@@ -4916,18 +4913,6 @@
 			<unit_data _prev_pos="-849 297 872.38" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/architecture/diamondheist/props/diamondheist_roof_gen_large_01" name_id="diamondheist_roof_gen_large_01_003" position="-849 284 872.38" rotation="0 0 0.707107 -0.707107" unit_id="101725"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1041 -783 799" _prev_rot="1 0 0 -0" _visibility_counter="0" continent="world" local_pos="184.804 9.66792 299" local_rot="-0.87462 -0.484809 0 0" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_cable_straight_01_2m" name_id="ind_ext_prop_cable_straight_01_2m_003" position="1041 -783 799" rotation="1 0 0 -0" unit_id="101726"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="1224 -783 799" _prev_rot="0.707107 0.707107 0 -0" _visibility_counter="0" continent="world" local_pos="281.779 164.861 299" local_rot="-0.275638 -0.961262 0 0" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_cable_straight_01_2m" name_id="ind_ext_prop_cable_straight_01_2m_004" position="1224 -783 799" rotation="0.707107 0.707107 0 -0" unit_id="101727"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="1224 -583 799" _prev_rot="0.707107 0.707107 0 -0" _visibility_counter="0" continent="world" local_pos="112.169 270.845 299" local_rot="-0.275638 -0.961262 0 0" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_cable_straight_01_2m" name_id="ind_ext_prop_cable_straight_01_2m_005" position="1224 -583 799" rotation="0.707107 0.707107 0 -0" unit_id="101728"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="1224 -388.5 799" _prev_rot="0.707107 0.707107 3.09086e-008 3.09086e-008" _visibility_counter="0" continent="world" local_pos="-52.7758 373.914 299" local_rot="-0.275638 -0.961262 -4.2018e-008 -1.20485e-008" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_cable_straight_01_2m" name_id="ind_ext_prop_cable_straight_01_2m_006" position="1224 -388.5 799" rotation="0.707107 0.707107 3.09086e-008 3.09086e-008" unit_id="101729"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="1022.21 -173.476 500" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="1" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_door_unopenable" name="units/payday2/equipment/ind_interactable_door_reinforced/ind_interactable_door_reinforced" name_id="ind_interactable_door_reinforced_001" position="1022.21 -173.476 500" rotation="0 0 -0.707107 -0.707107" unit_id="101731"/>
 		</table>
 		<table>
@@ -4941,12 +4926,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="1015 -959 648.043" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_dah/props/dah_prop_whiteboard/dah_prop_whiteboard_b" name_id="dah_prop_whiteboard_b_001" position="1015 -959 648.043" rotation="0 0 1 4.37114e-008" unit_id="101733"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="1013 -907 500" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/bnk_prop_vault_table/bnk_prop_vault_table" name_id="bnk_prop_vault_table_001" position="1013 -907 500" rotation="0 0 -0.707107 -0.707107" unit_id="101735"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="1020 -907 629" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show" name="units/gen_pku_turkey_head/gen_pku_turkey_head" name_id="gen_pku_turkey_head_001" position="1020 -907 629" rotation="-0 0 -0 -1" unit_id="101734"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1640 3860 9.53674e-005" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 560 0" local_rot="0 0 0 1" name="units/world/props/street/parking_meter/parking_meter" name_id="parking_meter_001" position="1640 3840 9.53674e-005" rotation="0 0 -0.707107 -0.707107" unit_id="101736"/>
@@ -5003,7 +4982,7 @@
 			<unit_data _prev_pos="-200 7700 -569.154" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/shadow_caster_10x10" name_id="shadow_caster_10x10_046" position="-200 7700 -369.154" rotation="-0 0 -0 -1" unit_id="101753"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1467.21 731.524 0" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_born_mod/architecture/bor_clubhouse/bor_clubhouse" name_id="bor_clubhouse_001" position="1467.21 731.524 0" rotation="0 0 0.707107 -0.707107" unit_id="100001"/>
+			<unit_data _prev_pos="1467.21 731.524 0" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_hogar/architecture/hogar_ext_clubhouse/hogar_ext_clubhouse" name_id="bor_clubhouse_001" position="1467.21 731.524 0" rotation="0 0 0.707107 -0.707107" unit_id="100001"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="29.8373 -2360.79 3.72529e-007" _prev_rot="0 0 -0.688355 -0.725374" _visibility_counter="1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/ind_vehicle_truck_forklift/ind_vehicle_truck_forklift" name_id="ind_vehicle_truck_forklift_002" position="29.8373 -2360.79 3.72529e-007" rotation="0 0 -0.688355 -0.725374" unit_id="101756"/>
@@ -5033,13 +5012,13 @@
 			<unit_data _prev_pos="661 817 809.847" _prev_rot="0.5 0.5 -0.5 -0.5" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m" name_id="dev_bag_collision_1x1m_003" only_visible_in_editor="true" position="569 817 809.847" rotation="0.5 0.5 -0.5 -0.5" unit_id="101764"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="9450 5844 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show_orig_wall" name="units/pd2_dlc_sand/architecture/ext/sand_ext_open_zone_a_hole/sand_ext_sidewall" name_id="wall_hole" position="9450 5844 0" rotation="-0 0 -0 -1" unit_id="100955"/>
+			<unit_data _prev_pos="9450 5844 0" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="show_orig_wall" name="units/pd2_mod_hogar/architecture/hogar_ext_wall_hole/hogar_ext_wall_hole" name_id="wall_hole" position="9450 5844 0" rotation="-0 0 -0 -1" unit_id="100955"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="3325 2025 -0.999954" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/hogar_brick_debree/hogar_brick_debree" name_id="hogar_brick_debree_001" position="3285 2055 -1" rotation="-0 0 -0 -1" unit_id="101239"/>
+			<unit_data _prev_pos="3325 2025 -0.999954" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_hogar/props/hogar_prop_brick_debree/hogar_prop_brick_debree" name_id="hogar_brick_debree_001" position="3285 2055 -1" rotation="-0 0 -0 -1" unit_id="101239"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="3091 2055 -1" _prev_rot="0 0 0.999391 0.0348995" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/hogar_brick_debree/hogar_brick_debree" name_id="hogar_brick_debree_002" position="3093.37 2088.92 -1" rotation="0 0 0.999391 0.0348995" unit_id="101663"/>
+			<unit_data _prev_pos="3091 2055 -1" _prev_rot="0 0 0.999391 0.0348995" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_hogar/props/hogar_prop_brick_debree/hogar_prop_brick_debree" name_id="hogar_brick_debree_002" position="3093.37 2088.92 -1" rotation="0 0 0.999391 0.0348995" unit_id="101663"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="3135.27 2194.03 0" _prev_rot="0 0 0.97237 -0.233446" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/air_prop_hangar_toolbox/air_prop_hangar_toolbox_addon" name_id="air_prop_hangar_toolbox_addon_007" position="3135.27 2194.03 0" rotation="0 0 0.97237 -0.233446" unit_id="101765"/>
@@ -5125,34 +5104,34 @@
 			<unit_data _prev_pos="-520 1326 120.795" _prev_rot="0 0 0 -1" continent="world" disable_collision="true" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_cro/lockpick_interactable/lockpick_interactable" name_id="lockpick_interactable_001" position="-520 1326 120.795" rotation="-0 0 -0 -1" unit_id="101724"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="438 1728 192.062" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_shutter_closed" name="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window" name_id="hogar_props_titan_shutters_window_001" position="438 1728 192.062" rotation="-0 0 -0 -1" unit_id="101805"/>
+			<unit_data _prev_pos="438 1728 192.062" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_shutter_closed" name="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window" name_id="hogar_props_titan_shutters_window_001" position="438 1728 192.062" rotation="-0 0 -0 -1" unit_id="101805"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="438 1432 192.062" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window" name_id="hogar_props_titan_shutters_window_002" position="438 1432 192.062" rotation="0 0 0 -1" unit_id="101806"/>
+			<unit_data _prev_pos="438 1432 192.062" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window" name_id="hogar_props_titan_shutters_window_002" position="438 1432 192.062" rotation="0 0 0 -1" unit_id="101806"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="630 2042 192.062" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window" name_id="hogar_props_titan_shutters_window_003" position="630 2037 192.062" rotation="0 0 0.707107 -0.707107" unit_id="101807"/>
+			<unit_data _prev_pos="630 2042 192.062" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window" name_id="hogar_props_titan_shutters_window_003" position="630 2037 192.062" rotation="0 0 0.707107 -0.707107" unit_id="101807"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="860 2037 192.062" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window" name_id="hogar_props_titan_shutters_window_004" position="856 2037 192.062" rotation="0 0 0.707107 -0.707107" unit_id="101808"/>
+			<unit_data _prev_pos="860 2037 192.062" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window" name_id="hogar_props_titan_shutters_window_004" position="856 2037 192.062" rotation="0 0 0.707107 -0.707107" unit_id="101808"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1673 880 195.37" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window" name_id="hogar_props_titan_shutters_window_005" position="1673 880 195.37" rotation="0 0 1 -4.37114e-008" unit_id="101809"/>
+			<unit_data _prev_pos="1673 880 195.37" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window" name_id="hogar_props_titan_shutters_window_005" position="1673 880 195.37" rotation="0 0 1 -4.37114e-008" unit_id="101809"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2273 -340 596.444" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window" name_id="hogar_props_titan_shutters_window_006" position="2273 -340 596.444" rotation="0 0 1 4.37114e-008" unit_id="101810"/>
+			<unit_data _prev_pos="2273 -340 596.444" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window" name_id="hogar_props_titan_shutters_window_006" position="2273 -340 596.444" rotation="0 0 1 4.37114e-008" unit_id="101810"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2273 -66 596.444" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window" name_id="hogar_props_titan_shutters_window_007" position="2273 -66 596.444" rotation="0 0 1 4.37114e-008" unit_id="101811"/>
+			<unit_data _prev_pos="2273 -66 596.444" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window" name_id="hogar_props_titan_shutters_window_007" position="2273 -66 596.444" rotation="0 0 1 4.37114e-008" unit_id="101811"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-931 -246 149.755" _prev_rot="0 0 8.74228e-008 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window" name_id="hogar_props_titan_shutters_window_008" position="-931 -246 149.755" rotation="-0 0 -0 -1" unit_id="101812"/>
+			<unit_data _prev_pos="-931 -246 149.755" _prev_rot="0 0 8.74228e-008 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window" name_id="hogar_props_titan_shutters_window_008" position="-931 -246 149.755" rotation="-0 0 -0 -1" unit_id="101812"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-931 -246 149.755" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window" name_id="hogar_props_titan_shutters_window_009" position="-931 109 149.755" rotation="0 0 0 -1" unit_id="101813"/>
+			<unit_data _prev_pos="-931 -246 149.755" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window" name_id="hogar_props_titan_shutters_window_009" position="-931 109 149.755" rotation="0 0 0 -1" unit_id="101813"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-931 468 149.755" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_props_titan_shutters_window/hogar_props_titan_shutters_window" name_id="hogar_props_titan_shutters_window_010" position="-931 465 149.755" rotation="0 0 0 -1" unit_id="101814"/>
+			<unit_data _prev_pos="-931 468 149.755" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_window/hogar_prop_titan_shutters_window" name_id="hogar_props_titan_shutters_window_010" position="-931 465 149.755" rotation="0 0 0 -1" unit_id="101814"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-412 1331 147.595" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_screen_enabled" name="units/pd2_dlc_arena/equipment/are_interactable_gensec_panel/are_interactable_gensec_panel" name_id="are_interactable_gensec_panel_001" position="-412 1331 147.595" rotation="0 0 -0.707107 -0.707107" unit_id="101708"/>
@@ -5167,13 +5146,13 @@
 			<unit_data _prev_pos="417 283 177.311" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="12 -21.405 -1" local_rot="-0.707107 0 0 0.707107" mesh_variation="state_interaction_disable" name="units/pd2_dlc_chas/props/chas_prop_lever/chas_prop_lever" name_id="chas_prop_lever_001" position="417 283 205.311" rotation="0 0 0.707107 -0.707107" unit_id="101721"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1833 -351 546.809" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-731 492 438.309" local_rot="0 0 0.707107 0.707107" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_035" position="1833 -351 546.809" rotation="0 0 -0.707107 -0.707107" unit_id="101722"/>
+			<unit_data _prev_pos="1833 -351 546.809" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="-731 492 438.309" local_rot="0 0 0.707107 0.707107" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_035" position="1833 -351 546.809" rotation="0 0 -0.707107 -0.707107" unit_id="101722"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1980 -376 573.809" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_036" position="1980 -376 572.809" rotation="0 0 -0.707107 -0.707107" unit_id="101723"/>
+			<unit_data _prev_pos="1980 -376 573.809" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_036" position="1980 -376 572.809" rotation="0 0 -0.707107 -0.707107" unit_id="101723"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2208 -198 599.264" _prev_rot="0 0 1 -0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/dev_tools/invisible_interaction_searching_b/invisible_interaction_searching_false" name_id="invisible_interaction_searching_false_037" position="2206 -198 599.264" rotation="0 0 1 -0" unit_id="101815"/>
+			<unit_data _prev_pos="2208 -198 599.264" _prev_rot="0 0 1 -0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" name_id="invisible_interaction_searching_false_037" position="2206 -198 599.264" rotation="0 0 1 -0" unit_id="101815"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1202 3346 -45" _prev_rot="0 0 -0.707107 -0.707107" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_door_side_right_open" name="units/payday2/vehicles/anim_vehicle_van_player/anim_vehicle_van_player" name_id="anim_vehicle_van_player_001" position="-982 3346 -45" rotation="0 0 -0.707107 -0.707107" unit_id="101816">
@@ -5896,7 +5875,7 @@
 			<unit_data _prev_pos="1039 733 698.455" _prev_rot="0 0 0 -1" continent="world" local_pos="-25 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m" name_id="dev_bag_collision_1x1m_009" only_visible_in_editor="true" position="1039 733 698.455" rotation="0 0 0 -1" unit_id="101977"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="833 731 500" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_props_titan_shutters/brb_prop_titan_shutters" name_id="brb_prop_titan_shutters_001" position="833 731 500" rotation="0.5 0.5 0.5 0.5" unit_id="101796"/>
+			<unit_data _prev_pos="833 731 500" _prev_rot="-0.5 -0.5 -0.5 -0.5" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_vault/hogar_prop_titan_shutters_vault" name_id="brb_prop_titan_shutters_001" position="833 731 500" rotation="0.5 0.5 0.5 0.5" unit_id="101796"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-278 684 160" _prev_rot="0 0 0.182236 -0.983255" continent="world" disable_shadows="true" local_pos="18.2619 -8.39011 -6.60591" local_rot="0.0100189 0.0953207 0.104047 0.989943" mesh_variation="interact_enable" name="units/world/props/bank/money_wrap/money_wrap_single_bundle" name_id="money_wrap_single_bundle_018" position="-273 684 160" rotation="0 0 0.182236 -0.983255" unit_id="102002"/>
@@ -5974,7 +5953,7 @@
 			<unit_data _prev_pos="-1640 290 1.00005" _prev_rot="0 0 0 -1" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/diamond_heist/construction_int/construction_paintcan" name_id="construction_paintcan_002" position="-1640 290 1" rotation="-0 0 -0 -1" unit_id="102078"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1750 150 1.00005" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_custom/hogar_brick_debree/hogar_brick_debree" name_id="hogar_brick_debree_003" position="-1707 150 1.00005" rotation="0 0 1 4.37114e-008" unit_id="102090"/>
+			<unit_data _prev_pos="-1750 150 1.00005" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_hogar/props/hogar_prop_brick_debree/hogar_prop_brick_debree" name_id="hogar_brick_debree_003" position="-1707 150 1.00005" rotation="0 0 1 4.37114e-008" unit_id="102090"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1863 -400 1.00005" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/street/plywood_fence/plywood_fence_varia" name_id="plywood_fence_varia_006" position="-1863 -367 1.00005" rotation="0 0 0 -1" unit_id="102091"/>
@@ -6110,7 +6089,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="16354.9 5861.28 31.1606" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan" name_id="hogar_vehicle_car_sedan_001" position="16354.9 5861.28 31.1606" rotation="0 0 1 4.37114e-008" unit_id="100178"/>
+			<unit_data _prev_pos="16354.9 5861.28 31.1606" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan" name_id="hogar_vehicle_car_sedan_001" position="16354.9 5861.28 31.1606" rotation="0 0 1 4.37114e-008" unit_id="100178"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1680 -504 500" _prev_rot="-0.5 0.5 0.5 -0.5" continent="world" local_pos="-100 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_042" only_visible_in_editor="true" position="1680 -504 500" rotation="-0.5 0.5 0.5 -0.5" unit_id="100180"/>
@@ -6367,7 +6346,7 @@
 			<unit_data _prev_pos="1514.01 1604.46 500" _prev_rot="0 0 0.961262 0.275637" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_zipline/gen_interactable_zipline_mount_ground" name_id="gen_interactable_zipline_mount_ground_001" position="1514.01 1604.46 500" rotation="0 0 0.961262 0.275637" unit_id="101116"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="3151 3961 240.852" _prev_rot="0.5 0.5 -0.5 -0.5" _visibility_counter="0" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_interactable_zipline_mount_wall/hogar_interactable_zipline_mount_wall" name_id="hogar_interactable_zipline_mount_wall_001" position="3151 3961 240.852" rotation="0.5 0.5 -0.5 -0.5" unit_id="101117"/>
+			<unit_data _prev_pos="3151 3961 240.852" _prev_rot="0.5 0.5 -0.5 -0.5" _visibility_counter="0" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/props/hogar_prop_int_zipline_mount_wall/hogar_prop_int_zipline_mount_wall" name_id="hogar_interactable_zipline_mount_wall_001" position="3151 3961 240.852" rotation="0.5 0.5 -0.5 -0.5" unit_id="101117"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1670 -251 172" _prev_rot="0 0 -0.656059 -0.75471" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="interact_enable" name="units/world/props/bank/money_wrap/money_wrap_single_bundle" name_id="money_wrap_single_bundle_021" position="1670 -251 172" rotation="0 0 -0.75471 -0.656059" unit_id="101115"/>
@@ -6382,10 +6361,10 @@
 			<unit_data _prev_pos="2968.28 -2948.88 1633.25" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter_10m" name_id="navigation_splitter_10m_007" only_exists_in_editor="true" position="3682.12 -2477.68 -7" rotation="0 0 -0.707107 -0.707107" unit_id="101120"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-531 1315 14" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="1" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big" name_id="hogar_props_titan_shutters_main_entrance_big_001" position="-531 1315 14" rotation="0 0 -0.707107 -0.707107" unit_id="101051"/>
+			<unit_data _prev_pos="-531 1315 14" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="1" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_main_entrance_big/hogar_prop_titan_shutters_main_entrance_big" name_id="hogar_props_titan_shutters_main_entrance_big_001" position="-531 1315 14" rotation="0 0 -0.707107 -0.707107" unit_id="101051"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1141 702 484" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="1" continent="world" disable_on_ai_graph="true" local_pos="-613 -1672 470" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_custom/hogar_props_titan_shutters_main_entrance_big/hogar_props_titan_shutters_main_entrance_big" name_id="hogar_props_titan_shutters_main_entrance_big_002" position="1141 702 484" rotation="0 0 -0.707107 -0.707107" unit_id="101090"/>
+			<unit_data _prev_pos="1141 702 484" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="1" continent="world" disable_on_ai_graph="true" local_pos="-613 -1672 470" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/props/hogar_prop_titan_shutters_main_entrance_big/hogar_prop_titan_shutters_main_entrance_big" name_id="hogar_props_titan_shutters_main_entrance_big_002" position="1141 702 484" rotation="0 0 -0.707107 -0.707107" unit_id="101090"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="2591.2 5122.8 400" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/ind/ind_ext_4x8m_i" name_id="ind_ext_4x8m_i_002" position="2591.2 5122.8 400" rotation="-0 0 -0 -1" unit_id="100552"/>

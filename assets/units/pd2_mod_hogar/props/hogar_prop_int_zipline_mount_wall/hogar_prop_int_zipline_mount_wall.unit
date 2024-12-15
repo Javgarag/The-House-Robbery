@@ -1,0 +1,12 @@
+<unit type="gen" slot="1" >
+	<network sync="spawn"/>
+    <object file="units/pd2_mod_hogar/props/hogar_prop_int_zipline_mount_wall/hogar_prop_int_zipline_mount_wall" />
+    <extensions>
+        <extension class="ScriptUnitData" name="unit_data" />
+		<extension name="damage" class="UnitDamage" />
+		<extension name="interaction" class="UseInteractionExt">
+			<var name="tweak_data" value="zipline_mount" />
+			<var name="_interact_object" value="interact"/>
+		</extension>
+    </extensions>
+</unit>

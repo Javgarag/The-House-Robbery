@@ -1,0 +1,6 @@
+<unit type="bor" slot="1">
+	<object file="units/pd2_mod_hogar/architecture/hogar_ext_clubhouse/hogar_ext_clubhouse" />
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData" />
+	</extensions>
+</unit>

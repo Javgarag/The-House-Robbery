@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<unit type="dev" slot="1">
+	<object file="units/pd2_mod_hogar/equipment/hogar_search_interaction/hogar_search_interaction" />
+	 <network sync="spawn"/>
+	<extensions>
+		<extension name="unit_data" class="ScriptUnitData"/>
+		<extension name="damage" class="UnitDamage" />
+
+		<extension name="interaction" class="UseInteractionExt">
+			<var name="tweak_data" value="hs_code_documents" />
+			<var name="_remove_on_interact" value="true" />
+		</extension>
+
+	</extensions>
+</unit>

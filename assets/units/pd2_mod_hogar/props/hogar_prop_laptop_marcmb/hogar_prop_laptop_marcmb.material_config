@@ -1,0 +1,8 @@
+<materials version="3">
+    <material name="display" decal_material="glass_breakable" version="2" render_template="generic:DIFFUSE_TEXTURE:NORMALMAP:SELF_ILLUMINATION">
+        <diffuse_texture file="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb_df"/>
+        <self_illumination_texture file="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb_il"/>
+        <variable value="monitor" type="scalar" name="il_multiplier"/>
+        <bump_normal_texture file="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb_nm"/>
+    </material>
+</materials>
