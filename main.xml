@@ -93,7 +93,6 @@
 		<hook file="guitweakdata.lua" source_file="lib/tweak_data/guitweakdata"/>
 		<hook file="musicmanager.lua" source_file="lib/managers/musicmanager"/>
 		<hook file="tweakdata.lua" source_file="lib/tweak_data/tweakdata"/>
-		<hook file="missionmanager.lua" source_file="lib/managers/missionmanager"/>
 		<hook file="elementspawngrenade.lua" source_file="lib/managers/mission/elementspawngrenade"/>
 	</Hooks>
 	<Interactions>
