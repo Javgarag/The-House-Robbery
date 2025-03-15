@@ -85,7 +85,7 @@
 		
 		<texture force="true" path="units/pd2_mod_hogar/pickups/hogar_pickup_code_note/hogar_pickup_code_note_df"/>
 	</AddFiles>
-	<AssetUpdates id="45238" provider="modworkshop" version="v1.3.0" use_local_dir="true"/>
+	<AssetUpdates id="45238" provider="modworkshop" version="v1.4.0" use_local_dir="true"/>
 	<Elements directory="elements">
 		<element name="FourDigitCodeRandomizer"/>
 	</Elements>
