@@ -5016,22 +5016,4 @@
 		<object path="units/world/props/office/airconditioner/airconditioner_01"/>
 		<unit path="units/world/props/office/airconditioner/airconditioner_01"/>
 	</add>
-	<add from_db="true" path="units/payday2/characters/ene_security_1/ene_security_1" type="unit">
-		<unit path="units/payday2/characters/ene_security_1/ene_security_1"/>
-		<object path="units/payday2/characters/ene_security_1/ene_security_1"/>
-		<animation path="anims/shared/rifle/generic/death_money_var1"/>
-		<animation path="anims/shared/rifle/generic/death_money_var3"/>
-		<animation path="anims/shared/rifle/generic/death_money_var5"/>
-		<animation path="anims/shared/rifle/generic/death_money_var8"/>
-		<animation path="anims/shared/rifle/generic/death_money_var2"/>
-		<animation path="anims/shared/rifle/generic/death_money_var4"/>
-		<animation path="anims/shared/rifle/generic/death_money_var6"/>
-		<animation path="anims/shared/rifle/generic/death_money_var7"/>
-		<animation path="anims/shared/rifle/generic/death_money_var9"/>
-		<animation path="anims/shared/rifle/generic/death_money_var10"/>
-		<animation path="anims/shared/boss/tank/cbt_std_shoot_aut"/>
-		<animation path="anims/shared/boss/tank/cbt_std_shoot"/>
-		<animation path="anims/shared/unarmed/neutral/cm_so_sand_fall"/>
-		<unit load="true" path="units/payday2/characters/ene_security_1/ene_security_1_husk"/>
-	</add>
 </table>

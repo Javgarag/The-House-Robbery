@@ -3414,7 +3414,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_leanwall"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -3465,7 +3465,7 @@
 					<entry key="so_action" type="string" value="none"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -3516,7 +3516,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_stretch_shoulders"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -3699,7 +3699,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_stand_inspect_var1"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -3750,7 +3750,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_watch_look_calm"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -3801,7 +3801,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_stretch_shoulders"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -3852,7 +3852,7 @@
 					<entry key="so_action" type="string" value="e_so_guard_arms_crossed"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -3903,7 +3903,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_stand_inspect_var3"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -3954,7 +3954,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_leanwall"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -4114,7 +4114,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_stand_inspect_var3"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -4165,7 +4165,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_smoke_stand"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -4216,7 +4216,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_leanwall"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -4267,7 +4267,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_talk_phone"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -4465,7 +4465,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_smoke_stand"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -4516,7 +4516,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_smoke_stand"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -40477,7 +40477,7 @@
 					<entry key="so_action" type="string" value="e_so_guard_arms_crossed"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -40528,7 +40528,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_idle_stand"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -40656,7 +40656,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_smoke_stand"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -53494,7 +53494,7 @@
 					<entry key="so_action" type="string" value="none"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -53648,7 +53648,7 @@
 					<entry key="so_action" type="string" value="e_so_stair_idle2"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -53699,7 +53699,7 @@
 					<entry key="so_action" type="string" value="e_so_idle_hand_on_belt"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -53750,7 +53750,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_stand_inspect_var3"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -53801,7 +53801,7 @@
 					<entry key="so_action" type="string" value="e_so_ntl_watch_look_calm"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -57348,7 +57348,7 @@
 					<entry key="so_action" type="string" value="e_so_not_dizzy_look"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -57398,7 +57398,7 @@
 					<entry key="so_action" type="string" value="e_so_not_dizzy_look_v2"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -57448,7 +57448,7 @@
 					<entry key="so_action" type="string" value="e_so_not_dizzy_look"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
@@ -57520,7 +57520,7 @@
 					<entry key="so_action" type="string" value="e_so_investigate_object_unarmed"/>
 					<entry key="spawn_instigator_ids" type="table">
 					</entry>
-					<entry key="test_unit" type="string" value="units/payday2/characters/ene_security_1/ene_security_1"/>
+					<entry key="test_unit" type="string" value="units/payday2/characters/ene_biker_1/ene_biker_1"/>
 					<entry key="trigger_on" type="string" value="none"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_instigator" type="boolean" value="true"/>
