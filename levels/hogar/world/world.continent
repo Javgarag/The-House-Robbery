@@ -2816,9 +2816,6 @@
 			<unit_data _prev_pos="825 625 500" _prev_rot="0 -0 1 4.37114e-008" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="hide" name="units/payday2/props/gen_prop_square_drop_marker_4x15/gen_prop_square_drop_marker_4x15" name_id="gen_prop_square_drop_marker_4x15_001" position="825 625 500" rotation="0 0 1 -4.37114e-008" unit_id="101194"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="834 742 560.176" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="deactivate" name="units/payday2/equipment/gen_interactable_drill_large_thermic/gen_interactable_drill_large_thermic" name_id="thermal_drill" position="834 742 560.176" rotation="0 0 0 -1" unit_id="101195"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="2177 -442 719.022" _prev_rot="0 0 1 -0" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_equipment_security_camera/gen_equipment_security_camera" name_id="gen_equipment_security_camera_014" position="2177 -442 719.022" rotation="0 0 1 4.37114e-008" unit_id="101197"/>
 		</table>
 		<table>
@@ -4051,7 +4048,7 @@
 			<unit_data _prev_pos="9300 2550 -4.76837e-005" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="1115 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_double" name_id="str_prop_street_lamppost_double_007" position="9925 2550 -4.76837e-005" rotation="0 0 0.707107 -0.707107" unit_id="101427"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="9300 3665 -4.76837e-005" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_double" name_id="str_prop_street_lamppost_double_008" position="9925 3665 -4.76837e-005" rotation="0 0 0.707107 -0.707107" unit_id="101428"/>
+			<unit_data _prev_pos="9925 3665 -4.76837e-005" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_double" name_id="str_prop_street_lamppost_double_008" position="9925 3665 -0" rotation="0 0 0.707107 -0.707107" unit_id="101428"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="4200 3652 -4.76837e-005" _prev_rot="0 0 0.707107 -0.707107" continent="world" instance_data="false" local_pos="0 -2000 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_lamppost/str_prop_street_lamppost_double" name_id="str_prop_street_lamppost_double_009" position="4200 3665 -4.76837e-005" rotation="0 0 0.707107 -0.707107" unit_id="101478"/>
@@ -6089,9 +6086,6 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="16354.9 5861.28 31.1606" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan" name_id="hogar_vehicle_car_sedan_001" position="16354.9 5861.28 31.1606" rotation="0 0 1 4.37114e-008" unit_id="100178"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="1680 -504 500" _prev_rot="-0.5 0.5 0.5 -0.5" continent="world" local_pos="-100 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_042" only_visible_in_editor="true" position="1680 -504 500" rotation="-0.5 0.5 0.5 -0.5" unit_id="100180"/>
 		</table>
 		<table>
@@ -6167,10 +6161,10 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-482 3366 54.6282" _prev_rot="-0.0295969 -0.483906 -0.0533942 -0.872988" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m" name_id="dev_bag_collision_1x1m_016" only_visible_in_editor="true" position="-482 3366 54.6282" rotation="-0.0295969 -0.483906 -0.0533942 -0.872988" unit_id="101520"/>
+			<unit_data _prev_pos="-548 3366 54.6282" _prev_rot="-0.0295969 -0.483906 -0.0533942 -0.872988" continent="world" local_pos="6.58118 -36.8908 -3.70943" local_rot="1.30385e-008 6.84915e-007 0.0697565 0.997564" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m" name_id="dev_bag_collision_1x1m_016" only_visible_in_editor="true" position="-551 3366 54.6282" rotation="-0.0295969 -0.483906 -0.0533942 -0.872988" unit_id="101520"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-482 3403 61.6282" _prev_rot="0.00423073 -0.484791 0.00763243 -0.874586" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m" name_id="dev_bag_collision_1x1m_017" only_visible_in_editor="true" position="-482 3403 61.6282" rotation="0.00423073 -0.484791 0.00763243 -0.874586" unit_id="101568"/>
+			<unit_data _prev_pos="-548 3403 61.6282" _prev_rot="0.00423074 -0.484791 0.00763243 -0.874586" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m" name_id="dev_bag_collision_1x1m_017" only_visible_in_editor="true" position="-551 3403 61.6282" rotation="0.00423074 -0.484791 0.00763243 -0.874586" unit_id="101568"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-325 1358 391.045" _prev_rot="0 0 1 -0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_4x3m" name_id="dev_bag_collision_4x3m_053" only_visible_in_editor="true" position="-325 1358 691.045" rotation="0 0 1 -0" unit_id="101571"/>
@@ -6442,6 +6436,21 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="1415 1031 333.502" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="15 0 15.0352" local_rot="0 0 0 1" name="units/world/props/office/airconditioner/airconditioner_01" name_id="airconditioner_01_002" position="1416 1031 333.502" rotation="0 0 0.707107 -0.707107" unit_id="101797"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1000 600 500" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_enabled" name="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button" name_id="gen_prop_security_button_001" position="1200 600 500" rotation="-0 0 -0 -1" unit_id="101101"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="1050 600 500" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_enabled" name="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button" name_id="gen_prop_security_button_002" position="1050 600 500" rotation="-0 0 -0 -1" unit_id="101569"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="829 651 500" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_001" only_visible_in_editor="true" position="829 643 500" rotation="0 0 0 -1" unit_id="101726"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="834 742 560.176" _prev_rot="-0 0 -0 -1" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large" name_id="thermal_drill" position="834 742 560.176" rotation="-0 0 -0 -1" unit_id="101727"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="16354.9 5861.28 15.1606" _prev_rot="0 0 1 4.37114e-008" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan" name_id="hogar_vehicle_car_sedan_001" position="16354.9 5861.28 15.9606" rotation="0 0 1 4.37114e-008" unit_id="100178"/>
 		</table>
 	</statics>
 	<values>

@@ -72,20 +72,16 @@
 		<texture force="true" path="textures/achievements/hogar_unorganized"/>
 		<texture force="true" path="textures/achievements/hogar_bad_music"/>
 		<texture force="true" path="textures/achievements/hogar_tag_team"/>
-		
 		<texture force="true" path="textures/waypoints/wrong_code"/>
 		<texture force="true" path="textures/assets/asset_ladder"/>
 		<texture force="true" path="textures/assets/asset_zipline"/>
-		
 		<texture force="true" path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb_df"/>
 		<texture force="true" path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb_il"/>
 		<texture force="true" path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb_nm"/>
-		
 		<texture force="true" path="units/pd2_mod_hogar/props/hogar_prop_int_turkey_head/hogar_prop_int_turkey_head_df"/>
-		
 		<texture force="true" path="units/pd2_mod_hogar/pickups/hogar_pickup_code_note/hogar_pickup_code_note_df"/>
 	</AddFiles>
-	<AssetUpdates id="45238" provider="modworkshop" version="v1.4.0" use_local_dir="true"/>
+	<AssetUpdates id="45238" provider="modworkshop" use_local_dir="true" version="v1.4.0"/>
 	<Elements directory="elements">
 		<element name="FourDigitCodeRandomizer"/>
 	</Elements>
@@ -112,7 +108,7 @@
 	</Localization>
 	<Package file="scriptdata/hogar_world.package" id="hogar_world" unload_on_restart="true"/>
 	<contact assets_gui="guis/mission_briefing/preload_contact_bain" desc_id="contact_cartel_desc" id="cartel" name_id="contact_cartel_name" package="packages/contact_bain"/>
-	<level ai_group_type="america" outro_event="hogar_debrief" briefing_dialog="hogar_brief" id="hogar" intro_event="hogar_intro" max_bags="54" player_invulnerable="false" player_style="generic">
+	<level ai_group_type="america" briefing_dialog="hogar_brief" id="hogar" intro_event="hogar_intro" max_bags="54" player_invulnerable="false" player_style="generic">
 		<AddFiles directory="assets">
 			<movie path="movies/hogar_video_tv"/>
 		</AddFiles>
@@ -145,7 +141,6 @@
 		</outro_event>
 		<packages>
 			<value_node value="levels/narratives/e_welcome_to_the_jungle/stage_2/world_sounds"/>
-			<value_node value="levels/instances/unique/hlm_vault/world/world"/>
 			<value_node value="levels/instances/unique/born/born_escape/world"/>
 			<value_node value="levels/instances/unique/hox_estate_window/world"/>
 			<value_node value="levels/narratives/bain/rat/world_sounds"/>

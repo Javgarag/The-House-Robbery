@@ -2406,9 +2406,6 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="16354.9 5861.28 31.1606" _prev_rot="0 0 1 4.37114e-008" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="anim_hogar_arrive_01" name="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan" name_id="hogar_vehicle_car_sedan_002" position="16354.9 5861.28 31.1606" rotation="0 0 1 -4.37114e-008" unit_id="200697"/>
-		</table>
-		<table>
 			<unit_data continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_2x3m" name_id="dev_nav_splitter_2x3m_025" only_exists_in_editor="true" position="-282 809 46" rotation="0 0 0 -1" unit_id="200698"/>
 		</table>
 		<table>
@@ -2557,6 +2554,9 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-275 -350 50" _prev_rot="0 0 -0.707107 -0.707107" continent="editor_only" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_1x1x3m" name_id="dev_nav_blocker_1x1x3m_106" only_exists_in_editor="true" position="-275 -449 50" rotation="0 0 -0.707107 -0.707107" unit_id="200735"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="16354.9 5861.28 31.1606" _prev_rot="0 0 1 4.37114e-008" _visibility_counter="0" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="anim_hogar_arrive_01" name="units/pd2_mod_hogar/vehicles/hogar_vehicle_car_sedan/hogar_vehicle_car_sedan" name_id="hogar_vehicle_car_sedan_002" position="16354.9 5861.28 15.9606" rotation="0 0 1 4.37114e-008" unit_id="200697"/>
 		</table>
 	</statics>
 	<values>
