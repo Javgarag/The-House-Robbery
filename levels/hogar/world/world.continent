@@ -6438,12 +6438,6 @@
 			<unit_data _prev_pos="1415 1031 333.502" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="15 0 15.0352" local_rot="0 0 0 1" name="units/world/props/office/airconditioner/airconditioner_01" name_id="airconditioner_01_002" position="1416 1031 333.502" rotation="0 0 0.707107 -0.707107" unit_id="101797"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1000 600 500" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_enabled" name="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button" name_id="gen_prop_security_button_001" position="1200 600 500" rotation="-0 0 -0 -1" unit_id="101101"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="1050 600 500" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_enabled" name="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button" name_id="gen_prop_security_button_002" position="1050 600 500" rotation="-0 0 -0 -1" unit_id="101569"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="829 651 500" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_001" only_visible_in_editor="true" position="829 643 500" rotation="0 0 0 -1" unit_id="101726"/>
 		</table>
 		<table>

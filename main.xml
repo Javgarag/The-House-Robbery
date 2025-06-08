@@ -108,7 +108,7 @@
 	</Localization>
 	<Package file="scriptdata/hogar_world.package" id="hogar_world" unload_on_restart="true"/>
 	<contact assets_gui="guis/mission_briefing/preload_contact_bain" desc_id="contact_cartel_desc" id="cartel" name_id="contact_cartel_name" package="packages/contact_bain"/>
-	<level ai_group_type="america" briefing_dialog="hogar_brief" id="hogar" intro_event="hogar_intro" max_bags="54" player_invulnerable="false" player_style="generic">
+	<level ai_group_type="america" briefing_dialog="hogar_brief" id="hogar" intro_event="hogar_intro" outro_event="hogar_debrief"  max_bags="54" player_invulnerable="false" player_style="generic">
 		<AddFiles directory="assets">
 			<movie path="movies/hogar_video_tv"/>
 		</AddFiles>

@@ -3239,18 +3239,6 @@
 		<object path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_2x3m"/>
 		<unit path="units/dev_tools/level_tools/dev_nav_blocker/dev_nav_blocker_2x3m"/>
 	</add>
-	<add from_db="true" path="units/payday2/equipment/gen_interactable_drill_large_thermic/gen_interactable_drill_large_thermic" type="unit">
-		<effect load="true" path="effects/payday2/environment/drill"/>
-		<effect load="true" path="effects/payday2/environment/parts/drill_sparks_particles"/>
-		<effect load="true" path="effects/payday2/environment/parts/drill_sparks"/>
-		<effect load="true" path="effects/payday2/environment/thermal_lance"/>
-		<effect load="true" path="effects/payday2/environment/parts/thermal_fire"/>
-		<effect load="true" path="effects/payday2/environment/parts/thermal_spark"/>
-		<gui path="guis/timer_gui"/>
-		<material_config path="units/payday2/equipment/gen_interactable_drill_large_thermic/gen_interactable_drill_large_thermic"/>
-		<object path="units/payday2/equipment/gen_interactable_drill_large_thermic/gen_interactable_drill_large_thermic"/>
-		<unit path="units/payday2/equipment/gen_interactable_drill_large_thermic/gen_interactable_drill_large_thermic"/>
-	</add>
 	<add from_db="true" path="effects/payday2/environment/environment_smoke_blue" type="effect">
 		<effect load="true" path="effects/payday2/environment/environment_smoke_blue"/>
 	</add>
@@ -4932,25 +4920,19 @@
 		<object path="units/world/props/office/airconditioner/airconditioner_01"/>
 		<unit path="units/world/props/office/airconditioner/airconditioner_01"/>
 	</add>
-	<add from_db="true" path="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button" type="unit">
-		<material_config path="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button"/>
-		<object path="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button"/>
-		<sequence_manager path="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button"/>
-		<unit path="units/pd2_dlc2/props/gen_prop_security_console/gen_prop_security_button"/>
-	</add>
 	<add from_db="true" path="units/dev_tools/level_tools/door_blocker/door_blocker" type="unit">
 		<material_config path="core/material_configs/hub_elements"/>
 		<object path="units/dev_tools/level_tools/door_blocker/door_blocker"/>
 		<unit path="units/dev_tools/level_tools/door_blocker/door_blocker"/>
 	</add>
 	<add from_db="true" path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large" type="unit">
-		<unit path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
-		<object path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
-		<material_config path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
-		<sequence_manager path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
-		<gui path="guis/timer_gui"/>
 		<effect load="true" path="effects/payday2/environment/thermal_lance"/>
 		<effect load="true" path="effects/payday2/environment/parts/thermal_fire"/>
 		<effect load="true" path="effects/payday2/environment/parts/thermal_spark"/>
+		<gui path="guis/timer_gui"/>
+		<material_config path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
+		<object path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
+		<unit path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
 	</add>
 </table>
