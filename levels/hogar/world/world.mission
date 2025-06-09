@@ -13366,7 +13366,7 @@
 				<entry key="values" type="table">
 					<entry key="amount" type="string" value="1"/>
 					<entry key="base_delay" type="number" value="0.5"/>
-					<entry key="depth" type="number" value="150"/>
+					<entry key="depth" type="number" value="180"/>
 					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="height" type="number" value="100"/>
@@ -13386,7 +13386,7 @@
 							<entry key="id" type="number" value="100608"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="822 625 547.592"/>
+					<entry key="position" type="vector3" value="822 638 547.592"/>
 					<entry key="radius" type="number" value="250"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="rules_element_ids" type="table">

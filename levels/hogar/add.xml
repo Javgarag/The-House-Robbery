@@ -4929,6 +4929,9 @@
 		<effect load="true" path="effects/payday2/environment/thermal_lance"/>
 		<effect load="true" path="effects/payday2/environment/parts/thermal_fire"/>
 		<effect load="true" path="effects/payday2/environment/parts/thermal_spark"/>
+		<effect load="true" path="effects/payday2/environment/drill"/>
+		<effect load="true" path="effects/payday2/environment/parts/drill_sparks_particles"/>
+		<effect load="true" path="effects/payday2/environment/parts/drill_sparks"/>
 		<gui path="guis/timer_gui"/>
 		<material_config path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
 		<object path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
