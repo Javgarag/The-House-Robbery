@@ -321,15 +321,14 @@
 				</entry>
 			</entry>
 			<entry key="unit_data" type="table">
-				<entry key="_prev_pos" type="vector3" value="783.194 1214.66 500"/>
+				<entry key="_prev_pos" type="vector3" value="778.194 1214.66 502"/>
 				<entry key="_prev_rot" type="quaternion" value="0 0 0 -1"/>
 				<entry key="continent" type="string" value="world"/>
-				<entry key="instance_data" type="boolean" value="false"/>
 				<entry key="local_pos" type="vector3" value="0 0 0"/>
 				<entry key="local_rot" type="quaternion" value="0 0 0 1"/>
 				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
 				<entry key="name_id" type="string" value="nav_surface_015"/>
-				<entry key="position" type="vector3" value="783.194 1214.66 500"/>
+				<entry key="position" type="vector3" value="778.194 1214.66 502"/>
 				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 				<entry key="unit_id" type="number" value="15"/>
 			</entry>
@@ -1767,6 +1766,182 @@
 					<entry index="3" type="number" value="1"/>
 					<entry index="4" type="number" value="1"/>
 				</entry>
+				<entry key="depth" type="number" value="1100"/>
+				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
+				<entry key="filter_list" type="table">
+					<entry index="1" type="string" value="ff4859e8e295618d"/>
+					<entry index="2" type="string" value="644be78b2651c798"/>
+					<entry index="3" type="string" value="c25af559c7e1d69c"/>
+					<entry index="4" type="string" value="ac403b8f792138ad"/>
+					<entry index="5" type="string" value="457904ce74fa1005"/>
+					<entry index="6" type="string" value="20458ffc6d388c0f"/>
+					<entry index="7" type="string" value="6fcd51beb559e85c"/>
+					<entry index="8" type="string" value="d3c16b0bb77370d4"/>
+					<entry index="9" type="string" value="fb725a62e7857072"/>
+					<entry index="10" type="string" value="312d3f85560b8f82"/>
+					<entry index="11" type="string" value="27a7f31e750d8169"/>
+					<entry index="12" type="string" value="c6b3fa02d5ee12b1"/>
+					<entry index="13" type="string" value="48b53ca3bf280008"/>
+					<entry index="14" type="string" value="6174ec93d0eeeacd"/>
+					<entry index="15" type="string" value="e36a12365a151b14"/>
+					<entry index="16" type="string" value="b5663c81d7db7310"/>
+					<entry index="17" type="string" value="36ab89d313fd9a9b"/>
+					<entry index="18" type="string" value="76078014daa529c8"/>
+					<entry index="19" type="string" value="13d7817215360151"/>
+					<entry index="20" type="string" value="35325076eb5a2684"/>
+					<entry index="21" type="string" value="002c8c522e139b16"/>
+					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
+					<entry index="23" type="string" value="c45e91f4a9d72822"/>
+				</entry>
+				<entry key="height" type="number" value="620"/>
+				<entry key="name" type="string" value="indoor"/>
+				<entry key="permanent" type="boolean" value="false"/>
+				<entry key="position" type="vector3" value="1210 729 -130.001"/>
+				<entry key="prio" type="number" value="100"/>
+				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+				<entry key="transition_time" type="number" value="2"/>
+				<entry key="type" type="string" value="box"/>
+				<entry key="width" type="number" value="450"/>
+			</entry>
+			<entry index="3" type="table">
+				<entry key="bezier_curve" type="table">
+					<entry index="1" type="number" value="0"/>
+					<entry index="2" type="number" value="0"/>
+					<entry index="3" type="number" value="1"/>
+					<entry index="4" type="number" value="1"/>
+				</entry>
+				<entry key="depth" type="number" value="273"/>
+				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
+				<entry key="filter_list" type="table">
+					<entry index="1" type="string" value="ff4859e8e295618d"/>
+					<entry index="2" type="string" value="644be78b2651c798"/>
+					<entry index="3" type="string" value="c25af559c7e1d69c"/>
+					<entry index="4" type="string" value="ac403b8f792138ad"/>
+					<entry index="5" type="string" value="457904ce74fa1005"/>
+					<entry index="6" type="string" value="20458ffc6d388c0f"/>
+					<entry index="7" type="string" value="6fcd51beb559e85c"/>
+					<entry index="8" type="string" value="d3c16b0bb77370d4"/>
+					<entry index="9" type="string" value="fb725a62e7857072"/>
+					<entry index="10" type="string" value="312d3f85560b8f82"/>
+					<entry index="11" type="string" value="27a7f31e750d8169"/>
+					<entry index="12" type="string" value="c6b3fa02d5ee12b1"/>
+					<entry index="13" type="string" value="48b53ca3bf280008"/>
+					<entry index="14" type="string" value="6174ec93d0eeeacd"/>
+					<entry index="15" type="string" value="e36a12365a151b14"/>
+					<entry index="16" type="string" value="b5663c81d7db7310"/>
+					<entry index="17" type="string" value="36ab89d313fd9a9b"/>
+					<entry index="18" type="string" value="76078014daa529c8"/>
+					<entry index="19" type="string" value="13d7817215360151"/>
+					<entry index="20" type="string" value="35325076eb5a2684"/>
+					<entry index="21" type="string" value="002c8c522e139b16"/>
+					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
+					<entry index="23" type="string" value="c45e91f4a9d72822"/>
+				</entry>
+				<entry key="height" type="number" value="920"/>
+				<entry key="name" type="string" value="indoor"/>
+				<entry key="permanent" type="boolean" value="false"/>
+				<entry key="position" type="vector3" value="1225 -441 -130.001"/>
+				<entry key="prio" type="number" value="100"/>
+				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+				<entry key="transition_time" type="number" value="2"/>
+				<entry key="type" type="string" value="box"/>
+				<entry key="width" type="number" value="1022"/>
+			</entry>
+			<entry index="4" type="table">
+				<entry key="bezier_curve" type="table">
+					<entry index="1" type="number" value="0"/>
+					<entry index="2" type="number" value="0"/>
+					<entry index="3" type="number" value="1"/>
+					<entry index="4" type="number" value="1"/>
+				</entry>
+				<entry key="depth" type="number" value="730"/>
+				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
+				<entry key="filter_list" type="table">
+					<entry index="1" type="string" value="ff4859e8e295618d"/>
+					<entry index="2" type="string" value="644be78b2651c798"/>
+					<entry index="3" type="string" value="c25af559c7e1d69c"/>
+					<entry index="4" type="string" value="ac403b8f792138ad"/>
+					<entry index="5" type="string" value="457904ce74fa1005"/>
+					<entry index="6" type="string" value="20458ffc6d388c0f"/>
+					<entry index="7" type="string" value="6fcd51beb559e85c"/>
+					<entry index="8" type="string" value="d3c16b0bb77370d4"/>
+					<entry index="9" type="string" value="fb725a62e7857072"/>
+					<entry index="10" type="string" value="312d3f85560b8f82"/>
+					<entry index="11" type="string" value="27a7f31e750d8169"/>
+					<entry index="12" type="string" value="c6b3fa02d5ee12b1"/>
+					<entry index="13" type="string" value="48b53ca3bf280008"/>
+					<entry index="14" type="string" value="6174ec93d0eeeacd"/>
+					<entry index="15" type="string" value="e36a12365a151b14"/>
+					<entry index="16" type="string" value="b5663c81d7db7310"/>
+					<entry index="17" type="string" value="36ab89d313fd9a9b"/>
+					<entry index="18" type="string" value="76078014daa529c8"/>
+					<entry index="19" type="string" value="13d7817215360151"/>
+					<entry index="20" type="string" value="35325076eb5a2684"/>
+					<entry index="21" type="string" value="002c8c522e139b16"/>
+					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
+					<entry index="23" type="string" value="c45e91f4a9d72822"/>
+				</entry>
+				<entry key="height" type="number" value="620"/>
+				<entry key="name" type="string" value="indoor"/>
+				<entry key="permanent" type="boolean" value="false"/>
+				<entry key="position" type="vector3" value="1265 1099 -130.001"/>
+				<entry key="prio" type="number" value="100"/>
+				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+				<entry key="transition_time" type="number" value="2"/>
+				<entry key="type" type="string" value="box"/>
+				<entry key="width" type="number" value="450"/>
+			</entry>
+			<entry index="5" type="table">
+				<entry key="bezier_curve" type="table">
+					<entry index="1" type="number" value="0"/>
+					<entry index="2" type="number" value="0"/>
+					<entry index="3" type="number" value="1"/>
+					<entry index="4" type="number" value="1"/>
+				</entry>
+				<entry key="depth" type="number" value="1500"/>
+				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
+				<entry key="filter_list" type="table">
+					<entry index="1" type="string" value="ff4859e8e295618d"/>
+					<entry index="2" type="string" value="644be78b2651c798"/>
+					<entry index="3" type="string" value="c25af559c7e1d69c"/>
+					<entry index="4" type="string" value="ac403b8f792138ad"/>
+					<entry index="5" type="string" value="457904ce74fa1005"/>
+					<entry index="6" type="string" value="20458ffc6d388c0f"/>
+					<entry index="7" type="string" value="6fcd51beb559e85c"/>
+					<entry index="8" type="string" value="d3c16b0bb77370d4"/>
+					<entry index="9" type="string" value="fb725a62e7857072"/>
+					<entry index="10" type="string" value="312d3f85560b8f82"/>
+					<entry index="11" type="string" value="27a7f31e750d8169"/>
+					<entry index="12" type="string" value="c6b3fa02d5ee12b1"/>
+					<entry index="13" type="string" value="48b53ca3bf280008"/>
+					<entry index="14" type="string" value="6174ec93d0eeeacd"/>
+					<entry index="15" type="string" value="e36a12365a151b14"/>
+					<entry index="16" type="string" value="b5663c81d7db7310"/>
+					<entry index="17" type="string" value="36ab89d313fd9a9b"/>
+					<entry index="18" type="string" value="76078014daa529c8"/>
+					<entry index="19" type="string" value="13d7817215360151"/>
+					<entry index="20" type="string" value="35325076eb5a2684"/>
+					<entry index="21" type="string" value="002c8c522e139b16"/>
+					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
+					<entry index="23" type="string" value="c45e91f4a9d72822"/>
+				</entry>
+				<entry key="height" type="number" value="1000"/>
+				<entry key="name" type="string" value="indoor"/>
+				<entry key="permanent" type="boolean" value="false"/>
+				<entry key="position" type="vector3" value="-899 -484 -130.001"/>
+				<entry key="prio" type="number" value="100"/>
+				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+				<entry key="transition_time" type="number" value="2"/>
+				<entry key="type" type="string" value="box"/>
+				<entry key="width" type="number" value="1370"/>
+			</entry>
+			<entry index="6" type="table">
+				<entry key="bezier_curve" type="table">
+					<entry index="1" type="number" value="0"/>
+					<entry index="2" type="number" value="0"/>
+					<entry index="3" type="number" value="1"/>
+					<entry index="4" type="number" value="1"/>
+				</entry>
 				<entry key="depth" type="number" value="800"/>
 				<entry key="environment" type="string" value="environments/pd2_env_born_indoor_bar/pd2_env_born_indoor_bar"/>
 				<entry key="filter_list" type="table">
@@ -1816,182 +1991,6 @@
 				<entry key="transition_time" type="number" value="1"/>
 				<entry key="type" type="string" value="box"/>
 				<entry key="width" type="number" value="400"/>
-			</entry>
-			<entry index="3" type="table">
-				<entry key="bezier_curve" type="table">
-					<entry index="1" type="number" value="0"/>
-					<entry index="2" type="number" value="0"/>
-					<entry index="3" type="number" value="1"/>
-					<entry index="4" type="number" value="1"/>
-				</entry>
-				<entry key="depth" type="number" value="730"/>
-				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
-				<entry key="filter_list" type="table">
-					<entry index="1" type="string" value="ff4859e8e295618d"/>
-					<entry index="2" type="string" value="644be78b2651c798"/>
-					<entry index="3" type="string" value="c25af559c7e1d69c"/>
-					<entry index="4" type="string" value="ac403b8f792138ad"/>
-					<entry index="5" type="string" value="457904ce74fa1005"/>
-					<entry index="6" type="string" value="20458ffc6d388c0f"/>
-					<entry index="7" type="string" value="6fcd51beb559e85c"/>
-					<entry index="8" type="string" value="d3c16b0bb77370d4"/>
-					<entry index="9" type="string" value="fb725a62e7857072"/>
-					<entry index="10" type="string" value="312d3f85560b8f82"/>
-					<entry index="11" type="string" value="27a7f31e750d8169"/>
-					<entry index="12" type="string" value="c6b3fa02d5ee12b1"/>
-					<entry index="13" type="string" value="48b53ca3bf280008"/>
-					<entry index="14" type="string" value="6174ec93d0eeeacd"/>
-					<entry index="15" type="string" value="e36a12365a151b14"/>
-					<entry index="16" type="string" value="b5663c81d7db7310"/>
-					<entry index="17" type="string" value="36ab89d313fd9a9b"/>
-					<entry index="18" type="string" value="76078014daa529c8"/>
-					<entry index="19" type="string" value="13d7817215360151"/>
-					<entry index="20" type="string" value="35325076eb5a2684"/>
-					<entry index="21" type="string" value="002c8c522e139b16"/>
-					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
-					<entry index="23" type="string" value="c45e91f4a9d72822"/>
-				</entry>
-				<entry key="height" type="number" value="620"/>
-				<entry key="name" type="string" value="indoor"/>
-				<entry key="permanent" type="boolean" value="false"/>
-				<entry key="position" type="vector3" value="1265 1099 -130.001"/>
-				<entry key="prio" type="number" value="100"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="transition_time" type="number" value="2"/>
-				<entry key="type" type="string" value="box"/>
-				<entry key="width" type="number" value="450"/>
-			</entry>
-			<entry index="4" type="table">
-				<entry key="bezier_curve" type="table">
-					<entry index="1" type="number" value="0"/>
-					<entry index="2" type="number" value="0"/>
-					<entry index="3" type="number" value="1"/>
-					<entry index="4" type="number" value="1"/>
-				</entry>
-				<entry key="depth" type="number" value="1500"/>
-				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
-				<entry key="filter_list" type="table">
-					<entry index="1" type="string" value="ff4859e8e295618d"/>
-					<entry index="2" type="string" value="644be78b2651c798"/>
-					<entry index="3" type="string" value="c25af559c7e1d69c"/>
-					<entry index="4" type="string" value="ac403b8f792138ad"/>
-					<entry index="5" type="string" value="457904ce74fa1005"/>
-					<entry index="6" type="string" value="20458ffc6d388c0f"/>
-					<entry index="7" type="string" value="6fcd51beb559e85c"/>
-					<entry index="8" type="string" value="d3c16b0bb77370d4"/>
-					<entry index="9" type="string" value="fb725a62e7857072"/>
-					<entry index="10" type="string" value="312d3f85560b8f82"/>
-					<entry index="11" type="string" value="27a7f31e750d8169"/>
-					<entry index="12" type="string" value="c6b3fa02d5ee12b1"/>
-					<entry index="13" type="string" value="48b53ca3bf280008"/>
-					<entry index="14" type="string" value="6174ec93d0eeeacd"/>
-					<entry index="15" type="string" value="e36a12365a151b14"/>
-					<entry index="16" type="string" value="b5663c81d7db7310"/>
-					<entry index="17" type="string" value="36ab89d313fd9a9b"/>
-					<entry index="18" type="string" value="76078014daa529c8"/>
-					<entry index="19" type="string" value="13d7817215360151"/>
-					<entry index="20" type="string" value="35325076eb5a2684"/>
-					<entry index="21" type="string" value="002c8c522e139b16"/>
-					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
-					<entry index="23" type="string" value="c45e91f4a9d72822"/>
-				</entry>
-				<entry key="height" type="number" value="1000"/>
-				<entry key="name" type="string" value="indoor"/>
-				<entry key="permanent" type="boolean" value="false"/>
-				<entry key="position" type="vector3" value="-899 -484 -130.001"/>
-				<entry key="prio" type="number" value="100"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="transition_time" type="number" value="2"/>
-				<entry key="type" type="string" value="box"/>
-				<entry key="width" type="number" value="1370"/>
-			</entry>
-			<entry index="5" type="table">
-				<entry key="bezier_curve" type="table">
-					<entry index="1" type="number" value="0"/>
-					<entry index="2" type="number" value="0"/>
-					<entry index="3" type="number" value="1"/>
-					<entry index="4" type="number" value="1"/>
-				</entry>
-				<entry key="depth" type="number" value="273"/>
-				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
-				<entry key="filter_list" type="table">
-					<entry index="1" type="string" value="ff4859e8e295618d"/>
-					<entry index="2" type="string" value="644be78b2651c798"/>
-					<entry index="3" type="string" value="c25af559c7e1d69c"/>
-					<entry index="4" type="string" value="ac403b8f792138ad"/>
-					<entry index="5" type="string" value="457904ce74fa1005"/>
-					<entry index="6" type="string" value="20458ffc6d388c0f"/>
-					<entry index="7" type="string" value="6fcd51beb559e85c"/>
-					<entry index="8" type="string" value="d3c16b0bb77370d4"/>
-					<entry index="9" type="string" value="fb725a62e7857072"/>
-					<entry index="10" type="string" value="312d3f85560b8f82"/>
-					<entry index="11" type="string" value="27a7f31e750d8169"/>
-					<entry index="12" type="string" value="c6b3fa02d5ee12b1"/>
-					<entry index="13" type="string" value="48b53ca3bf280008"/>
-					<entry index="14" type="string" value="6174ec93d0eeeacd"/>
-					<entry index="15" type="string" value="e36a12365a151b14"/>
-					<entry index="16" type="string" value="b5663c81d7db7310"/>
-					<entry index="17" type="string" value="36ab89d313fd9a9b"/>
-					<entry index="18" type="string" value="76078014daa529c8"/>
-					<entry index="19" type="string" value="13d7817215360151"/>
-					<entry index="20" type="string" value="35325076eb5a2684"/>
-					<entry index="21" type="string" value="002c8c522e139b16"/>
-					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
-					<entry index="23" type="string" value="c45e91f4a9d72822"/>
-				</entry>
-				<entry key="height" type="number" value="920"/>
-				<entry key="name" type="string" value="indoor"/>
-				<entry key="permanent" type="boolean" value="false"/>
-				<entry key="position" type="vector3" value="1225 -441 -130.001"/>
-				<entry key="prio" type="number" value="100"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="transition_time" type="number" value="2"/>
-				<entry key="type" type="string" value="box"/>
-				<entry key="width" type="number" value="1022"/>
-			</entry>
-			<entry index="6" type="table">
-				<entry key="bezier_curve" type="table">
-					<entry index="1" type="number" value="0"/>
-					<entry index="2" type="number" value="0"/>
-					<entry index="3" type="number" value="1"/>
-					<entry index="4" type="number" value="1"/>
-				</entry>
-				<entry key="depth" type="number" value="1300"/>
-				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
-				<entry key="filter_list" type="table">
-					<entry index="1" type="string" value="ff4859e8e295618d"/>
-					<entry index="2" type="string" value="644be78b2651c798"/>
-					<entry index="3" type="string" value="c25af559c7e1d69c"/>
-					<entry index="4" type="string" value="ac403b8f792138ad"/>
-					<entry index="5" type="string" value="457904ce74fa1005"/>
-					<entry index="6" type="string" value="20458ffc6d388c0f"/>
-					<entry index="7" type="string" value="6fcd51beb559e85c"/>
-					<entry index="8" type="string" value="d3c16b0bb77370d4"/>
-					<entry index="9" type="string" value="fb725a62e7857072"/>
-					<entry index="10" type="string" value="312d3f85560b8f82"/>
-					<entry index="11" type="string" value="27a7f31e750d8169"/>
-					<entry index="12" type="string" value="c6b3fa02d5ee12b1"/>
-					<entry index="13" type="string" value="48b53ca3bf280008"/>
-					<entry index="14" type="string" value="6174ec93d0eeeacd"/>
-					<entry index="15" type="string" value="e36a12365a151b14"/>
-					<entry index="16" type="string" value="b5663c81d7db7310"/>
-					<entry index="17" type="string" value="36ab89d313fd9a9b"/>
-					<entry index="18" type="string" value="76078014daa529c8"/>
-					<entry index="19" type="string" value="13d7817215360151"/>
-					<entry index="20" type="string" value="35325076eb5a2684"/>
-					<entry index="21" type="string" value="002c8c522e139b16"/>
-					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
-					<entry index="23" type="string" value="c45e91f4a9d72822"/>
-				</entry>
-				<entry key="height" type="number" value="980"/>
-				<entry key="name" type="string" value="indoor"/>
-				<entry key="permanent" type="boolean" value="false"/>
-				<entry key="position" type="vector3" value="470 704 -130.001"/>
-				<entry key="prio" type="number" value="100"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="transition_time" type="number" value="2"/>
-				<entry key="type" type="string" value="box"/>
-				<entry key="width" type="number" value="550"/>
 			</entry>
 			<entry index="7" type="table">
 				<entry key="bezier_curve" type="table">
@@ -2044,7 +2043,7 @@
 					<entry index="3" type="number" value="1"/>
 					<entry index="4" type="number" value="1"/>
 				</entry>
-				<entry key="depth" type="number" value="1100"/>
+				<entry key="depth" type="number" value="1300"/>
 				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
 				<entry key="filter_list" type="table">
 					<entry index="1" type="string" value="ff4859e8e295618d"/>
@@ -2071,15 +2070,15 @@
 					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
 					<entry index="23" type="string" value="c45e91f4a9d72822"/>
 				</entry>
-				<entry key="height" type="number" value="620"/>
+				<entry key="height" type="number" value="980"/>
 				<entry key="name" type="string" value="indoor"/>
 				<entry key="permanent" type="boolean" value="false"/>
-				<entry key="position" type="vector3" value="1210 729 -130.001"/>
+				<entry key="position" type="vector3" value="470 704 -130.001"/>
 				<entry key="prio" type="number" value="100"/>
 				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 				<entry key="transition_time" type="number" value="2"/>
 				<entry key="type" type="string" value="box"/>
-				<entry key="width" type="number" value="450"/>
+				<entry key="width" type="number" value="550"/>
 			</entry>
 			<entry index="9" type="table">
 				<entry key="bezier_curve" type="table">
@@ -2165,20 +2164,10 @@
 				<entry key="ids" type="table">
 					<entry index="100313" type="boolean" value="true"/>
 					<entry index="100314" type="boolean" value="true"/>
-					<entry index="100323" type="boolean" value="true"/>
-					<entry index="100324" type="boolean" value="true"/>
-					<entry index="100339" type="boolean" value="true"/>
-					<entry index="100340" type="boolean" value="true"/>
 					<entry index="100373" type="boolean" value="true"/>
-					<entry index="100374" type="boolean" value="true"/>
 					<entry index="100417" type="boolean" value="true"/>
-					<entry index="100470" type="boolean" value="true"/>
-					<entry index="100471" type="boolean" value="true"/>
-					<entry index="100472" type="boolean" value="true"/>
-					<entry index="100473" type="boolean" value="true"/>
 					<entry index="100477" type="boolean" value="true"/>
 					<entry index="100478" type="boolean" value="true"/>
-					<entry index="100479" type="boolean" value="true"/>
 					<entry index="100480" type="boolean" value="true"/>
 					<entry index="100483" type="boolean" value="true"/>
 					<entry index="100484" type="boolean" value="true"/>
@@ -2285,18 +2274,9 @@
 					<entry index="100862" type="boolean" value="true"/>
 					<entry index="100863" type="boolean" value="true"/>
 					<entry index="100919" type="boolean" value="true"/>
-					<entry index="100924" type="boolean" value="true"/>
-					<entry index="100925" type="boolean" value="true"/>
-					<entry index="100926" type="boolean" value="true"/>
-					<entry index="100927" type="boolean" value="true"/>
 					<entry index="100928" type="boolean" value="true"/>
 					<entry index="100929" type="boolean" value="true"/>
 					<entry index="100930" type="boolean" value="true"/>
-					<entry index="100993" type="boolean" value="true"/>
-					<entry index="100994" type="boolean" value="true"/>
-					<entry index="100995" type="boolean" value="true"/>
-					<entry index="100996" type="boolean" value="true"/>
-					<entry index="100997" type="boolean" value="true"/>
 					<entry index="100998" type="boolean" value="true"/>
 					<entry index="100999" type="boolean" value="true"/>
 					<entry index="101000" type="boolean" value="true"/>
@@ -2308,12 +2288,9 @@
 					<entry index="101007" type="boolean" value="true"/>
 					<entry index="101008" type="boolean" value="true"/>
 					<entry index="101009" type="boolean" value="true"/>
-					<entry index="101010" type="boolean" value="true"/>
-					<entry index="101011" type="boolean" value="true"/>
 					<entry index="101012" type="boolean" value="true"/>
 					<entry index="101013" type="boolean" value="true"/>
 					<entry index="101014" type="boolean" value="true"/>
-					<entry index="101015" type="boolean" value="true"/>
 					<entry index="101017" type="boolean" value="true"/>
 					<entry index="101021" type="boolean" value="true"/>
 					<entry index="101022" type="boolean" value="true"/>
@@ -2616,7 +2593,6 @@
 					<entry index="100073" type="boolean" value="true"/>
 					<entry index="100074" type="boolean" value="true"/>
 					<entry index="100075" type="boolean" value="true"/>
-					<entry index="100076" type="boolean" value="true"/>
 					<entry index="100077" type="boolean" value="true"/>
 					<entry index="100078" type="boolean" value="true"/>
 					<entry index="100079" type="boolean" value="true"/>
@@ -2627,14 +2603,12 @@
 					<entry index="100084" type="boolean" value="true"/>
 					<entry index="100085" type="boolean" value="true"/>
 					<entry index="100087" type="boolean" value="true"/>
-					<entry index="100088" type="boolean" value="true"/>
 					<entry index="100089" type="boolean" value="true"/>
 					<entry index="100090" type="boolean" value="true"/>
 					<entry index="100091" type="boolean" value="true"/>
 					<entry index="100092" type="boolean" value="true"/>
 					<entry index="100093" type="boolean" value="true"/>
 					<entry index="100094" type="boolean" value="true"/>
-					<entry index="100095" type="boolean" value="true"/>
 					<entry index="100096" type="boolean" value="true"/>
 					<entry index="100097" type="boolean" value="true"/>
 					<entry index="100098" type="boolean" value="true"/>
@@ -2807,21 +2781,15 @@
 					<entry index="100307" type="boolean" value="true"/>
 					<entry index="100308" type="boolean" value="true"/>
 					<entry index="100309" type="boolean" value="true"/>
-					<entry index="100310" type="boolean" value="true"/>
-					<entry index="100311" type="boolean" value="true"/>
-					<entry index="100312" type="boolean" value="true"/>
 					<entry index="100313" type="boolean" value="true"/>
 					<entry index="100314" type="boolean" value="true"/>
 					<entry index="100315" type="boolean" value="true"/>
-					<entry index="100316" type="boolean" value="true"/>
 					<entry index="100317" type="boolean" value="true"/>
 					<entry index="100318" type="boolean" value="true"/>
 					<entry index="100319" type="boolean" value="true"/>
 					<entry index="100320" type="boolean" value="true"/>
 					<entry index="100321" type="boolean" value="true"/>
 					<entry index="100322" type="boolean" value="true"/>
-					<entry index="100323" type="boolean" value="true"/>
-					<entry index="100324" type="boolean" value="true"/>
 					<entry index="100325" type="boolean" value="true"/>
 					<entry index="100326" type="boolean" value="true"/>
 					<entry index="100327" type="boolean" value="true"/>
@@ -2836,8 +2804,6 @@
 					<entry index="100336" type="boolean" value="true"/>
 					<entry index="100337" type="boolean" value="true"/>
 					<entry index="100338" type="boolean" value="true"/>
-					<entry index="100339" type="boolean" value="true"/>
-					<entry index="100340" type="boolean" value="true"/>
 					<entry index="100341" type="boolean" value="true"/>
 					<entry index="100342" type="boolean" value="true"/>
 					<entry index="100343" type="boolean" value="true"/>
@@ -2871,8 +2837,6 @@
 					<entry index="100371" type="boolean" value="true"/>
 					<entry index="100372" type="boolean" value="true"/>
 					<entry index="100373" type="boolean" value="true"/>
-					<entry index="100374" type="boolean" value="true"/>
-					<entry index="100375" type="boolean" value="true"/>
 					<entry index="100376" type="boolean" value="true"/>
 					<entry index="100377" type="boolean" value="true"/>
 					<entry index="100378" type="boolean" value="true"/>
@@ -2900,8 +2864,6 @@
 					<entry index="100409" type="boolean" value="true"/>
 					<entry index="100410" type="boolean" value="true"/>
 					<entry index="100411" type="boolean" value="true"/>
-					<entry index="100412" type="boolean" value="true"/>
-					<entry index="100413" type="boolean" value="true"/>
 					<entry index="100414" type="boolean" value="true"/>
 					<entry index="100415" type="boolean" value="true"/>
 					<entry index="100416" type="boolean" value="true"/>
@@ -2955,16 +2917,11 @@
 					<entry index="100467" type="boolean" value="true"/>
 					<entry index="100468" type="boolean" value="true"/>
 					<entry index="100469" type="boolean" value="true"/>
-					<entry index="100470" type="boolean" value="true"/>
-					<entry index="100471" type="boolean" value="true"/>
-					<entry index="100472" type="boolean" value="true"/>
-					<entry index="100473" type="boolean" value="true"/>
 					<entry index="100474" type="boolean" value="true"/>
 					<entry index="100475" type="boolean" value="true"/>
 					<entry index="100476" type="boolean" value="true"/>
 					<entry index="100477" type="boolean" value="true"/>
 					<entry index="100478" type="boolean" value="true"/>
-					<entry index="100479" type="boolean" value="true"/>
 					<entry index="100480" type="boolean" value="true"/>
 					<entry index="100481" type="boolean" value="true"/>
 					<entry index="100482" type="boolean" value="true"/>
@@ -3074,11 +3031,9 @@
 					<entry index="100590" type="boolean" value="true"/>
 					<entry index="100591" type="boolean" value="true"/>
 					<entry index="100592" type="boolean" value="true"/>
-					<entry index="100593" type="boolean" value="true"/>
 					<entry index="100594" type="boolean" value="true"/>
 					<entry index="100595" type="boolean" value="true"/>
 					<entry index="100596" type="boolean" value="true"/>
-					<entry index="100597" type="boolean" value="true"/>
 					<entry index="100598" type="boolean" value="true"/>
 					<entry index="100599" type="boolean" value="true"/>
 					<entry index="100600" type="boolean" value="true"/>
@@ -3095,7 +3050,6 @@
 					<entry index="100611" type="boolean" value="true"/>
 					<entry index="100612" type="boolean" value="true"/>
 					<entry index="100613" type="boolean" value="true"/>
-					<entry index="100614" type="boolean" value="true"/>
 					<entry index="100615" type="boolean" value="true"/>
 					<entry index="100616" type="boolean" value="true"/>
 					<entry index="100617" type="boolean" value="true"/>
@@ -3125,7 +3079,6 @@
 					<entry index="100641" type="boolean" value="true"/>
 					<entry index="100642" type="boolean" value="true"/>
 					<entry index="100643" type="boolean" value="true"/>
-					<entry index="100644" type="boolean" value="true"/>
 					<entry index="100645" type="boolean" value="true"/>
 					<entry index="100646" type="boolean" value="true"/>
 					<entry index="100647" type="boolean" value="true"/>
@@ -3219,12 +3172,8 @@
 					<entry index="100735" type="boolean" value="true"/>
 					<entry index="100736" type="boolean" value="true"/>
 					<entry index="100737" type="boolean" value="true"/>
-					<entry index="100738" type="boolean" value="true"/>
-					<entry index="100739" type="boolean" value="true"/>
 					<entry index="100740" type="boolean" value="true"/>
 					<entry index="100741" type="boolean" value="true"/>
-					<entry index="100742" type="boolean" value="true"/>
-					<entry index="100743" type="boolean" value="true"/>
 					<entry index="100744" type="boolean" value="true"/>
 					<entry index="100745" type="boolean" value="true"/>
 					<entry index="100746" type="boolean" value="true"/>
@@ -3234,8 +3183,6 @@
 					<entry index="100750" type="boolean" value="true"/>
 					<entry index="100751" type="boolean" value="true"/>
 					<entry index="100752" type="boolean" value="true"/>
-					<entry index="100753" type="boolean" value="true"/>
-					<entry index="100754" type="boolean" value="true"/>
 					<entry index="100755" type="boolean" value="true"/>
 					<entry index="100756" type="boolean" value="true"/>
 					<entry index="100757" type="boolean" value="true"/>
@@ -3260,8 +3207,6 @@
 					<entry index="100776" type="boolean" value="true"/>
 					<entry index="100777" type="boolean" value="true"/>
 					<entry index="100778" type="boolean" value="true"/>
-					<entry index="100779" type="boolean" value="true"/>
-					<entry index="100780" type="boolean" value="true"/>
 					<entry index="100781" type="boolean" value="true"/>
 					<entry index="100782" type="boolean" value="true"/>
 					<entry index="100783" type="boolean" value="true"/>
@@ -3275,7 +3220,6 @@
 					<entry index="100791" type="boolean" value="true"/>
 					<entry index="100792" type="boolean" value="true"/>
 					<entry index="100793" type="boolean" value="true"/>
-					<entry index="100794" type="boolean" value="true"/>
 					<entry index="100795" type="boolean" value="true"/>
 					<entry index="100796" type="boolean" value="true"/>
 					<entry index="100797" type="boolean" value="true"/>
@@ -3332,9 +3276,6 @@
 					<entry index="100861" type="boolean" value="true"/>
 					<entry index="100862" type="boolean" value="true"/>
 					<entry index="100863" type="boolean" value="true"/>
-					<entry index="100864" type="boolean" value="true"/>
-					<entry index="100865" type="boolean" value="true"/>
-					<entry index="100866" type="boolean" value="true"/>
 					<entry index="100867" type="boolean" value="true"/>
 					<entry index="100868" type="boolean" value="true"/>
 					<entry index="100869" type="boolean" value="true"/>
@@ -3350,8 +3291,6 @@
 					<entry index="100879" type="boolean" value="true"/>
 					<entry index="100880" type="boolean" value="true"/>
 					<entry index="100881" type="boolean" value="true"/>
-					<entry index="100882" type="boolean" value="true"/>
-					<entry index="100883" type="boolean" value="true"/>
 					<entry index="100884" type="boolean" value="true"/>
 					<entry index="100885" type="boolean" value="true"/>
 					<entry index="100886" type="boolean" value="true"/>
@@ -3361,7 +3300,6 @@
 					<entry index="100890" type="boolean" value="true"/>
 					<entry index="100891" type="boolean" value="true"/>
 					<entry index="100892" type="boolean" value="true"/>
-					<entry index="100893" type="boolean" value="true"/>
 					<entry index="100894" type="boolean" value="true"/>
 					<entry index="100895" type="boolean" value="true"/>
 					<entry index="100896" type="boolean" value="true"/>
@@ -3388,21 +3326,12 @@
 					<entry index="100917" type="boolean" value="true"/>
 					<entry index="100918" type="boolean" value="true"/>
 					<entry index="100919" type="boolean" value="true"/>
-					<entry index="100920" type="boolean" value="true"/>
-					<entry index="100921" type="boolean" value="true"/>
-					<entry index="100922" type="boolean" value="true"/>
-					<entry index="100923" type="boolean" value="true"/>
-					<entry index="100924" type="boolean" value="true"/>
-					<entry index="100925" type="boolean" value="true"/>
-					<entry index="100926" type="boolean" value="true"/>
-					<entry index="100927" type="boolean" value="true"/>
 					<entry index="100928" type="boolean" value="true"/>
 					<entry index="100929" type="boolean" value="true"/>
 					<entry index="100930" type="boolean" value="true"/>
 					<entry index="100931" type="boolean" value="true"/>
 					<entry index="100932" type="boolean" value="true"/>
 					<entry index="100933" type="boolean" value="true"/>
-					<entry index="100934" type="boolean" value="true"/>
 					<entry index="100954" type="boolean" value="true"/>
 					<entry index="100955" type="boolean" value="true"/>
 					<entry index="100957" type="boolean" value="true"/>
@@ -3441,11 +3370,6 @@
 					<entry index="100990" type="boolean" value="true"/>
 					<entry index="100991" type="boolean" value="true"/>
 					<entry index="100992" type="boolean" value="true"/>
-					<entry index="100993" type="boolean" value="true"/>
-					<entry index="100994" type="boolean" value="true"/>
-					<entry index="100995" type="boolean" value="true"/>
-					<entry index="100996" type="boolean" value="true"/>
-					<entry index="100997" type="boolean" value="true"/>
 					<entry index="100998" type="boolean" value="true"/>
 					<entry index="100999" type="boolean" value="true"/>
 					<entry index="101000" type="boolean" value="true"/>
@@ -3458,12 +3382,9 @@
 					<entry index="101007" type="boolean" value="true"/>
 					<entry index="101008" type="boolean" value="true"/>
 					<entry index="101009" type="boolean" value="true"/>
-					<entry index="101010" type="boolean" value="true"/>
-					<entry index="101011" type="boolean" value="true"/>
 					<entry index="101012" type="boolean" value="true"/>
 					<entry index="101013" type="boolean" value="true"/>
 					<entry index="101014" type="boolean" value="true"/>
-					<entry index="101015" type="boolean" value="true"/>
 					<entry index="101016" type="boolean" value="true"/>
 					<entry index="101017" type="boolean" value="true"/>
 					<entry index="101018" type="boolean" value="true"/>
@@ -3511,7 +3432,6 @@
 					<entry index="101080" type="boolean" value="true"/>
 					<entry index="101081" type="boolean" value="true"/>
 					<entry index="101082" type="boolean" value="true"/>
-					<entry index="101083" type="boolean" value="true"/>
 					<entry index="101084" type="boolean" value="true"/>
 					<entry index="101085" type="boolean" value="true"/>
 					<entry index="101086" type="boolean" value="true"/>
