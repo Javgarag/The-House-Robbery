@@ -4938,19 +4938,14 @@
 		<sequence_manager path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
 		<unit path="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large"/>
 	</add>
-	<add from_db="true" path="units/dev_tools/level_tools/door_blocker/door_blocker_4x1" type="unit">
-		<material_config path="core/material_configs/hub_elements"/>
-		<object path="units/dev_tools/level_tools/door_blocker/door_blocker_4x1"/>
-		<unit path="units/dev_tools/level_tools/door_blocker/door_blocker_4x1"/>
-	</add>
 	<add from_db="true" path="units/payday2/architecture/str/str_ext_sidewalk_2x2m_a" type="unit">
 		<material_config path="units/payday2/architecture/str/str_road"/>
 		<object path="units/payday2/architecture/str/str_ext_sidewalk_2x2m_a"/>
 		<unit path="units/payday2/architecture/str/str_ext_sidewalk_2x2m_a"/>
 	</add>
 	<add from_db="true" path="units/payday2/architecture/str/str_ext_sidewalk_4x4m_a" type="unit">
-		<unit path="units/payday2/architecture/str/str_ext_sidewalk_4x4m_a"/>
-		<object path="units/payday2/architecture/str/str_ext_sidewalk_4x4m_a"/>
 		<material_config path="units/payday2/architecture/str/str_road"/>
+		<object path="units/payday2/architecture/str/str_ext_sidewalk_4x4m_a"/>
+		<unit path="units/payday2/architecture/str/str_ext_sidewalk_4x4m_a"/>
 	</add>
 </table>

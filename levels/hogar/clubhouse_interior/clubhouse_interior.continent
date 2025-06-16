@@ -764,7 +764,7 @@
 			<unit_data _prev_pos="2230 -639 -0.00025177" _prev_rot="0 0 -0.156435 -0.987688" _visibility_counter="0" continent="clubhouse_interior" disable_collision="false" disable_on_ai_graph="false" disable_shadows="false" hide_on_projection_light="false" local_pos="1346.2 639.801 -0.00025177" local_rot="0 0 0.809017 0.587785" name="units/payday2/props/air_prop_hangar_toolbox/air_prop_hangar_toolbox" name_id="air_prop_hangar_toolbox_002" position="2230 -639 -0.00025177" rotation="0 0 -0.156435 -0.987688" unit_id="300360"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="2045.43 124.086 502.587" _prev_rot="-0.495413 0.767321 -0.342276 0.220525" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_off" name="units/payday2/props/com_prop_store_spotlight/com_prop_store_spot_light_b_1" name_id="com_prop_store_spot_light_b_1_003" position="2045.43 124.086 502.587" rotation="-0.495416 0.767319 -0.342278 0.220524" unit_id="300363"/>
+			<unit_data _prev_pos="2045.43 124.086 502.587" _prev_rot="-0.495416 0.767319 -0.342278 0.220524" _visibility_counter="0" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_off" name="units/payday2/props/com_prop_store_spotlight/com_prop_store_spot_light_b_1" name_id="com_prop_store_spot_light_b_1_003" position="2045.43 124.086 502.587" rotation="-0.495416 0.767319 -0.342278 0.220524" unit_id="300363"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="1518.5 725 681" _prev_rot="0 0 0.707107 -0.707107" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_born/architecture/bor_clubhouse/bor_prop_club_window_small" name_id="bor_prop_club_window_small_001" position="1518.5 725 681" rotation="0 0 0.707107 -0.707107" unit_id="300364"/>
@@ -1207,7 +1207,7 @@
 			<unit_data _prev_pos="1895.66 -400.133 500" _prev_rot="0 0 -0.798636 -0.601815" continent="clubhouse_interior" local_pos="-668.34 442.867 391.5" local_rot="0 0 0.798636 0.601815" name="units/pd2_dlc_flat/props/flt_prop_cover_cardboardbox/flt_cover_cardboardbox" name_id="flt_cover_cardboardbox_006" position="1895.66 -400.133 500" rotation="0 0 -0.798636 -0.601815" unit_id="300520"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1631 -403 500" _prev_rot="0 0 0.130526 -0.991445" continent="clubhouse_interior" local_pos="-933 440 391.5" local_rot="0 0 -0.130526 0.991445" mesh_variation="light_off" name="units/pd2_mcmansion/props/mcm_prop_livingroom_lamp_floor/mcm_prop_livingroom_lamp_floor" name_id="mcm_prop_livingroom_lamp_floor_002" position="1631 -403 500" rotation="0 0 0.130526 -0.991445" unit_id="300521">
+			<unit_data _prev_pos="1631 -403 500" _prev_rot="0 0 0.130526 -0.991445" _visibility_counter="0" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="light_off" name="units/pd2_mcmansion/props/mcm_prop_livingroom_lamp_floor/mcm_prop_livingroom_lamp_floor" name_id="mcm_prop_livingroom_lamp_floor_002" position="1631 -403 500" rotation="0 0 0.130526 -0.991445" unit_id="300521">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="4" far_range="350" multiplier="@ID18ceffa252d5a43d@" name="li_floor_lamp" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
 				</lights>
@@ -1691,9 +1691,9 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-275 350 420" _prev_rot="0 -0 -0.707107 -0.707107" continent="clubhouse_interior" disable_shadows="true" hide_on_projection_light="true" local_pos="-475 0 0" local_rot="-0 0 0 1" mesh_variation="unbreakable_light_off" name="units/payday2/props/res_prop_kitchen_lamp_hanging_a_worn_grime/res_prop_kitchen_lamp_hanging_a_worn_grime" name_id="res_prop_kitchen_lamp_hanging_a_worn_grime_003" position="-275 350 420" rotation="0 0 -0.707107 -0.707107" unit_id="300559">
+			<unit_data _prev_pos="-275 350 420" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="clubhouse_interior" disable_shadows="true" hide_on_projection_light="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="unbreakable_light_off" name="units/payday2/props/res_prop_kitchen_lamp_hanging_a_worn_grime/res_prop_kitchen_lamp_hanging_a_worn_grime" name_id="res_prop_kitchen_lamp_hanging_a_worn_grime_003" position="-275 350 420" rotation="0 0 -0.707107 -0.707107" unit_id="300559">
 				<lights>
-					<table clipping_values="10000 -10000 0" color="1 0.501961 0.247059" enabled="true" falloff_exponent="4" far_range="100" multiplier="@ID8c34304230e70372@" name="li_hanging_lamp" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 0.501961 0.247059" enabled="false" falloff_exponent="4" far_range="100" multiplier="@ID8c34304230e70372@" name="li_hanging_lamp" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
 				</lights>
 			</unit_data>
 		</table>
