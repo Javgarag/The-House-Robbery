@@ -426,7 +426,7 @@
 			<unit_data _prev_pos="988 1869 99.9557" _prev_rot="0 0 0.707107 -0.707107" continent="clubhouse_interior" instance_data="false" local_pos="-58 0 0" local_rot="0 0 0 1" name="units/world/props/office/filecabinet/prop_filecabinet_01" name_id="prop_filecabinet_01_008" position="988 1878 99.9557" rotation="0 0 0.707107 -0.707107" unit_id="300206"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="734.995 1559.69 501" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="clubhouse_interior" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_election_table/com_prop_election_table" name_id="com_prop_election_table_003" position="734.995 1559.69 501" rotation="-0 0 -0 -1" unit_id="300214"/>
+			<unit_data _prev_pos="734.995 1559.69 501" _prev_rot="-0 0 -0 -1" _visibility_counter="0" continent="clubhouse_interior" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/com_prop_election_table/com_prop_election_table" name_id="com_prop_election_table_003" position="734.995 1559.69 501" rotation="-0 0 -0 -1" unit_id="300214"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="701 1570 575.15" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="clubhouse_interior" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_interaction_enabled" name="units/payday2/props/gen_prop_security_console/gen_prop_security_console" name_id="gen_prop_security_console_001" position="701 1570 575.15" rotation="0 0 0.707107 -0.707107" unit_id="300215"/>
@@ -955,7 +955,7 @@
 			<unit_data _prev_pos="524 1947 577" _prev_rot="0 0 -0.0436198 -0.999048" continent="clubhouse_interior" local_pos="-66.2821 -30.6053 0" local_rot="0 0 0.25038 0.968148" name="units/pd2_dlc_dah/props/dah_prop_keyboard/dah_prop_keyboard" name_id="dah_prop_keyboard_001" position="521 1947 577" rotation="0 0 -0.0436198 -0.999048" unit_id="300430"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="710.107 1465.58 502" _prev_rot="0 0 0.887011 0.461749" _visibility_counter="0" continent="clubhouse_interior" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_officehigh_chair/off_prop_officehigh_chair_standard_black" name_id="off_prop_officehigh_chair_standard_black_001" position="710.107 1465.58 502" rotation="0 0 0.887011 0.461749" unit_id="300431"/>
+			<unit_data _prev_pos="710.107 1465.58 502" _prev_rot="0 0 0.887011 0.461748" _visibility_counter="0" continent="clubhouse_interior" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/off_prop_officehigh_chair/off_prop_officehigh_chair_standard_black" name_id="off_prop_officehigh_chair_standard_black_001" position="710.107 1465.58 502" rotation="0 0 0.887011 0.461748" unit_id="300431"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="652 1922 502" _prev_rot="0 0 -0.707107 -0.707107" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_security_servers/gen_prop_security_server_hightech" name_id="gen_prop_security_server_hightech_001" position="652 1827 502" rotation="0 0 -0.707107 -0.707107" unit_id="300432"/>
