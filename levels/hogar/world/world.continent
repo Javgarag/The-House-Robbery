@@ -6255,9 +6255,6 @@
 			<unit_data _prev_pos="1415 1031 333.502" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="15 0 15.0352" local_rot="0 0 0 1" name="units/world/props/office/airconditioner/airconditioner_01" name_id="airconditioner_01_002" position="1416 1031 333.502" rotation="0 0 0.707107 -0.707107" unit_id="101797"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="829 651 500" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/door_blocker/door_blocker" name_id="door_blocker_001" only_visible_in_editor="true" position="829 643 500" rotation="0 0 0 -1" unit_id="101726"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="834 742 560.176" _prev_rot="-0 0 -0 -1" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/payday2/equipment/gen_interactable_lance_large/gen_interactable_lance_large" name_id="thermal_drill" position="834 742 560.176" rotation="-0 0 -0 -1" unit_id="101727"/>
 		</table>
 		<table>
@@ -6559,6 +6556,9 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-385.335 3436.08 -34.039" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_vehicle_sedan" name_id="dev_door_blocker_vehicle_sedan_005" only_visible_in_editor="true" position="-385.335 3436.08 -34.039" rotation="0 0 -0.707107 -0.707107" unit_id="101110"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="783 618 500" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_1x1x3" name_id="dev_door_blocker_1x1x3_007" only_visible_in_editor="true" position="783 618 500" rotation="-0 0 -0 -1" unit_id="101120"/>
 		</table>
 	</statics>
 	<values>
