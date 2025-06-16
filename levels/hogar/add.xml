@@ -4948,4 +4948,9 @@
 		<object path="units/payday2/architecture/str/str_ext_sidewalk_4x4m_a"/>
 		<unit path="units/payday2/architecture/str/str_ext_sidewalk_4x4m_a"/>
 	</add>
+	<add from_db="true" path="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_vehicle_sedan" type="unit">
+		<unit path="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_vehicle_sedan"/>
+		<object path="units/dev_tools/level_tools/dev_door_blocker/dev_door_blocker_vehicle_sedan"/>
+		<material_config path="core/material_configs/hub_elements"/>
+	</add>
 </table>

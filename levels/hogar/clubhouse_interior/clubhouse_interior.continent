@@ -1307,9 +1307,6 @@
 			<unit_data _prev_pos="1229.61 -1053 0.380005" _prev_rot="0 0 0.317305 -0.948324" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/survivalist/cardboard_box/cardboard_box03" name_id="cardboard_box03_003" position="1229.61 -1053 0.380005" rotation="0 0 0.317305 -0.948324" unit_id="300133"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="410 2383 -1.00002" _prev_rot="-0.0431678 -0.0431678 0.705788 -0.705788" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/str_vehicle_motorcycle_chopper/str_vehicle_motorcycle_chopper" name_id="str_vehicle_motorcycle_chopper_003" position="410 2383 -1.00002" rotation="-0.0431678 -0.0431678 0.705788 -0.705788" unit_id="300135"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="389 1578 3.72529e-007" _prev_rot="7.65509e-008 -0.061049 4.68206e-009 -0.998135" continent="clubhouse_interior" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/str_vehicle_motorcycle_chopper/str_vehicle_motorcycle_chopper" name_id="str_vehicle_motorcycle_chopper_004" position="389 1578 -6.10352e-005" rotation="7.65509e-008 -0.061049 4.68206e-009 -0.998135" unit_id="300136"/>
 		</table>
 		<table>
@@ -1601,7 +1598,7 @@
 			<unit_data _prev_pos="1011.06 -126.056 506" _prev_rot="-5.1817e-008 1.41413e-008 0.997564 -0.0697569" continent="clubhouse_interior" disable_on_ai_graph="true" disable_shadows="true" local_pos="0 0 0" local_rot="-0 0 0 1" name="units/world/props/office/chair/office_chair_briefing" name_id="office_chair_briefing_007" position="1011.06 -126.056 506" rotation="-0 0 0.997564 -0.0697564" unit_id="300120"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="1011.9 -131.998 500" _prev_rot="-5.1817e-008 1.41413e-008 0.997564 -0.0697569" continent="clubhouse_interior" disable_on_ai_graph="true" disable_shadows="true" local_pos="7.23004e-005 6.0004 -6" local_rot="0 0 -7.45058e-009 1" name="units/world/props/office/chair/office_chair_briefing" name_id="office_chair_briefing_006" position="1011.9 -131.998 500" rotation="0 0 0.997564 -0.0697564" unit_id="300121"/>
+			<unit_data _prev_pos="1011.9 -131.998 500" _prev_rot="-5.1817e-008 1.41413e-008 0.997564 -0.0697569" continent="clubhouse_interior" disable_on_ai_graph="true" disable_shadows="true" local_pos="7.23004e-005 6.0004 -6" local_rot="0 0 -7.45058e-009 1" name="units/world/props/office/chair/office_chair_briefing" name_id="office_chair_briefing_006" position="1011.9 -131.998 500" rotation="-0 0 0.997564 -0.0697564" unit_id="300121"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="795.895 -165.999 646" _prev_rot="4.47034e-008 2.98023e-008 -0.707107 -0.707107" continent="clubhouse_interior" disable_shadows="true" local_pos="0 0 0" local_rot="-0 0 0 1" name="units/world/props/shelfs/shelf_wall_single_2m" name_id="shelf_wall_single_2m_005" position="795.895 -165.999 646" rotation="4.47034e-008 2.98023e-008 -0.707107 -0.707107" unit_id="300294"/>
