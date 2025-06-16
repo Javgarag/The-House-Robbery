@@ -60558,7 +60558,7 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="counter_target" type="number" value="4"/>
+					<entry key="counter_target" type="number" value="3"/>
 					<entry key="digital_gui_unit_ids" type="table">
 					</entry>
 					<entry key="enabled" type="boolean" value="true"/>
