@@ -534,15 +534,14 @@
 				</entry>
 			</entry>
 			<entry key="unit_data" type="table">
-				<entry key="_prev_pos" type="vector3" value="2400 3425 -19.9991"/>
+				<entry key="_prev_pos" type="vector3" value="2425 3150 -19.85"/>
 				<entry key="_prev_rot" type="quaternion" value="0 0 0 -1"/>
 				<entry key="continent" type="string" value="world"/>
-				<entry key="instance_data" type="boolean" value="false"/>
 				<entry key="local_pos" type="vector3" value="0 0 0"/>
 				<entry key="local_rot" type="quaternion" value="0 0 0 1"/>
 				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
 				<entry key="name_id" type="string" value="nav_surface_024"/>
-				<entry key="position" type="vector3" value="2400 3425 -19.9991"/>
+				<entry key="position" type="vector3" value="2425 3150 -19.85"/>
 				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 				<entry key="unit_id" type="number" value="23"/>
 			</entry>
@@ -606,30 +605,6 @@
 				</entry>
 			</entry>
 			<entry key="unit_data" type="table">
-				<entry key="_prev_pos" type="vector3" value="2900 4975 4.61936e-005"/>
-				<entry key="_prev_rot" type="quaternion" value="0 0 0 -1"/>
-				<entry key="continent" type="string" value="world"/>
-				<entry key="instance_data" type="boolean" value="false"/>
-				<entry key="local_pos" type="vector3" value="0 0 0"/>
-				<entry key="local_rot" type="quaternion" value="0 0 0 1"/>
-				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
-				<entry key="name_id" type="string" value="nav_surface_027"/>
-				<entry key="position" type="vector3" value="2900 4975 4.61936e-005"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="26"/>
-			</entry>
-		</entry>
-		<entry index="27" type="table">
-			<entry key="ai_editor_data" type="table">
-				<entry key="detection_mul" type="number" value="1"/>
-				<entry key="location_id" type="string" value="location_unknown"/>
-				<entry key="suspicion_mul" type="number" value="1"/>
-				<entry key="visibilty_exlude_filter" type="table">
-				</entry>
-				<entry key="visibilty_include_filter" type="table">
-				</entry>
-			</entry>
-			<entry key="unit_data" type="table">
 				<entry key="_prev_pos" type="vector3" value="-525 -1375 3.72529e-007"/>
 				<entry key="_prev_rot" type="quaternion" value="0 0 0 -1"/>
 				<entry key="continent" type="string" value="world"/>
@@ -643,7 +618,7 @@
 				<entry key="unit_id" type="number" value="28"/>
 			</entry>
 		</entry>
-		<entry index="28" type="table">
+		<entry index="27" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -666,7 +641,7 @@
 				<entry key="unit_id" type="number" value="30"/>
 			</entry>
 		</entry>
-		<entry index="29" type="table">
+		<entry index="28" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -689,7 +664,7 @@
 				<entry key="unit_id" type="number" value="31"/>
 			</entry>
 		</entry>
-		<entry index="30" type="table">
+		<entry index="29" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -712,7 +687,7 @@
 				<entry key="unit_id" type="number" value="32"/>
 			</entry>
 		</entry>
-		<entry index="31" type="table">
+		<entry index="30" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -736,7 +711,7 @@
 				<entry key="unit_id" type="number" value="27"/>
 			</entry>
 		</entry>
-		<entry index="32" type="table">
+		<entry index="31" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -760,7 +735,7 @@
 				<entry key="unit_id" type="number" value="34"/>
 			</entry>
 		</entry>
-		<entry index="33" type="table">
+		<entry index="32" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -784,7 +759,7 @@
 				<entry key="unit_id" type="number" value="36"/>
 			</entry>
 		</entry>
-		<entry index="34" type="table">
+		<entry index="33" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -808,7 +783,7 @@
 				<entry key="unit_id" type="number" value="37"/>
 			</entry>
 		</entry>
-		<entry index="35" type="table">
+		<entry index="34" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -832,7 +807,7 @@
 				<entry key="unit_id" type="number" value="38"/>
 			</entry>
 		</entry>
-		<entry index="36" type="table">
+		<entry index="35" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -856,7 +831,7 @@
 				<entry key="unit_id" type="number" value="39"/>
 			</entry>
 		</entry>
-		<entry index="37" type="table">
+		<entry index="36" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -880,7 +855,7 @@
 				<entry key="unit_id" type="number" value="40"/>
 			</entry>
 		</entry>
-		<entry index="38" type="table">
+		<entry index="37" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -904,7 +879,7 @@
 				<entry key="unit_id" type="number" value="41"/>
 			</entry>
 		</entry>
-		<entry index="39" type="table">
+		<entry index="38" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -928,7 +903,7 @@
 				<entry key="unit_id" type="number" value="42"/>
 			</entry>
 		</entry>
-		<entry index="40" type="table">
+		<entry index="39" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -952,7 +927,7 @@
 				<entry key="unit_id" type="number" value="43"/>
 			</entry>
 		</entry>
-		<entry index="41" type="table">
+		<entry index="40" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -976,7 +951,7 @@
 				<entry key="unit_id" type="number" value="44"/>
 			</entry>
 		</entry>
-		<entry index="42" type="table">
+		<entry index="41" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1000,7 +975,7 @@
 				<entry key="unit_id" type="number" value="45"/>
 			</entry>
 		</entry>
-		<entry index="43" type="table">
+		<entry index="42" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1024,7 +999,7 @@
 				<entry key="unit_id" type="number" value="46"/>
 			</entry>
 		</entry>
-		<entry index="44" type="table">
+		<entry index="43" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1048,7 +1023,7 @@
 				<entry key="unit_id" type="number" value="47"/>
 			</entry>
 		</entry>
-		<entry index="45" type="table">
+		<entry index="44" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1072,7 +1047,7 @@
 				<entry key="unit_id" type="number" value="48"/>
 			</entry>
 		</entry>
-		<entry index="46" type="table">
+		<entry index="45" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1096,7 +1071,7 @@
 				<entry key="unit_id" type="number" value="49"/>
 			</entry>
 		</entry>
-		<entry index="47" type="table">
+		<entry index="46" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1120,7 +1095,7 @@
 				<entry key="unit_id" type="number" value="50"/>
 			</entry>
 		</entry>
-		<entry index="48" type="table">
+		<entry index="47" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1144,7 +1119,7 @@
 				<entry key="unit_id" type="number" value="51"/>
 			</entry>
 		</entry>
-		<entry index="49" type="table">
+		<entry index="48" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1168,7 +1143,7 @@
 				<entry key="unit_id" type="number" value="52"/>
 			</entry>
 		</entry>
-		<entry index="50" type="table">
+		<entry index="49" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1192,7 +1167,7 @@
 				<entry key="unit_id" type="number" value="53"/>
 			</entry>
 		</entry>
-		<entry index="51" type="table">
+		<entry index="50" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1216,7 +1191,7 @@
 				<entry key="unit_id" type="number" value="54"/>
 			</entry>
 		</entry>
-		<entry index="52" type="table">
+		<entry index="51" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1240,7 +1215,7 @@
 				<entry key="unit_id" type="number" value="55"/>
 			</entry>
 		</entry>
-		<entry index="53" type="table">
+		<entry index="52" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1264,7 +1239,7 @@
 				<entry key="unit_id" type="number" value="56"/>
 			</entry>
 		</entry>
-		<entry index="54" type="table">
+		<entry index="53" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1288,7 +1263,7 @@
 				<entry key="unit_id" type="number" value="57"/>
 			</entry>
 		</entry>
-		<entry index="55" type="table">
+		<entry index="54" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1312,7 +1287,7 @@
 				<entry key="unit_id" type="number" value="58"/>
 			</entry>
 		</entry>
-		<entry index="56" type="table">
+		<entry index="55" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1336,7 +1311,7 @@
 				<entry key="unit_id" type="number" value="59"/>
 			</entry>
 		</entry>
-		<entry index="57" type="table">
+		<entry index="56" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1360,7 +1335,7 @@
 				<entry key="unit_id" type="number" value="60"/>
 			</entry>
 		</entry>
-		<entry index="58" type="table">
+		<entry index="57" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1383,7 +1358,7 @@
 				<entry key="unit_id" type="number" value="61"/>
 			</entry>
 		</entry>
-		<entry index="59" type="table">
+		<entry index="58" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1407,7 +1382,7 @@
 				<entry key="unit_id" type="number" value="62"/>
 			</entry>
 		</entry>
-		<entry index="60" type="table">
+		<entry index="59" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1430,7 +1405,7 @@
 				<entry key="unit_id" type="number" value="63"/>
 			</entry>
 		</entry>
-		<entry index="61" type="table">
+		<entry index="60" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1453,7 +1428,7 @@
 				<entry key="unit_id" type="number" value="29"/>
 			</entry>
 		</entry>
-		<entry index="62" type="table">
+		<entry index="61" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1476,7 +1451,7 @@
 				<entry key="unit_id" type="number" value="64"/>
 			</entry>
 		</entry>
-		<entry index="63" type="table">
+		<entry index="62" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1499,7 +1474,7 @@
 				<entry key="unit_id" type="number" value="65"/>
 			</entry>
 		</entry>
-		<entry index="64" type="table">
+		<entry index="63" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1522,7 +1497,7 @@
 				<entry key="unit_id" type="number" value="66"/>
 			</entry>
 		</entry>
-		<entry index="65" type="table">
+		<entry index="64" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1545,7 +1520,7 @@
 				<entry key="unit_id" type="number" value="68"/>
 			</entry>
 		</entry>
-		<entry index="66" type="table">
+		<entry index="65" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1568,7 +1543,7 @@
 				<entry key="unit_id" type="number" value="69"/>
 			</entry>
 		</entry>
-		<entry index="67" type="table">
+		<entry index="66" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1591,7 +1566,7 @@
 				<entry key="unit_id" type="number" value="15"/>
 			</entry>
 		</entry>
-		<entry index="68" type="table">
+		<entry index="67" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1753,94 +1728,6 @@
 					<entry index="3" type="number" value="1"/>
 					<entry index="4" type="number" value="1"/>
 				</entry>
-				<entry key="depth" type="number" value="1300"/>
-				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
-				<entry key="filter_list" type="table">
-					<entry index="1" type="string" value="ff4859e8e295618d"/>
-					<entry index="2" type="string" value="644be78b2651c798"/>
-					<entry index="3" type="string" value="c25af559c7e1d69c"/>
-					<entry index="4" type="string" value="ac403b8f792138ad"/>
-					<entry index="5" type="string" value="457904ce74fa1005"/>
-					<entry index="6" type="string" value="20458ffc6d388c0f"/>
-					<entry index="7" type="string" value="6fcd51beb559e85c"/>
-					<entry index="8" type="string" value="d3c16b0bb77370d4"/>
-					<entry index="9" type="string" value="fb725a62e7857072"/>
-					<entry index="10" type="string" value="312d3f85560b8f82"/>
-					<entry index="11" type="string" value="27a7f31e750d8169"/>
-					<entry index="12" type="string" value="c6b3fa02d5ee12b1"/>
-					<entry index="13" type="string" value="48b53ca3bf280008"/>
-					<entry index="14" type="string" value="6174ec93d0eeeacd"/>
-					<entry index="15" type="string" value="e36a12365a151b14"/>
-					<entry index="16" type="string" value="b5663c81d7db7310"/>
-					<entry index="17" type="string" value="36ab89d313fd9a9b"/>
-					<entry index="18" type="string" value="76078014daa529c8"/>
-					<entry index="19" type="string" value="13d7817215360151"/>
-					<entry index="20" type="string" value="35325076eb5a2684"/>
-					<entry index="21" type="string" value="002c8c522e139b16"/>
-					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
-					<entry index="23" type="string" value="c45e91f4a9d72822"/>
-				</entry>
-				<entry key="height" type="number" value="980"/>
-				<entry key="name" type="string" value="indoor"/>
-				<entry key="permanent" type="boolean" value="false"/>
-				<entry key="position" type="vector3" value="470 704 -130.001"/>
-				<entry key="prio" type="number" value="100"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="transition_time" type="number" value="2"/>
-				<entry key="type" type="string" value="box"/>
-				<entry key="width" type="number" value="550"/>
-			</entry>
-			<entry index="3" type="table">
-				<entry key="bezier_curve" type="table">
-					<entry index="1" type="number" value="0"/>
-					<entry index="2" type="number" value="0"/>
-					<entry index="3" type="number" value="1"/>
-					<entry index="4" type="number" value="1"/>
-				</entry>
-				<entry key="depth" type="number" value="1500"/>
-				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
-				<entry key="filter_list" type="table">
-					<entry index="1" type="string" value="ff4859e8e295618d"/>
-					<entry index="2" type="string" value="644be78b2651c798"/>
-					<entry index="3" type="string" value="c25af559c7e1d69c"/>
-					<entry index="4" type="string" value="ac403b8f792138ad"/>
-					<entry index="5" type="string" value="457904ce74fa1005"/>
-					<entry index="6" type="string" value="20458ffc6d388c0f"/>
-					<entry index="7" type="string" value="6fcd51beb559e85c"/>
-					<entry index="8" type="string" value="d3c16b0bb77370d4"/>
-					<entry index="9" type="string" value="fb725a62e7857072"/>
-					<entry index="10" type="string" value="312d3f85560b8f82"/>
-					<entry index="11" type="string" value="27a7f31e750d8169"/>
-					<entry index="12" type="string" value="c6b3fa02d5ee12b1"/>
-					<entry index="13" type="string" value="48b53ca3bf280008"/>
-					<entry index="14" type="string" value="6174ec93d0eeeacd"/>
-					<entry index="15" type="string" value="e36a12365a151b14"/>
-					<entry index="16" type="string" value="b5663c81d7db7310"/>
-					<entry index="17" type="string" value="36ab89d313fd9a9b"/>
-					<entry index="18" type="string" value="76078014daa529c8"/>
-					<entry index="19" type="string" value="13d7817215360151"/>
-					<entry index="20" type="string" value="35325076eb5a2684"/>
-					<entry index="21" type="string" value="002c8c522e139b16"/>
-					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
-					<entry index="23" type="string" value="c45e91f4a9d72822"/>
-				</entry>
-				<entry key="height" type="number" value="1000"/>
-				<entry key="name" type="string" value="indoor"/>
-				<entry key="permanent" type="boolean" value="false"/>
-				<entry key="position" type="vector3" value="-899 -484 -130.001"/>
-				<entry key="prio" type="number" value="100"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="transition_time" type="number" value="2"/>
-				<entry key="type" type="string" value="box"/>
-				<entry key="width" type="number" value="1370"/>
-			</entry>
-			<entry index="4" type="table">
-				<entry key="bezier_curve" type="table">
-					<entry index="1" type="number" value="0"/>
-					<entry index="2" type="number" value="0"/>
-					<entry index="3" type="number" value="1"/>
-					<entry index="4" type="number" value="1"/>
-				</entry>
 				<entry key="depth" type="number" value="273"/>
 				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
 				<entry key="filter_list" type="table">
@@ -1878,51 +1765,7 @@
 				<entry key="type" type="string" value="box"/>
 				<entry key="width" type="number" value="1022"/>
 			</entry>
-			<entry index="5" type="table">
-				<entry key="bezier_curve" type="table">
-					<entry index="1" type="number" value="0"/>
-					<entry index="2" type="number" value="0"/>
-					<entry index="3" type="number" value="1"/>
-					<entry index="4" type="number" value="1"/>
-				</entry>
-				<entry key="depth" type="number" value="730"/>
-				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
-				<entry key="filter_list" type="table">
-					<entry index="1" type="string" value="ff4859e8e295618d"/>
-					<entry index="2" type="string" value="644be78b2651c798"/>
-					<entry index="3" type="string" value="c25af559c7e1d69c"/>
-					<entry index="4" type="string" value="ac403b8f792138ad"/>
-					<entry index="5" type="string" value="457904ce74fa1005"/>
-					<entry index="6" type="string" value="20458ffc6d388c0f"/>
-					<entry index="7" type="string" value="6fcd51beb559e85c"/>
-					<entry index="8" type="string" value="d3c16b0bb77370d4"/>
-					<entry index="9" type="string" value="fb725a62e7857072"/>
-					<entry index="10" type="string" value="312d3f85560b8f82"/>
-					<entry index="11" type="string" value="27a7f31e750d8169"/>
-					<entry index="12" type="string" value="c6b3fa02d5ee12b1"/>
-					<entry index="13" type="string" value="48b53ca3bf280008"/>
-					<entry index="14" type="string" value="6174ec93d0eeeacd"/>
-					<entry index="15" type="string" value="e36a12365a151b14"/>
-					<entry index="16" type="string" value="b5663c81d7db7310"/>
-					<entry index="17" type="string" value="36ab89d313fd9a9b"/>
-					<entry index="18" type="string" value="76078014daa529c8"/>
-					<entry index="19" type="string" value="13d7817215360151"/>
-					<entry index="20" type="string" value="35325076eb5a2684"/>
-					<entry index="21" type="string" value="002c8c522e139b16"/>
-					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
-					<entry index="23" type="string" value="c45e91f4a9d72822"/>
-				</entry>
-				<entry key="height" type="number" value="620"/>
-				<entry key="name" type="string" value="indoor"/>
-				<entry key="permanent" type="boolean" value="false"/>
-				<entry key="position" type="vector3" value="1265 1099 -130.001"/>
-				<entry key="prio" type="number" value="100"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="transition_time" type="number" value="2"/>
-				<entry key="type" type="string" value="box"/>
-				<entry key="width" type="number" value="450"/>
-			</entry>
-			<entry index="6" type="table">
+			<entry index="3" type="table">
 				<entry key="bezier_curve" type="table">
 					<entry index="1" type="number" value="0"/>
 					<entry index="2" type="number" value="0"/>
@@ -1960,6 +1803,151 @@
 				<entry key="name" type="string" value="indoor"/>
 				<entry key="permanent" type="boolean" value="false"/>
 				<entry key="position" type="vector3" value="1210 729 -130.001"/>
+				<entry key="prio" type="number" value="100"/>
+				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+				<entry key="transition_time" type="number" value="2"/>
+				<entry key="type" type="string" value="box"/>
+				<entry key="width" type="number" value="450"/>
+			</entry>
+			<entry index="4" type="table">
+				<entry key="bezier_curve" type="table">
+					<entry index="1" type="number" value="0"/>
+					<entry index="2" type="number" value="0"/>
+					<entry index="3" type="number" value="1"/>
+					<entry index="4" type="number" value="1"/>
+				</entry>
+				<entry key="depth" type="number" value="800"/>
+				<entry key="environment" type="string" value="environments/pd2_env_born_indoor_bar/pd2_env_born_indoor_bar"/>
+				<entry key="filter_list" type="table">
+					<entry index="1" type="string" value="ff4859e8e295618d"/>
+					<entry index="2" type="string" value="e28023331e7afdb8"/>
+					<entry index="3" type="string" value="ac403b8f792138ad"/>
+					<entry index="4" type="string" value="20458ffc6d388c0f"/>
+					<entry index="5" type="string" value="002c8c522e139b16"/>
+					<entry index="6" type="string" value="13d7817215360151"/>
+					<entry index="7" type="string" value="36ab89d313fd9a9b"/>
+					<entry index="8" type="string" value="8bf59a7608e6a6b6"/>
+					<entry index="9" type="string" value="6174ec93d0eeeacd"/>
+					<entry index="10" type="string" value="c6b3fa02d5ee12b1"/>
+					<entry index="11" type="string" value="fb96a0addd59b018"/>
+					<entry index="12" type="string" value="cee9c44e4f1ef6e2"/>
+					<entry index="13" type="string" value="644be78b2651c798"/>
+					<entry index="14" type="string" value="c25af559c7e1d69c"/>
+					<entry index="15" type="string" value="457904ce74fa1005"/>
+					<entry index="16" type="string" value="cd0d63956c019dc0"/>
+					<entry index="17" type="string" value="6fcd51beb559e85c"/>
+					<entry index="18" type="string" value="d3c16b0bb77370d4"/>
+					<entry index="19" type="string" value="ebf20811155c397f"/>
+					<entry index="20" type="string" value="fb725a62e7857072"/>
+					<entry index="21" type="string" value="c827955ef583d8ce"/>
+					<entry index="22" type="string" value="8dbb65cb47c5f02c"/>
+					<entry index="23" type="string" value="27a7f31e750d8169"/>
+					<entry index="24" type="string" value="c268ed7c690ba2b7"/>
+					<entry index="25" type="string" value="afe6ca3736a42b0b"/>
+					<entry index="26" type="string" value="e36a12365a151b14"/>
+					<entry index="27" type="string" value="79632d2b8dab1c23"/>
+					<entry index="28" type="string" value="cfd999417e8eb72d"/>
+					<entry index="29" type="string" value="b5663c81d7db7310"/>
+					<entry index="30" type="string" value="35325076eb5a2684"/>
+					<entry index="31" type="string" value="48b53ca3bf280008"/>
+					<entry index="32" type="string" value="312d3f85560b8f82"/>
+					<entry index="33" type="string" value="76078014daa529c8"/>
+					<entry index="34" type="string" value="c45e91f4a9d72822"/>
+					<entry index="35" type="string" value="72c5ffc46ab06e53"/>
+					<entry index="36" type="string" value="130a2f3cd964c1ec"/>
+				</entry>
+				<entry key="height" type="number" value="350"/>
+				<entry key="name" type="string" value="secretarea_02"/>
+				<entry key="permanent" type="boolean" value="false"/>
+				<entry key="position" type="vector3" value="1217 -194 494"/>
+				<entry key="prio" type="number" value="100"/>
+				<entry key="rotation" type="quaternion" value="0 0 1 4.37114e-008"/>
+				<entry key="transition_time" type="number" value="1"/>
+				<entry key="type" type="string" value="box"/>
+				<entry key="width" type="number" value="400"/>
+			</entry>
+			<entry index="5" type="table">
+				<entry key="bezier_curve" type="table">
+					<entry index="1" type="number" value="0"/>
+					<entry index="2" type="number" value="0"/>
+					<entry index="3" type="number" value="1"/>
+					<entry index="4" type="number" value="1"/>
+				</entry>
+				<entry key="depth" type="number" value="1300"/>
+				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
+				<entry key="filter_list" type="table">
+					<entry index="1" type="string" value="ff4859e8e295618d"/>
+					<entry index="2" type="string" value="644be78b2651c798"/>
+					<entry index="3" type="string" value="c25af559c7e1d69c"/>
+					<entry index="4" type="string" value="ac403b8f792138ad"/>
+					<entry index="5" type="string" value="457904ce74fa1005"/>
+					<entry index="6" type="string" value="20458ffc6d388c0f"/>
+					<entry index="7" type="string" value="6fcd51beb559e85c"/>
+					<entry index="8" type="string" value="d3c16b0bb77370d4"/>
+					<entry index="9" type="string" value="fb725a62e7857072"/>
+					<entry index="10" type="string" value="312d3f85560b8f82"/>
+					<entry index="11" type="string" value="27a7f31e750d8169"/>
+					<entry index="12" type="string" value="c6b3fa02d5ee12b1"/>
+					<entry index="13" type="string" value="48b53ca3bf280008"/>
+					<entry index="14" type="string" value="6174ec93d0eeeacd"/>
+					<entry index="15" type="string" value="e36a12365a151b14"/>
+					<entry index="16" type="string" value="b5663c81d7db7310"/>
+					<entry index="17" type="string" value="36ab89d313fd9a9b"/>
+					<entry index="18" type="string" value="76078014daa529c8"/>
+					<entry index="19" type="string" value="13d7817215360151"/>
+					<entry index="20" type="string" value="35325076eb5a2684"/>
+					<entry index="21" type="string" value="002c8c522e139b16"/>
+					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
+					<entry index="23" type="string" value="c45e91f4a9d72822"/>
+				</entry>
+				<entry key="height" type="number" value="980"/>
+				<entry key="name" type="string" value="indoor"/>
+				<entry key="permanent" type="boolean" value="false"/>
+				<entry key="position" type="vector3" value="470 704 -130.001"/>
+				<entry key="prio" type="number" value="100"/>
+				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+				<entry key="transition_time" type="number" value="2"/>
+				<entry key="type" type="string" value="box"/>
+				<entry key="width" type="number" value="550"/>
+			</entry>
+			<entry index="6" type="table">
+				<entry key="bezier_curve" type="table">
+					<entry index="1" type="number" value="0"/>
+					<entry index="2" type="number" value="0"/>
+					<entry index="3" type="number" value="1"/>
+					<entry index="4" type="number" value="1"/>
+				</entry>
+				<entry key="depth" type="number" value="730"/>
+				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
+				<entry key="filter_list" type="table">
+					<entry index="1" type="string" value="ff4859e8e295618d"/>
+					<entry index="2" type="string" value="644be78b2651c798"/>
+					<entry index="3" type="string" value="c25af559c7e1d69c"/>
+					<entry index="4" type="string" value="ac403b8f792138ad"/>
+					<entry index="5" type="string" value="457904ce74fa1005"/>
+					<entry index="6" type="string" value="20458ffc6d388c0f"/>
+					<entry index="7" type="string" value="6fcd51beb559e85c"/>
+					<entry index="8" type="string" value="d3c16b0bb77370d4"/>
+					<entry index="9" type="string" value="fb725a62e7857072"/>
+					<entry index="10" type="string" value="312d3f85560b8f82"/>
+					<entry index="11" type="string" value="27a7f31e750d8169"/>
+					<entry index="12" type="string" value="c6b3fa02d5ee12b1"/>
+					<entry index="13" type="string" value="48b53ca3bf280008"/>
+					<entry index="14" type="string" value="6174ec93d0eeeacd"/>
+					<entry index="15" type="string" value="e36a12365a151b14"/>
+					<entry index="16" type="string" value="b5663c81d7db7310"/>
+					<entry index="17" type="string" value="36ab89d313fd9a9b"/>
+					<entry index="18" type="string" value="76078014daa529c8"/>
+					<entry index="19" type="string" value="13d7817215360151"/>
+					<entry index="20" type="string" value="35325076eb5a2684"/>
+					<entry index="21" type="string" value="002c8c522e139b16"/>
+					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
+					<entry index="23" type="string" value="c45e91f4a9d72822"/>
+				</entry>
+				<entry key="height" type="number" value="620"/>
+				<entry key="name" type="string" value="indoor"/>
+				<entry key="permanent" type="boolean" value="false"/>
+				<entry key="position" type="vector3" value="1265 1099 -130.001"/>
 				<entry key="prio" type="number" value="100"/>
 				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 				<entry key="transition_time" type="number" value="2"/>
@@ -2017,55 +2005,42 @@
 					<entry index="3" type="number" value="1"/>
 					<entry index="4" type="number" value="1"/>
 				</entry>
-				<entry key="depth" type="number" value="800"/>
-				<entry key="environment" type="string" value="environments/pd2_env_born_indoor_bar/pd2_env_born_indoor_bar"/>
+				<entry key="depth" type="number" value="1500"/>
+				<entry key="environment" type="string" value=".map/environments/env_hogar_inside"/>
 				<entry key="filter_list" type="table">
 					<entry index="1" type="string" value="ff4859e8e295618d"/>
-					<entry index="2" type="string" value="e28023331e7afdb8"/>
-					<entry index="3" type="string" value="ac403b8f792138ad"/>
-					<entry index="4" type="string" value="20458ffc6d388c0f"/>
-					<entry index="5" type="string" value="002c8c522e139b16"/>
-					<entry index="6" type="string" value="13d7817215360151"/>
-					<entry index="7" type="string" value="36ab89d313fd9a9b"/>
-					<entry index="8" type="string" value="8bf59a7608e6a6b6"/>
-					<entry index="9" type="string" value="6174ec93d0eeeacd"/>
-					<entry index="10" type="string" value="c6b3fa02d5ee12b1"/>
-					<entry index="11" type="string" value="fb96a0addd59b018"/>
-					<entry index="12" type="string" value="cee9c44e4f1ef6e2"/>
-					<entry index="13" type="string" value="644be78b2651c798"/>
-					<entry index="14" type="string" value="c25af559c7e1d69c"/>
-					<entry index="15" type="string" value="457904ce74fa1005"/>
-					<entry index="16" type="string" value="cd0d63956c019dc0"/>
-					<entry index="17" type="string" value="6fcd51beb559e85c"/>
-					<entry index="18" type="string" value="d3c16b0bb77370d4"/>
-					<entry index="19" type="string" value="ebf20811155c397f"/>
-					<entry index="20" type="string" value="fb725a62e7857072"/>
-					<entry index="21" type="string" value="c827955ef583d8ce"/>
-					<entry index="22" type="string" value="8dbb65cb47c5f02c"/>
-					<entry index="23" type="string" value="27a7f31e750d8169"/>
-					<entry index="24" type="string" value="c268ed7c690ba2b7"/>
-					<entry index="25" type="string" value="afe6ca3736a42b0b"/>
-					<entry index="26" type="string" value="e36a12365a151b14"/>
-					<entry index="27" type="string" value="79632d2b8dab1c23"/>
-					<entry index="28" type="string" value="cfd999417e8eb72d"/>
-					<entry index="29" type="string" value="b5663c81d7db7310"/>
-					<entry index="30" type="string" value="35325076eb5a2684"/>
-					<entry index="31" type="string" value="48b53ca3bf280008"/>
-					<entry index="32" type="string" value="312d3f85560b8f82"/>
-					<entry index="33" type="string" value="76078014daa529c8"/>
-					<entry index="34" type="string" value="c45e91f4a9d72822"/>
-					<entry index="35" type="string" value="72c5ffc46ab06e53"/>
-					<entry index="36" type="string" value="130a2f3cd964c1ec"/>
+					<entry index="2" type="string" value="644be78b2651c798"/>
+					<entry index="3" type="string" value="c25af559c7e1d69c"/>
+					<entry index="4" type="string" value="ac403b8f792138ad"/>
+					<entry index="5" type="string" value="457904ce74fa1005"/>
+					<entry index="6" type="string" value="20458ffc6d388c0f"/>
+					<entry index="7" type="string" value="6fcd51beb559e85c"/>
+					<entry index="8" type="string" value="d3c16b0bb77370d4"/>
+					<entry index="9" type="string" value="fb725a62e7857072"/>
+					<entry index="10" type="string" value="312d3f85560b8f82"/>
+					<entry index="11" type="string" value="27a7f31e750d8169"/>
+					<entry index="12" type="string" value="c6b3fa02d5ee12b1"/>
+					<entry index="13" type="string" value="48b53ca3bf280008"/>
+					<entry index="14" type="string" value="6174ec93d0eeeacd"/>
+					<entry index="15" type="string" value="e36a12365a151b14"/>
+					<entry index="16" type="string" value="b5663c81d7db7310"/>
+					<entry index="17" type="string" value="36ab89d313fd9a9b"/>
+					<entry index="18" type="string" value="76078014daa529c8"/>
+					<entry index="19" type="string" value="13d7817215360151"/>
+					<entry index="20" type="string" value="35325076eb5a2684"/>
+					<entry index="21" type="string" value="002c8c522e139b16"/>
+					<entry index="22" type="string" value="72c5ffc46ab06e53"/>
+					<entry index="23" type="string" value="c45e91f4a9d72822"/>
 				</entry>
-				<entry key="height" type="number" value="350"/>
-				<entry key="name" type="string" value="secretarea_02"/>
+				<entry key="height" type="number" value="1000"/>
+				<entry key="name" type="string" value="indoor"/>
 				<entry key="permanent" type="boolean" value="false"/>
-				<entry key="position" type="vector3" value="1217 -194 494"/>
+				<entry key="position" type="vector3" value="-899 -484 -130.001"/>
 				<entry key="prio" type="number" value="100"/>
-				<entry key="rotation" type="quaternion" value="0 0 1 4.37114e-008"/>
-				<entry key="transition_time" type="number" value="1"/>
+				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
+				<entry key="transition_time" type="number" value="2"/>
 				<entry key="type" type="string" value="box"/>
-				<entry key="width" type="number" value="400"/>
+				<entry key="width" type="number" value="1370"/>
 			</entry>
 			<entry index="9" type="table">
 				<entry key="bezier_curve" type="table">
@@ -2480,7 +2455,6 @@
 					<entry index="23" type="boolean" value="true"/>
 					<entry index="24" type="boolean" value="true"/>
 					<entry index="25" type="boolean" value="true"/>
-					<entry index="26" type="boolean" value="true"/>
 					<entry index="27" type="boolean" value="true"/>
 					<entry index="28" type="boolean" value="true"/>
 					<entry index="29" type="boolean" value="true"/>
