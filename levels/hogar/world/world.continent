@@ -3778,7 +3778,7 @@
 			<unit_data _prev_pos="874.947 -2220.27 67.1971" _prev_rot="-0.694115 0.134922 0.134922 -0.694115" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_chill/props/chl_prop_ecm_jammer/chl_prop_ecm_jammer" name_id="chl_prop_ecm_jammer_002" position="874.947 -2220.27 67.1971" rotation="-0.694115 -0.134922 -0.134922 -0.694115" unit_id="101632"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="941 -2225 67.1971" _prev_rot="0 0 0.995396 -0.0958456" continent="world" instance_data="false" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb" name_id="laptop_marcmb_001" position="942.526 -2232.85 67.1971" rotation="0 0 0.995396 -0.0958456" unit_id="101633"/>
+			<unit_data _prev_pos="942.526 -2232.85 67.1971" _prev_rot="0 0 0.995396 -0.0958456" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb" name_id="laptop_marcmb_001" position="942.526 -2232.85 67.1971" rotation="0 0 0.995396 -0.0958456" unit_id="101633"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="513 1606 619.884" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_5" name="units/payday2/props/gen_interactable_panel_keycard/gen_interactable_panel_keycard" name_id="gen_interactable_panel_keycard_003" position="513 1606 619.884" rotation="0 0 1 -4.37114e-008" unit_id="101634"/>

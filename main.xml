@@ -77,7 +77,6 @@
 		<texture force="true" path="textures/assets/asset_zipline"/>
 		<texture force="true" path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb_df"/>
 		<texture force="true" path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb_il"/>
-		<texture force="true" path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb_nm"/>
 		<texture force="true" path="units/pd2_mod_hogar/props/hogar_prop_int_turkey_head/hogar_prop_int_turkey_head_df"/>
 		<texture force="true" path="units/pd2_mod_hogar/pickups/hogar_pickup_code_note/hogar_pickup_code_note_df"/>
 	</AddFiles>

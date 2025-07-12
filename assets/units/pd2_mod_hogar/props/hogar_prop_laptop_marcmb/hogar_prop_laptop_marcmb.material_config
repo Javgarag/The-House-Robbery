@@ -3,6 +3,6 @@
         <diffuse_texture file="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb_df"/>
         <self_illumination_texture file="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb_il"/>
         <variable value="monitor" type="scalar" name="il_multiplier"/>
-        <bump_normal_texture file="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb_nm"/>
+        <bump_normal_texture file="units/payday2/equipment/gen_interactable_laptop/gen_interactable_laptop_nm"/>
     </material>
 </materials>
