@@ -95,11 +95,11 @@
 		<object path="units/pd2_mod_hogar/architecture/hogar_ext_wall_hole/hogar_ext_wall_hole"/>
 		<unit path="units/pd2_mod_hogar/architecture/hogar_ext_wall_hole/hogar_ext_wall_hole"/>
 	</add>
-	<add path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb" type="unit">
-		<material_config path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb"/>
-		<model path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb"/>
-		<object path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb"/>
-		<unit path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb"/>
+	<add path="units/pd2_mod_hogar/props/hogar_prop_laptop_rushing/hogar_prop_laptop_rushing" type="unit">
+		<material_config path="units/pd2_mod_hogar/props/hogar_prop_laptop_rushing/hogar_prop_laptop_rushing"/>
+		<model path="units/pd2_mod_hogar/props/hogar_prop_laptop_rushing/hogar_prop_laptop_rushing"/>
+		<object path="units/pd2_mod_hogar/props/hogar_prop_laptop_rushing/hogar_prop_laptop_rushing"/>
+		<unit path="units/pd2_mod_hogar/props/hogar_prop_laptop_rushing/hogar_prop_laptop_rushing"/>
 	</add>
 	<add path="units/pd2_mod_hogar/architecture/hogar_ext_clubhouse/hogar_ext_clubhouse" type="unit">
 		<material_config path="units/pd2_mod_hogar/architecture/hogar_ext_clubhouse/hogar_ext_clubhouse"/>

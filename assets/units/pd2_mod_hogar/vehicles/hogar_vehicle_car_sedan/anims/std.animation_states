@@ -20,7 +20,7 @@
 		</keys>
 	</state>
 
-	<state name="std/drive/hogar_vehicle_car_sedan_arrive" type="once" segment="base" speed="0.8">
+	<state name="std/drive/hogar_vehicle_car_sedan_arrive" type="once" segment="base" speed="1">
 		<anim name="anim_car_hogar_arrive"/>
 		<exit name="std/empty"/>
 	</state>	

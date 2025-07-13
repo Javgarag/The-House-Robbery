@@ -75,12 +75,12 @@
 		<texture force="true" path="textures/waypoints/wrong_code"/>
 		<texture force="true" path="textures/assets/asset_ladder"/>
 		<texture force="true" path="textures/assets/asset_zipline"/>
-		<texture force="true" path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb_df"/>
-		<texture force="true" path="units/pd2_mod_hogar/props/hogar_prop_laptop_marcmb/hogar_prop_laptop_marcmb_il"/>
+		<texture force="true" path="units/pd2_mod_hogar/props/hogar_prop_laptop_rushing/hogar_prop_laptop_rushing_df"/>
+		<texture force="true" path="units/pd2_mod_hogar/props/hogar_prop_laptop_rushing/hogar_prop_laptop_rushing_il"/>
 		<texture force="true" path="units/pd2_mod_hogar/props/hogar_prop_int_turkey_head/hogar_prop_int_turkey_head_df"/>
 		<texture force="true" path="units/pd2_mod_hogar/pickups/hogar_pickup_code_note/hogar_pickup_code_note_df"/>
 	</AddFiles>
-	<AssetUpdates id="45238" provider="modworkshop" use_local_dir="true" version="v1.4.0"/>
+	<AssetUpdates id="45238" provider="modworkshop" use_local_dir="true" version="v1.5.0"/>
 	<Elements directory="elements">
 		<element name="FourDigitCodeRandomizer"/>
 	</Elements>

@@ -101,7 +101,7 @@
 			<object name="c_win_rear_r" collision_type="convex" two_sided="true" />
 		</body>
 
-		<body name="body_win_front" enabled="true" template="window">
+		<body name="body_win_front" enabled="true" template="window" keyframed="true">
 			<object name="anim_body" />
 			<object name="c_win_front" collision_type="convex" two_sided="true" />
 		</body>
