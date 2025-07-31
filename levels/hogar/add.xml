@@ -4816,7 +4816,6 @@
 	</add>
 	<add from_db="true" path="units/pd2_dlc_born/characters/ene_biker_female_3/ene_biker_female_3" type="unit">
 		<unit path="units/pd2_dlc_born/characters/ene_biker_female_3/ene_biker_female_3"/>
-		<object path="units/pd2_dlc_born/characters/ene_biker_female_3/ene_biker_female_3"/>
 		<animation path="anims/shared/rifle/generic/death_money_var1"/>
 		<animation path="anims/shared/rifle/generic/death_money_var3"/>
 		<animation path="anims/shared/rifle/generic/death_money_var5"/>
@@ -4831,5 +4830,6 @@
 		<animation path="anims/shared/boss/tank/cbt_std_shoot"/>
 		<animation path="anims/shared/unarmed/neutral/cm_so_sand_fall"/>
 		<unit load="true" path="units/pd2_dlc_born/characters/ene_biker_female_3/ene_biker_female_3_husk"/>
+		<object path="units/pd2_dlc_born/characters/ene_biker_female_3/ene_biker_female_3"/>
 	</add>
 </table>
