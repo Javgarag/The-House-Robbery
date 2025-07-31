@@ -156,6 +156,13 @@
 		<texture path="units/pd2_mod_pdm/props/grapple_point/gui_grapple_hook"/>
 		<unit path="units/pd2_mod_pdm/props/grapple_point/grapple_point"/>
 	</add>
-	<bnk from_db="true" path="soundbanks/npc_biker_thugs"/>
+	
+	<bnk from_db="true" path="soundbanks/job_b_csbank" load="true"/>
+	<bnk from_db="true" path="soundbanks/job_e_chew_stage1" load="true"/>
+	<bnk from_db="true" path="soundbanks/accomplice_heli_1" load="true"/>
+	<bnk from_db="true" path="soundbanks/npc_megaphone_police" load="true"/>
+	<bnk from_db="true" path="soundbanks/weapon_turret" load="true"/>
+	<bnk from_db="true" path="soundbanks/npc_biker_thugs" load="true"/>
+	
 	<movie path="movies/hogar_video_tv"/>
 </table>

@@ -1,1 +1,9 @@
-<table directory="assets"/>
+<table directory="assets">
+	<add from_db="true" path="units/payday2/vehicles/air_vehicle_blackhawk/vehicle_blackhawk" type="unit">
+		<unit path="units/payday2/vehicles/air_vehicle_blackhawk/vehicle_blackhawk"/>
+		<object path="units/payday2/vehicles/air_vehicle_blackhawk/vehicle_blackhawk"/>
+		<cooked_physics path="units/payday2/vehicles/air_vehicle_blackhawk/vehicle_blackhawk"/>
+		<sequence_manager path="units/payday2/vehicles/air_vehicle_blackhawk/vehicle_blackhawk"/>
+		<material_config path="units/payday2/props/dest_glass/glass_shatter"/>
+	</add>
+</table>

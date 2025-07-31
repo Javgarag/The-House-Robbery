@@ -1,1 +1,23 @@
-<table directory="assets"/>
+<table directory="assets">
+	<add from_db="true" path="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button" type="unit">
+		<unit path="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button"/>
+		<object path="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button"/>
+		<sequence_manager path="units/pd2_dlc_casino/props/cas_prop_keypad/cas_prop_button"/>
+	</add>
+	<add from_db="true" path="core/units/light_omni/light_omni" type="unit">
+		<object path="core/units/light_omni/light_omni"/>
+		<material_config path="core/material_configs/hub_elements"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_tag/props/tag_prop_keypad/tag_prop_keypad" type="unit">
+		<unit path="units/pd2_dlc_tag/props/tag_prop_keypad/tag_prop_keypad"/>
+		<object path="units/pd2_dlc_tag/props/tag_prop_keypad/tag_prop_keypad"/>
+		<material_config path="units/pd2_dlc_tag/props/tag_prop_keypad/tag_prop_keypad"/>
+		<sequence_manager path="units/pd2_dlc_tag/props/tag_prop_keypad/tag_prop_keypad"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon" type="unit">
+		<unit path="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon"/>
+		<object path="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon"/>
+		<material_config path="units/pd2_dlc_arena/props/editable_text_caslon/editable_text_caslon"/>
+		<font path="fonts/font_caslon"/>
+	</add>
+</table>
