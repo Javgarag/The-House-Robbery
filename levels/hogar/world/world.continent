@@ -5969,7 +5969,7 @@
 			<unit_data _prev_pos="1039 733 773.455" _prev_rot="0 0 0 -1" continent="world" local_pos="-25 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_1x1m" name_id="dev_bag_collision_1x1m_015" only_visible_in_editor="true" position="1039 733 798.455" rotation="0 0 0 -1" unit_id="101362"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="833 741 542" _prev_rot="0 0 1 -4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_rvd/props/rvd_prop_crowbar_icon/rvd_prop_crowbar_icon" name_id="rvd_prop_crowbar_icon_001" position="833 741 543" rotation="0 0 1 4.37114e-008" unit_id="100811"/>
+			<unit_data _prev_pos="833 741 543" _prev_rot="0 0 1 4.37114e-008" _visibility_counter="0" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_rvd/props/rvd_prop_crowbar_icon/rvd_prop_crowbar_icon" name_id="rvd_prop_crowbar_icon_001" position="833 741 543" rotation="0 0 1 -4.37114e-008" unit_id="100811"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="839 718 532" _prev_rot="-0.269104 0.0596589 -0.208055 -0.938476" _visibility_counter="0" continent="world" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="disable_interaction" name="units/payday2/pickups/gen_pku_crowbar/gen_pku_crowbar" name_id="gen_pku_crowbar_007" position="839 718 532" rotation="-0.269104 0.0596567 -0.208051 -0.938477" unit_id="101363"/>
